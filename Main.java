@@ -21,5 +21,6 @@ public class Main
         // todo: make the thread pool
         
         // Create tasks to randomly select.
+        // todo: task that involves adding then immediately removing
     }
 }
