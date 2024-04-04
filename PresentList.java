@@ -3,6 +3,7 @@
 import java.io.PrintWriter;
 import java.io.File;
 import java.util.ArrayList;
+import java.util.HashSet; // todo delete
 import java.util.Random;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.locks.ReentrantLock;
@@ -25,6 +26,7 @@ public class PresentList
     // todo delete
     private final boolean DEBUGGING = false;
     private ReentrantLock printListLock;
+    public HashSet<Integer> processed;
 
     // Task for servants to repeat.
     class ServantsTask implements Runnable
@@ -35,7 +37,7 @@ public class PresentList
                 int pres = getPresentToAdd();
                 if (add(pres)) {
                     if (usingPrinter) {
-                        printer.write("Added present " + pres + " to the list.\n");
+                        printer.println("Added present " + pres + " to the list.");
                     }
                     else {
                         System.out.println("Added present " + pres + " to the list.");
@@ -43,17 +45,20 @@ public class PresentList
 
                     if (remove(pres)) {
                         if (usingPrinter) {
-                            printer.write("Wrote thank you note for present " + pres + ".\n");
+                            printer.println("Wrote thank you note for present " + pres + ".");
                         }
                         else {
                             System.out.println("Wrote thank you note for present " + pres + ".");
                         }
+                        addGuy(pres);
                     }
                 }
-
-                if (presentBag.size() == 20) {
-                    printer.flush();
+                else {
+                    System.out.println("bad");
+                    presentBag.add(pres);
                 }
+
+                if (presentBag.size() < 1000 && usingPrinter) printer.flush();
             }
 
             if (DEBUGGING) System.out.println("Thread " + Thread.currentThread().getId() + " signing out");
@@ -69,11 +74,10 @@ public class PresentList
 
         // Fill the present bag with all the presents.
         presentBag = new ArrayList<>();
-        for (int i = 0; i < PRESENTS; i++)
+        for (int i = 1; i <= PRESENTS; i++)
         {
             presentBag.add(i);
         }
-        if (DEBUGGING) System.out.println("bag size: " + presentBag.size());
 
         usingPrinter = true;
         try {
@@ -83,17 +87,22 @@ public class PresentList
             usingPrinter = false;
         }
         printListLock = new ReentrantLock();
+        processed = new HashSet<>();
     }
 
     // Begin thread processes.
     public void beginServants(ExecutorService servants, int numServants) {
         long start = System.nanoTime();
         for (int i = 1; i <= numServants; i++) {
-            if (DEBUGGING) System.out.println("Submitting a task");
             servants.submit(new ServantsTask());
         }
         long end = System.nanoTime();
-        System.out.println("Problem 1 finished in " + ((end - start) / NANO_TO_SEC) + " seconds.");
+        System.out.println("Problem 1 finished in " + ((end - start)) + " nanoseconds.");
+    }
+
+    // todo delete
+    private synchronized void addGuy(int guy) {
+        processed.add(guy);
     }
 
     // Get a present id from the bag.
@@ -114,24 +123,24 @@ public class PresentList
         long tId = Thread.currentThread().getId();
         if (DEBUGGING) System.out.println("Thread " + tId + " trying to add " + presId);
         head.lock();
-        if (DEBUGGING)
-            System.out.println("Thread " + tId + " locked " + head.id);
+        // if (DEBUGGING)
+            // System.out.println("Thread " + tId + " locked " + head.id);
         PNode pred = head;
         try {
             PNode cur = pred.next;
             cur.lock();
-            if (DEBUGGING)
-                System.out.println("Thread " + tId + " locked " + cur.id);
+            // if (DEBUGGING)
+                // System.out.println("Thread " + tId + " locked " + cur.id);
             try {
                 while (cur.id < presId) {
                     pred.unlock();
-                    if (DEBUGGING)
-                        System.out.println("Thread " + tId + " unlocked " + pred.id);
+                    // if (DEBUGGING)
+                        // System.out.println("Thread " + tId + " unlocked " + pred.id);
                     pred = cur;
                     cur = cur.next;
                     cur.lock();
-                    if (DEBUGGING)
-                        System.out.println("Thread " + tId + " locked " + cur.id);
+                    // if (DEBUGGING)
+                        // System.out.println("Thread " + tId + " locked " + cur.id);
                 }
                 if (cur.id == presId) {
                     if (DEBUGGING) System.out.println("\tAttempt to add " + presId + " failed");
@@ -144,14 +153,14 @@ public class PresentList
             }
             finally {
                 cur.unlock();
-                if (DEBUGGING)
-                    System.out.println("Thread " + tId + " unlocked " + cur.id);
+                // if (DEBUGGING)
+                    // System.out.println("Thread " + tId + " unlocked " + cur.id);
             }
         }
         finally {
             pred.unlock();
-            if (DEBUGGING)
-                System.out.println("Thread " + tId + " unlocked " + pred.id);
+            // if (DEBUGGING)
+                // System.out.println("Thread " + tId + " unlocked " + pred.id);
         }
     }
 
@@ -199,22 +208,22 @@ public class PresentList
         PNode pred = null;
         PNode cur = null;
         head.lock();
-        if (DEBUGGING) System.out.println("Thread " + tId + " locked " + head.id);
+        // if (DEBUGGING) System.out.println("Thread " + tId + " locked " + head.id);
         try {
             pred = head;
             cur = pred.next;
             cur.lock();
-            if (DEBUGGING) System.out.println("Thread " + tId + " locked " + cur.id);
+            // if (DEBUGGING) System.out.println("Thread " + tId + " locked " + cur.id);
             try {
                 while (cur.id < presId) {
                     pred.unlock();
-                    if (DEBUGGING)
-                        System.out.println("Thread " + tId + " unlocked " + pred.id);
+                    // if (DEBUGGING)
+                        // System.out.println("Thread " + tId + " unlocked " + pred.id);
                     pred = cur;
                     cur = cur.next;
                     cur.lock();
-                    if (DEBUGGING) 
-                        System.out.println("Thread " + tId + " locked " + cur.id);
+                    // if (DEBUGGING) 
+                        // System.out.println("Thread " + tId + " locked " + cur.id);
                 }
                 if (cur.id == presId) {
                     pred.next = cur.next;
@@ -226,14 +235,14 @@ public class PresentList
             }
             finally {
                 cur.unlock();
-                if (DEBUGGING)
-                    System.out.println("Thread " + tId + " unlocked " + cur.id);
+                // if (DEBUGGING)
+                    // System.out.println("Thread " + tId + " unlocked " + cur.id);
             }
         }
         finally {
             pred.unlock();
-            if (DEBUGGING)
-                System.out.println("Thread " + tId + " unlocked " + pred.id);
+            // if (DEBUGGING)
+                // System.out.println("Thread " + tId + " unlocked " + pred.id);
         }
     }
 
