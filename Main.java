@@ -24,7 +24,7 @@ public class Main
 
         // Create thread pool of size 4 (minotaur's 4 servants).
         ExecutorService servants = Executors.newFixedThreadPool(SERVANTS);
-        pList.beginServants(servants);
+        pList.beginServants(servants, SERVANTS);
     }
 }
 
