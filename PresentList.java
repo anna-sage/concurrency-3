@@ -2,28 +2,38 @@
 
 import java.util.ArrayList;
 import java.util.Random;
+import java.util.concurrent.ExecutorService;
 
 public class PresentList
 {
     // Tracker nodes.
     private PNode head; // Points to sentinel.
     private PNode tail;
+    private int size;
 
     // Amount of presents.
     public static final int PRESENTS = 500000;
 
     // Bag of presents.
     private ArrayList<Integer> presentBag;
-    private ArrayList<Integer> toRemove;
 
     // todo delete
     private final boolean DEBUGGING = true;
+
+    class ServantsTask implements Runnable
+    {
+        public void run()
+        {
+            int adding = getPresentToAdd();
+        }
+    }
 
     public PresentList() 
     {
         // Generate first sentinel node (does not represent a present in the list).
         head = new PNode(PRESENTS + 1, null);
         tail = head;
+        size = 1;
 
         // Fill the present bag with all the presents.
         presentBag = new ArrayList<>();
@@ -31,13 +41,20 @@ public class PresentList
         {
             presentBag.add(i);
         }
+        if (DEBUGGING) System.out.println("bag size: " + presentBag.size());
+    }
 
-        toRemove = new ArrayList<>();
+    // Begin thread processes.
+    public void beginServants(ExecutorService servants) {
+        if (DEBUGGING) System.out.println("made it here");
+        while (presentBag.size() > 0) {
+            if (DEBUGGING) System.out.println("about to submit a new task");
+            servants.submit(new ServantsTask());
+        }
     }
 
     // Get a present id from the bag.
-    public synchronized int getPresentToAdd()
-    {
+    public synchronized int getPresentToAdd() {
         Random rand = new Random();
         int idx = rand.nextInt(presentBag.size());
         int retVal = presentBag.remove(idx);
@@ -45,10 +62,9 @@ public class PresentList
         return retVal;
     }
 
-    // public synchronized int getPresentToRemove()
-    // {
-
-    // }
+    public boolean presentBagIsEmpty() {
+        return presentBag.size() > 0;
+    }
 
     // Node representing a single present.
     private class PNode

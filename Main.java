@@ -18,20 +18,26 @@ public class Main
         // Instantiate present list and present bag.
         PresentList pList = new PresentList();
         HashSet<Integer> pBag = new HashSet<>();
-        for (int i = 1; i <= PresentList.PRESENTS; i++)
-        {
+        for (int i = 1; i <= PresentList.PRESENTS; i++) {
             pBag.add(i);
         }
 
         // Create thread pool of size 4 (minotaur's 4 servants).
         ExecutorService servants = Executors.newFixedThreadPool(SERVANTS);
-        
-        // Create tasks to randomly select.
-        // todo: task that involves adding then immediately removing
-        // Randomly adds some present from the bag and removes some present from the list.
-        Runnable addAndProcess = () -> {
-            // todo: select a random present to process.
-            int toAdd = pList.getPresentToAdd();
-        };
+        pList.beginServants(servants);
     }
 }
+
+// Didn't work
+// class AddAndProcess implements Runnable {
+//     public PresentList listRef;
+
+//     public AddAndProcess(PresentList ref) {
+//         listRef = ref;
+//     }
+
+//     public void run() {
+//         System.out.println("meee");
+//         int toAdd = listRef.getPresentToAdd();
+//     }
+// }
