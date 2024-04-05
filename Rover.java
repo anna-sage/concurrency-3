@@ -161,24 +161,42 @@ public class Rover {
                 logPrinter.println("\t\t\tChecking " + minTemp + " against " + largestMin);
 
             // Update top and bottom 5 if necessary.
-            if (minTemp < largestMin) {
-                if (minFive.size() == 5) {
-                    minFive.remove(largestMin);
-                    minFive.add(minTemp);
-                    // Set largestMin to the largest in the set.
-                    largestMin = minFive.last();
-                    logPrinter.println("largestMin is now " + largestMin);
-                }
-            }
+            // if (minFive.size() == 5 && minTemp < largestMin) {
+            //     minFive.add(minTemp);
+            //     minFive.remove(largestMin);
+            //     largestMin = minFive.last();
+            // }
+            // else if (minFive.size() < 5) {
+            //     minFive.add(minTemp);
+            //     largestMin = minFive.last();
+            // }
 
-            if (maxTemp > smallestMax) {
-                if (maxFive.size() == 5) {
-                    maxFive.remove(smallestMax);
-                    maxFive.add(maxTemp);
-                    // Set smallestMax to the smallest in the set.
-                    smallestMax = maxFive.first();
-                    logPrinter.println("smallestMax is now " + smallestMax);
-                }
+            // Add this minute's min temperature to the set.
+            minFive.add(minTemp); 
+            if (minFive.size() > 5)
+                minFive.remove(minFive.last()); // Remove the largest.
+
+            // if (maxTemp > smallestMax) {
+            //     maxFive.add(maxTemp);
+
+            //     if (maxFive.size() == 5)
+            //         maxFive.remove(smallestMax);
+
+            //     smallestMax = maxFive.first();
+            // }
+
+            // Add this minute's max temperature to the set.
+            maxFive.add(maxTemp);
+            if (maxFive.size() > 5)
+                maxFive.remove(maxFive.first()); // Remove the smallest.
+
+            if (DEBUGGING) {
+                logPrinter.println("\t\t\t\tBottom 5 so far:");
+                logPrinter.print("\t\t\t\t");
+                logPrinter.println(minFive);
+                logPrinter.println("\t\t\t\tTop 5 so far:");
+                logPrinter.print("\t\t\t\t");
+                logPrinter.println(maxFive);
             }
 
             // Is this temperature difference the largest we've seen this hour?
