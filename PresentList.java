@@ -10,8 +10,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.concurrent.TimeUnit;
 
-public class PresentList
-{
+public class PresentList {
     // Constants.
     public static final int SERVANTS = 4;
     public static final int PRESENTS = 500000;
@@ -27,14 +26,12 @@ public class PresentList
     private boolean usingPrinter;
 
     // Fields to assist in debugging.
-    private static final boolean DEBUGGING = true;
+    private static final boolean DEBUGGING = false;
     public HashSet<Integer> processed;
 
     // Task for servants to repeat.
-    class ServantsTask implements Runnable
-    {
-        public void run()
-        {
+    class ServantsTask implements Runnable {
+        public void run() {
             while (presentBag.size() > 0) {
                 int pres = getPresentToAdd();
                 if (add(pres)) {
@@ -53,10 +50,11 @@ public class PresentList
                     }
                 }
                 else {
-                    System.out.println("bad");
+                    // If adding fails, just toss the present back in the bag!.
                     presentBag.add(pres);
                 }
 
+                // Flush the printer so that it can write all necessary outputs.
                 if (presentBag.size() < 10000 && usingPrinter) printer.flush();
             }
         }
@@ -64,26 +62,27 @@ public class PresentList
 
     public PresentList() 
     {
-        // Generate first sentinel node (does not represent a present in the list).
+        // Generate sentinel nodes (do not represent presents in the list).
         tail = new PNode(PRESENTS + 2, null);
         head = new PNode(PRESENTS + 1, tail);
 
         // Fill the present bag with all the presents.
         presentBag = new ArrayList<>();
         for (int i = 1; i <= PRESENTS; i++)
-        {
             presentBag.add(i);
-        }
 
         usingPrinter = true;
         try {
-            printer = new PrintWriter(new File("./out1.txt"));
+            printer = new PrintWriter(new File("./present_list_log.txt"));
         }
         catch (Exception e) {
             usingPrinter = false;
         }
+
+        // For debugging and proof of correctness.
         // Set keeps track of which presents have been added and deleted.
         if (DEBUGGING) processed = new HashSet<>();
+
         servants = Executors.newFixedThreadPool(SERVANTS);
     }
 
@@ -94,7 +93,8 @@ public class PresentList
         }
     }
 
-    // todo delete
+    // For debugging / proof of correctness.
+    // To track whether presents have been processed.
     private synchronized void addProcessed(int pres) {
         processed.add(pres);
     }
@@ -175,8 +175,7 @@ public class PresentList
     }
 
     // Node representing a single present.
-    private class PNode
-    {
+    private class PNode {
         // Fields:
         public int id;
         public PNode next;
@@ -219,7 +218,7 @@ public class PresentList
         System.out.println("Problem 1 completed in " + ((end - start) / NANO_TO_SEC) + " seconds.");
 
         if (DEBUGGING) {
-            // Verify that all presents were processed.
+            // Output to verify that all presents were processed.
             System.out.println("Amount of presents processed: " + p.processed.size());
             if (p.processed.size() < PRESENTS) {
                 for (int i = 1; i <= PRESENTS; i++) {
