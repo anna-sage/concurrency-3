@@ -28,7 +28,7 @@ public class Rover {
     public final int MINS_PER_DAY = 1440;
 
     // Other fields.
-    private ExecutorService sensors;
+    private ExecutorService [] sensors;
     private Random randTemp; // Generates random temperatures.
     private int [] temps; // Temperature reading storage.
     // private int [] tempDiffs; // Temperature differences for 10 min interval.
@@ -45,7 +45,11 @@ public class Rover {
     public final boolean DEBUGGING = true;
 
     public Rover() {
-        sensors = Executors.newFixedThreadPool(SENSORS);
+        // Make an array of sensors.
+        sensors = new ExecutorService [SENSORS];
+        for (int i = 0; i < SENSORS; i++)
+            sensors[i] = Executors.newSingleThreadExecutor();
+
         randTemp = new Random(0);
         temps = new int [SENSORS];
         // tempDiffs = new int [MINS_PER_HOUR / TEN];
@@ -83,8 +87,8 @@ public class Rover {
 
     // Starts sensors on their tasks.
     public void beginSensors() {
-        for (int i = 1; i <= SENSORS; i++) {
-            sensors.submit(new SetMyId());
+        for (int i = 0; i < SENSORS; i++) {
+            sensors[i].submit(new SetMyId());
         }
 
         finish(60);
@@ -127,7 +131,7 @@ public class Rover {
             // Take readings and wait for sensors to finish recording them.
             long start = System.currentTimeMillis();
             for (int i = 0; i < SENSORS; i++) {
-                sensors.submit(readingTasks[i]);
+                sensors[i].submit(readingTasks[i]);
             }
             long breakPoint = System.currentTimeMillis();
             finish(MINUTE - (breakPoint - start)); 
@@ -221,29 +225,31 @@ public class Rover {
         }
 
         // Take readings and then wait for the current "minute" to end.
-        long start = System.currentTimeMillis();
-        for (int i = 1; i <= SENSORS; i++) {
-            sensors.submit(new ReadTemperatures());
-        }
-        long breakPoint = System.currentTimeMillis();
+        // long start = System.currentTimeMillis();
+        // for (int i = 1; i <= SENSORS; i++) {
+        //     sensors.submit(new ReadTemperatures());
+        // }
+        // long breakPoint = System.currentTimeMillis();
 
-        finish(MINUTE - (breakPoint - start));
+        // finish(MINUTE - (breakPoint - start));
 
         // Find max and min readings.
         // sensors.submit(new FindMaxesAndMins());
 
         long end = System.currentTimeMillis();
 
-        if (DEBUGGING) timePrinter.println("took readings in " + (end - start) + " ms");
+        // if (DEBUGGING) timePrinter.println("took readings in " + (end - start) + " ms");
     }
 
     // Wait for threads to finish some task.
     public void finish(long millisToWait) {
-        try {
-            sensors.awaitTermination(millisToWait, TimeUnit.MILLISECONDS);
-        }
-        catch (Exception e) {
-            sensors.shutdownNow();
+        for (int i = 0; i < SENSORS; i++) {
+            try {
+                sensors[i].awaitTermination(millisToWait, TimeUnit.MILLISECONDS);
+            }
+            catch (Exception e) {
+                sensors[i].shutdownNow();
+            }
         }
     }
 
@@ -254,14 +260,17 @@ public class Rover {
         if (!r.printerError) {
             long start = System.nanoTime();
             r.beginSensors();
-            r.sensors.shutdown();
-            try {
-                if (!r.sensors.awaitTermination(120, TimeUnit.SECONDS))
-                    r.sensors.shutdownNow();
+            for (int i = 0; i < SENSORS; i++) {
+                r.sensors[i].shutdown();
+
+                try {
+                    if (!r.sensors[i].awaitTermination(120, TimeUnit.SECONDS))
+                        r.sensors[i].shutdownNow();
+                }
+                catch (Exception e) {
+                    r.sensors[i].shutdownNow();
+                } 
             }
-            catch (Exception e) {
-                r.sensors.shutdownNow();
-            } 
         }
         else {
             System.out.println("Error generating one or more PrintWriters.\n" + 
