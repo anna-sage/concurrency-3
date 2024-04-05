@@ -3,29 +3,31 @@
 import java.io.PrintWriter;
 import java.io.File;
 import java.util.ArrayList;
-import java.util.HashSet; // todo delete
+import java.util.HashSet;
 import java.util.Random;
 import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 import java.util.concurrent.locks.ReentrantLock;
+import java.util.concurrent.TimeUnit;
 
 public class PresentList
 {
-    // Tracker nodes.
-    private PNode head; // Points to sentinel.
-    private PNode tail;
-    private int size;
-
-    // Amount of presents.
+    // Constants.
+    public static final int SERVANTS = 4;
     public static final int PRESENTS = 500000;
+    public static final long NANO_TO_SEC = 1000000000;
 
+    // Tracker nodes.
+    private PNode head; // Points to head sentinel.
+    private PNode tail; // Points to tail sentinel.
+
+    private ExecutorService servants;
     private ArrayList<Integer> presentBag; // Bag of presents.
     private PrintWriter printer; // Prints output.
     private boolean usingPrinter;
-    public final long NANO_TO_SEC = 1000000000;
 
-    // todo delete
-    private final boolean DEBUGGING = false;
-    private ReentrantLock printListLock;
+    // Fields to assist in debugging.
+    private static final boolean DEBUGGING = true;
     public HashSet<Integer> processed;
 
     // Task for servants to repeat.
@@ -36,21 +38,18 @@ public class PresentList
             while (presentBag.size() > 0) {
                 int pres = getPresentToAdd();
                 if (add(pres)) {
-                    if (usingPrinter) {
+                    if (usingPrinter)
                         printer.println("Added present " + pres + " to the list.");
-                    }
-                    else {
+                    else
                         System.out.println("Added present " + pres + " to the list.");
-                    }
 
                     if (remove(pres)) {
-                        if (usingPrinter) {
+                        if (usingPrinter)
                             printer.println("Wrote thank you note for present " + pres + ".");
-                        }
-                        else {
+                        else
                             System.out.println("Wrote thank you note for present " + pres + ".");
-                        }
-                        addGuy(pres);
+
+                        if (DEBUGGING) addProcessed(pres);
                     }
                 }
                 else {
@@ -58,10 +57,8 @@ public class PresentList
                     presentBag.add(pres);
                 }
 
-                if (presentBag.size() < 1000 && usingPrinter) printer.flush();
+                if (presentBag.size() < 10000 && usingPrinter) printer.flush();
             }
-
-            if (DEBUGGING) System.out.println("Thread " + Thread.currentThread().getId() + " signing out");
         }
     }
 
@@ -70,7 +67,6 @@ public class PresentList
         // Generate first sentinel node (does not represent a present in the list).
         tail = new PNode(PRESENTS + 2, null);
         head = new PNode(PRESENTS + 1, tail);
-        size = 2;
 
         // Fill the present bag with all the presents.
         presentBag = new ArrayList<>();
@@ -86,23 +82,21 @@ public class PresentList
         catch (Exception e) {
             usingPrinter = false;
         }
-        printListLock = new ReentrantLock();
-        processed = new HashSet<>();
+        // Set keeps track of which presents have been added and deleted.
+        if (DEBUGGING) processed = new HashSet<>();
+        servants = Executors.newFixedThreadPool(SERVANTS);
     }
 
     // Begin thread processes.
-    public void beginServants(ExecutorService servants, int numServants) {
-        long start = System.nanoTime();
-        for (int i = 1; i <= numServants; i++) {
+    public void beginServants() {
+        for (int i = 1; i <= SERVANTS; i++) {
             servants.submit(new ServantsTask());
         }
-        long end = System.nanoTime();
-        System.out.println("Problem 1 finished in " + ((end - start)) + " nanoseconds.");
     }
 
     // todo delete
-    private synchronized void addGuy(int guy) {
-        processed.add(guy);
+    private synchronized void addProcessed(int pres) {
+        processed.add(pres);
     }
 
     // Get a present id from the bag.
@@ -120,179 +114,64 @@ public class PresentList
 
     // Add a present to the list of presents to be processed.
     public boolean add(int presId) {
-        long tId = Thread.currentThread().getId();
-        if (DEBUGGING) System.out.println("Thread " + tId + " trying to add " + presId);
         head.lock();
-        // if (DEBUGGING)
-            // System.out.println("Thread " + tId + " locked " + head.id);
         PNode pred = head;
         try {
             PNode cur = pred.next;
             cur.lock();
-            // if (DEBUGGING)
-                // System.out.println("Thread " + tId + " locked " + cur.id);
             try {
                 while (cur.id < presId) {
                     pred.unlock();
-                    // if (DEBUGGING)
-                        // System.out.println("Thread " + tId + " unlocked " + pred.id);
                     pred = cur;
                     cur = cur.next;
                     cur.lock();
-                    // if (DEBUGGING)
-                        // System.out.println("Thread " + tId + " locked " + cur.id);
                 }
                 if (cur.id == presId) {
-                    if (DEBUGGING) System.out.println("\tAttempt to add " + presId + " failed");
                     return false;
                 }
                 PNode newNode = new PNode(presId, cur);
                 pred.next = newNode;
-                if (DEBUGGING) System.out.println("\tAttempt to add " + presId + " succeeded");
                 return true;
             }
             finally {
                 cur.unlock();
-                // if (DEBUGGING)
-                    // System.out.println("Thread " + tId + " unlocked " + cur.id);
             }
         }
         finally {
             pred.unlock();
-            // if (DEBUGGING)
-                // System.out.println("Thread " + tId + " unlocked " + pred.id);
         }
     }
-
-    // Add a present to the list of presents to be processed.
-    // public boolean add(int presId) {
-    //     if (DEBUGGING) System.out.println("Attempting to add " + presId);
-    //     while (true) {
-    //         PNode pred = head;
-    //         PNode cur = head.next;
-    //         while (cur.id < presId) {
-    //             pred = cur; 
-    //             cur = cur.next;
-    //         }
-    //         pred.lock();
-    //         try {
-    //             cur.lock();
-    //             try {
-    //                 if (validate(pred, cur)) {
-    //                     if (DEBUGGING) System.out.println("\tAttempt to add " + presId + " failed");
-    //                     return false;
-    //                 }
-    //                 else {
-    //                     PNode node = new PNode(presId, null);
-    //                     node.next = cur;
-    //                     pred.next = node;
-    //                     if (DEBUGGING) System.out.println("\tAttempt to add " + presId + " succeeded");
-    //                     return true;
-    //                 }
-    //             }
-    //             finally {
-    //                 cur.unlock();
-    //             }
-    //         }
-    //         finally {
-    //             pred.unlock();
-    //         }
-    //     }
-    // }
 
     // Removes the present from the list. Effectively the same as writing
     // the thank you note.
     public synchronized boolean remove(int presId) {
-        long tId = Thread.currentThread().getId();
-        if (DEBUGGING) System.out.println("Thread " + tId + " trying to remove " + presId);
         PNode pred = null;
         PNode cur = null;
         head.lock();
-        // if (DEBUGGING) System.out.println("Thread " + tId + " locked " + head.id);
         try {
             pred = head;
             cur = pred.next;
             cur.lock();
-            // if (DEBUGGING) System.out.println("Thread " + tId + " locked " + cur.id);
             try {
                 while (cur.id < presId) {
                     pred.unlock();
-                    // if (DEBUGGING)
-                        // System.out.println("Thread " + tId + " unlocked " + pred.id);
                     pred = cur;
                     cur = cur.next;
                     cur.lock();
-                    // if (DEBUGGING) 
-                        // System.out.println("Thread " + tId + " locked " + cur.id);
                 }
                 if (cur.id == presId) {
                     pred.next = cur.next;
-                    if (DEBUGGING) System.out.println("\tAttempt to remove " + presId + " succeeded");
                     return true;
                 }
-                if (DEBUGGING) System.out.println("\tAttempt to remove " + presId + " failed");
                 return false;
             }
             finally {
                 cur.unlock();
-                // if (DEBUGGING)
-                    // System.out.println("Thread " + tId + " unlocked " + cur.id);
             }
         }
         finally {
             pred.unlock();
-            // if (DEBUGGING)
-                // System.out.println("Thread " + tId + " unlocked " + pred.id);
         }
-    }
-
-    // public boolean remove(int presId) {
-    //     if (DEBUGGING) System.out.println("Attempting to remove " + presId);
-    //     while (true) {
-    //         PNode pred = head;
-    //         PNode cur = head.next;
-    //         while (cur.id < presId) {
-    //             pred = cur;
-    //             cur = cur.next;
-    //         }
-    //         pred.lock();
-    //         try {
-    //             cur.lock();
-    //             try {
-    //                 if (validate(pred, cur)) {
-    //                     if (cur.id != presId) {
-    //                         if (DEBUGGING) System.out.println("\tAttempt to remove " + presId + " failed");
-    //                         return false;
-    //                     }
-    //                     else {
-    //                         cur.isDeleted = true;
-    //                         pred.next = cur.next;
-    //                         if (DEBUGGING) System.out.println("\tAttempt to remove " + presId + " succeeded");
-    //                         return true;
-    //                     }
-    //                 }
-    //             }
-    //             finally {
-    //                 cur.unlock();
-    //             }
-    //         }
-    //         finally {
-    //             pred.unlock();
-    //         }
-    //     }
-    // }
-
-    // For debugging.
-    private void printList() {
-        printListLock.lock();
-        PNode cur = head;
-        System.out.println("Present List:");
-        while (cur != null) {
-            System.out.print(cur.id + " --> ");
-            cur = cur.next;
-        }
-        System.out.println();
-        printListLock.unlock();
     }
 
     // Node representing a single present.
@@ -303,8 +182,6 @@ public class PresentList
         public PNode next;
         public boolean isDeleted;
         public ReentrantLock lock;
-        // note: high amount of add() and remove(), lots of contention
-        // note: no contains() because thread can remove present right after adding it
 
         public PNode(int presId, PNode nextNode) {
             id = presId;
@@ -319,6 +196,35 @@ public class PresentList
 
         public void unlock() {
             lock.unlock();
+        }
+    }
+
+    // Main driver function.
+    public static void main(String [] args) {
+        PresentList p = new PresentList();
+
+        // Time how long it takes servants to write thank you notes.
+        long start = System.nanoTime();
+        p.beginServants();
+        p.servants.shutdown();
+        try {
+            if (!p.servants.awaitTermination(60, TimeUnit.SECONDS))
+                p.servants.shutdownNow();
+        }
+        catch (Exception e) {
+            p.servants.shutdownNow();
+        }
+        long end = System.nanoTime();
+
+        if (DEBUGGING) {
+            // Verify that all presents were processed.
+            System.out.println("Amount of presents processed: " + p.processed.size());
+            if (p.processed.size() < PRESENTS) {
+                for (int i = 1; i <= PRESENTS; i++) {
+                    if (!p.processed.contains(i))
+                        System.out.println(i + " was never processed.");
+                }
+            }
         }
     }
 }
