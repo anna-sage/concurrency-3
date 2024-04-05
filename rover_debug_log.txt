@@ -1,130 +1,130 @@
-Sensor obtained ID 0
-Sensor obtained ID 5
+Sensor obtained ID 1
+Sensor obtained ID 4
 Sensor obtained ID 3
 Sensor obtained ID 7
 Sensor obtained ID 2
+Sensor obtained ID 0
+Sensor obtained ID 5
 Sensor obtained ID 6
-Sensor obtained ID 1
-Sensor obtained ID 4
 ====== Hour 0 ======
 
 	=== Interval 0 ===
 
 		< Minute 0 >
 
-			Sensor 1 reads: -94
-			Sensor 6 reads: 21
-			Sensor 5 reads: -89
-			Sensor 7 reads: 43
-			Sensor 0 reads: -57
-			Sensor 2 reads: 28
-			Sensor 3 reads: -38
-			Sensor 4 reads: 38
-			Sensor[0]: -57
-			Sensor[1]: -94
-			Sensor[2]: 28
-			Sensor[3]: -38
-			Sensor[4]: 38
-			Sensor[5]: -89
-			Sensor[6]: 21
-			Sensor[7]: 43
-			Largest diff: 43 - -94 = 137
+			Sensor 3 reads: -89
+			Sensor 2 reads: 21
+			Sensor 6 reads: 28
+			Sensor 0 reads: -94
+			Sensor 7 reads: 38
+			Sensor 5 reads: 43
+			Sensor 1 reads: -57
+			Sensor 4 reads: -38
+			Sensor[0]: -94
+			Sensor[1]: -57
+			Sensor[2]: 21
+			Sensor[3]: -89
+			Sensor[4]: -38
+			Sensor[5]: 43
+			Sensor[6]: 28
+			Sensor[7]: 38
+			Largest diff: 43 - -89 = 132
 
-			Checking -94 against 2147483647
+			Checking -89 against 2147483647
 				Bottom 5 so far:
-				[-94]
+				[-89]
 				Top 5 so far:
 				[43]
 		< Minute 1 >
 
-			Sensor 1 reads: -98
 			Sensor 0 reads: -94
-			Sensor 2 reads: 13
-			Sensor 3 reads: -83
-			Sensor 5 reads: 10
-			Sensor 7 reads: -83
-			Sensor 4 reads: 40
-			Sensor 6 reads: -36
+			Sensor 3 reads: 13
+			Sensor 2 reads: -98
+			Sensor 5 reads: -83
+			Sensor 6 reads: 10
+			Sensor 1 reads: -36
+			Sensor 4 reads: -83
+			Sensor 7 reads: 40
 			Sensor[0]: -94
-			Sensor[1]: -98
-			Sensor[2]: 13
-			Sensor[3]: -83
-			Sensor[4]: 40
-			Sensor[5]: 10
-			Sensor[6]: -36
-			Sensor[7]: -83
+			Sensor[1]: -36
+			Sensor[2]: -98
+			Sensor[3]: 13
+			Sensor[4]: -83
+			Sensor[5]: -83
+			Sensor[6]: 10
+			Sensor[7]: 40
 			Largest diff: 40 - -98 = 138
 
 			Checking -98 against 2147483647
 				Bottom 5 so far:
-				[-98, -94]
+				[-98, -89]
 				Top 5 so far:
 				[40, 43]
 		< Minute 2 >
 
 			Sensor 0 reads: 3
-			Sensor 1 reads: 5
-			Sensor 3 reads: 13
-			Sensor 2 reads: -44
-			Sensor 4 reads: -24
+			Sensor 6 reads: 5
+			Sensor 2 reads: 13
+			Sensor 1 reads: -44
+			Sensor 3 reads: -24
 			Sensor 5 reads: -82
-			Sensor 6 reads: 55
+			Sensor 4 reads: 55
 			Sensor 7 reads: 67
 			Sensor[0]: 3
-			Sensor[1]: 5
-			Sensor[2]: -44
-			Sensor[3]: 13
-			Sensor[4]: -24
+			Sensor[1]: -44
+			Sensor[2]: 13
+			Sensor[3]: -24
+			Sensor[4]: 55
 			Sensor[5]: -82
-			Sensor[6]: 55
+			Sensor[6]: 5
 			Sensor[7]: 67
 			Largest diff: 67 - -82 = 149
 
 			Checking -82 against 2147483647
 				Bottom 5 so far:
-				[-98, -94, -82]
+				[-98, -89, -82]
 				Top 5 so far:
 				[40, 43, 67]
 		< Minute 3 >
 
-			Sensor 7 reads: 43
-			Sensor 1 reads: -45
-			Sensor 0 reads: -40
-			Sensor 2 reads: -12
-			Sensor 3 reads: 35
-			Sensor 5 reads: -56
+			Sensor 0 reads: 43
+			Sensor 2 reads: -45
+			Sensor 3 reads: -40
+			Sensor 1 reads: -12
+			Sensor 4 reads: 35
+			Sensor 7 reads: -56
 			Sensor 6 reads: -71
-			Sensor 4 reads: -53
-			Sensor[0]: -40
-			Sensor[1]: -45
-			Sensor[2]: -12
-			Sensor[3]: 35
-			Sensor[4]: -53
-			Sensor[5]: -56
+			Sensor 5 reads: -53
+			Sensor[0]: 43
+			Sensor[1]: -12
+			Sensor[2]: -45
+			Sensor[3]: -40
+			Sensor[4]: 35
+			Sensor[5]: -53
 			Sensor[6]: -71
-			Sensor[7]: 43
+			Sensor[7]: -56
 			Largest diff: 43 - -71 = 114
 
 			Checking -71 against 2147483647
 				Bottom 5 so far:
-				[-98, -94, -82, -71]
+				[-98, -89, -82, -71]
 				Top 5 so far:
 				[40, 43, 67]
 		< Minute 4 >
 
-			Sensor 0 reads: -77
-			Sensor 1 reads: -26
-			Sensor 3 reads: -80
-			Sensor 4 reads: -31
-			Sensor 2 reads: -86
+			Sensor 1 reads: -77
+			Sensor 0 reads: -26
+			Sensor 4 reads: -86
+			Sensor 2 reads: -80
+			Sensor 3 reads: -31
 			Sensor 5 reads: 64
 			Sensor 6 reads: 21
 			Sensor 7 reads: -31
-			Sensor[0]: -77
-			Sensor[1]: -26
-			Sensor[2]: -86
-			Sensor[3]: -80
-			Sensor[4]: -31
+			Sensor[0]: -26
+			Sensor[1]: -77
+			Sensor[2]: -80
+			Sensor[3]: -31
+			Sensor[4]: -86
 			Sensor[5]: 64
 			Sensor[6]: 21
 			Sensor[7]: -31
@@ -132,24 +132,24 @@ Sensor obtained ID 4
 
 			Checking -86 against 2147483647
 				Bottom 5 so far:
-				[-98, -94, -86, -82, -71]
+				[-98, -89, -86, -82, -71]
 				Top 5 so far:
 				[40, 43, 64, 67]
 		< Minute 5 >
 
 			Sensor 0 reads: 64
-			Sensor 1 reads: -48
-			Sensor 2 reads: -92
-			Sensor 4 reads: 19
-			Sensor 3 reads: 63
+			Sensor 2 reads: -48
+			Sensor 3 reads: -92
+			Sensor 1 reads: 19
+			Sensor 4 reads: 63
 			Sensor 6 reads: 56
-			Sensor 7 reads: -3
 			Sensor 5 reads: -81
+			Sensor 7 reads: -3
 			Sensor[0]: 64
-			Sensor[1]: -48
-			Sensor[2]: -92
-			Sensor[3]: 63
-			Sensor[4]: 19
+			Sensor[1]: 19
+			Sensor[2]: -48
+			Sensor[3]: -92
+			Sensor[4]: 63
 			Sensor[5]: -81
 			Sensor[6]: 56
 			Sensor[7]: -3
@@ -157,22 +157,22 @@ Sensor obtained ID 4
 
 			Checking -92 against 2147483647
 				Bottom 5 so far:
-				[-98, -94, -92, -86, -82]
+				[-98, -92, -89, -86, -82]
 				Top 5 so far:
 				[40, 43, 64, 67]
 		< Minute 6 >
 
-			Sensor 2 reads: -18
-			Sensor 0 reads: 32
-			Sensor 1 reads: -78
+			Sensor 0 reads: -18
+			Sensor 1 reads: 32
+			Sensor 2 reads: -78
 			Sensor 3 reads: 29
 			Sensor 4 reads: 13
 			Sensor 5 reads: -43
 			Sensor 6 reads: -67
 			Sensor 7 reads: 51
-			Sensor[0]: 32
-			Sensor[1]: -78
-			Sensor[2]: -18
+			Sensor[0]: -18
+			Sensor[1]: 32
+			Sensor[2]: -78
 			Sensor[3]: 29
 			Sensor[4]: 13
 			Sensor[5]: -43
@@ -182,74 +182,74 @@ Sensor obtained ID 4
 
 			Checking -78 against 2147483647
 				Bottom 5 so far:
-				[-98, -94, -92, -86, -82]
+				[-98, -92, -89, -86, -82]
 				Top 5 so far:
 				[40, 43, 51, 64, 67]
 		< Minute 7 >
 
-			Sensor 1 reads: 70
-			Sensor 0 reads: -16
-			Sensor 2 reads: 51
-			Sensor 5 reads: -12
-			Sensor 6 reads: -65
-			Sensor 7 reads: 33
-			Sensor 3 reads: -93
-			Sensor 4 reads: -85
-			Sensor[0]: -16
-			Sensor[1]: 70
-			Sensor[2]: 51
-			Sensor[3]: -93
-			Sensor[4]: -85
-			Sensor[5]: -12
-			Sensor[6]: -65
-			Sensor[7]: 33
+			Sensor 0 reads: 51
+			Sensor 4 reads: 70
+			Sensor 1 reads: -16
+			Sensor 2 reads: -12
+			Sensor 3 reads: -65
+			Sensor 6 reads: 33
+			Sensor 5 reads: -93
+			Sensor 7 reads: -85
+			Sensor[0]: 51
+			Sensor[1]: -16
+			Sensor[2]: -12
+			Sensor[3]: -65
+			Sensor[4]: 70
+			Sensor[5]: -93
+			Sensor[6]: 33
+			Sensor[7]: -85
 			Largest diff: 70 - -93 = 163
 
 			Checking -93 against 2147483647
 				Bottom 5 so far:
-				[-98, -94, -93, -92, -86]
+				[-98, -93, -92, -89, -86]
 				Top 5 so far:
 				[43, 51, 64, 67, 70]
 		< Minute 8 >
 
-			Sensor 1 reads: 65
-			Sensor 5 reads: 5
-			Sensor 2 reads: 15
-			Sensor 0 reads: -38
-			Sensor 3 reads: -84
+			Sensor 0 reads: 65
+			Sensor 2 reads: 5
+			Sensor 3 reads: 15
+			Sensor 4 reads: -38
+			Sensor 5 reads: -84
 			Sensor 6 reads: -82
-			Sensor 4 reads: 37
+			Sensor 1 reads: 37
 			Sensor 7 reads: -78
-			Sensor[0]: -38
-			Sensor[1]: 65
-			Sensor[2]: 15
-			Sensor[3]: -84
-			Sensor[4]: 37
-			Sensor[5]: 5
+			Sensor[0]: 65
+			Sensor[1]: 37
+			Sensor[2]: 5
+			Sensor[3]: 15
+			Sensor[4]: -38
+			Sensor[5]: -84
 			Sensor[6]: -82
 			Sensor[7]: -78
 			Largest diff: 65 - -84 = 149
 
 			Checking -84 against 2147483647
 				Bottom 5 so far:
-				[-98, -94, -93, -92, -86]
+				[-98, -93, -92, -89, -86]
 				Top 5 so far:
 				[51, 64, 65, 67, 70]
 		< Minute 9 >
 
-			Sensor 0 reads: 46
-			Sensor 1 reads: -56
+			Sensor 0 reads: -56
+			Sensor 1 reads: 46
+			Sensor 4 reads: 52
 			Sensor 3 reads: -67
-			Sensor 2 reads: 52
-			Sensor 4 reads: -32
 			Sensor 5 reads: -10
+			Sensor 2 reads: -32
 			Sensor 6 reads: -24
 			Sensor 7 reads: -36
-			Sensor[0]: 46
-			Sensor[1]: -56
-			Sensor[2]: 52
+			Sensor[0]: -56
+			Sensor[1]: 46
+			Sensor[2]: -32
 			Sensor[3]: -67
-			Sensor[4]: -32
+			Sensor[4]: 52
 			Sensor[5]: -10
 			Sensor[6]: -24
 			Sensor[7]: -36
@@ -257,7 +257,7 @@ Sensor obtained ID 4
 
 			Checking -67 against 2147483647
 				Bottom 5 so far:
-				[-98, -94, -93, -92, -86]
+				[-98, -93, -92, -89, -86]
 				Top 5 so far:
 				[52, 64, 65, 67, 70]
 		Largest diff this interval: 163
@@ -266,52 +266,52 @@ Sensor obtained ID 4
 
 		< Minute 10 >
 
-			Sensor 7 reads: -93
-			Sensor 0 reads: -40
-			Sensor 1 reads: -82
-			Sensor 2 reads: -51
-			Sensor 3 reads: 17
-			Sensor 5 reads: 60
-			Sensor 4 reads: 35
-			Sensor 6 reads: 33
-			Sensor[0]: -40
-			Sensor[1]: -82
-			Sensor[2]: -51
-			Sensor[3]: 17
-			Sensor[4]: 35
-			Sensor[5]: 60
-			Sensor[6]: 33
-			Sensor[7]: -93
-			Largest diff: 60 - -93 = 153
+			Sensor 0 reads: -93
+			Sensor 1 reads: -40
+			Sensor 2 reads: -82
+			Sensor 4 reads: -51
+			Sensor 5 reads: 17
+			Sensor 3 reads: 35
+			Sensor 6 reads: 60
+			Sensor 7 reads: 33
+			Sensor[0]: -93
+			Sensor[1]: -40
+			Sensor[2]: -82
+			Sensor[3]: 35
+			Sensor[4]: -51
+			Sensor[5]: 17
+			Sensor[6]: 60
+			Sensor[7]: 33
+			Largest diff: 60 - -82 = 142
 
-			Checking -93 against 2147483647
+			Checking -82 against 2147483647
 				Bottom 5 so far:
-				[-98, -94, -93, -92, -86]
+				[-98, -93, -92, -89, -86]
 				Top 5 so far:
 				[60, 64, 65, 67, 70]
 		< Minute 11 >
 
 			Sensor 0 reads: 29
-			Sensor 1 reads: -21
-			Sensor 2 reads: 56
-			Sensor 3 reads: -93
+			Sensor 3 reads: 56
+			Sensor 2 reads: -21
+			Sensor 1 reads: -93
 			Sensor 4 reads: -25
-			Sensor 7 reads: -25
+			Sensor 5 reads: -25
 			Sensor 6 reads: -35
-			Sensor 5 reads: 12
+			Sensor 7 reads: 12
 			Sensor[0]: 29
-			Sensor[1]: -21
-			Sensor[2]: 56
-			Sensor[3]: -93
+			Sensor[1]: -93
+			Sensor[2]: -21
+			Sensor[3]: 56
 			Sensor[4]: -25
-			Sensor[5]: 12
+			Sensor[5]: -25
 			Sensor[6]: -35
-			Sensor[7]: -25
+			Sensor[7]: 12
 			Largest diff: 56 - -93 = 149
 
 			Checking -93 against 2147483647
 				Bottom 5 so far:
-				[-98, -94, -93, -92, -86]
+				[-98, -93, -92, -89, -86]
 				Top 5 so far:
 				[60, 64, 65, 67, 70]
 		< Minute 12 >
@@ -322,21 +322,21 @@ Sensor obtained ID 4
 			Sensor 3 reads: 35
 			Sensor 4 reads: -89
 			Sensor 5 reads: -19
-			Sensor 7 reads: -77
-			Sensor 6 reads: 22
+			Sensor 6 reads: -77
+			Sensor 7 reads: 22
 			Sensor[0]: -67
 			Sensor[1]: 65
 			Sensor[2]: -37
 			Sensor[3]: 35
 			Sensor[4]: -89
 			Sensor[5]: -19
-			Sensor[6]: 22
-			Sensor[7]: -77
+			Sensor[6]: -77
+			Sensor[7]: 22
 			Largest diff: 65 - -89 = 154
 
 			Checking -89 against 2147483647
 				Bottom 5 so far:
-				[-98, -94, -93, -92, -89]
+				[-98, -93, -92, -89, -86]
 				Top 5 so far:
 				[60, 64, 65, 67, 70]
 		< Minute 13 >
@@ -345,8 +345,8 @@ Sensor obtained ID 4
 			Sensor 1 reads: 12
 			Sensor 2 reads: -4
 			Sensor 3 reads: 50
-			Sensor 5 reads: 39
 			Sensor 4 reads: -1
+			Sensor 5 reads: 39
 			Sensor 6 reads: -42
 			Sensor 7 reads: 19
 			Sensor[0]: 20
@@ -361,98 +361,98 @@ Sensor obtained ID 4
 
 			Checking -42 against 2147483647
 				Bottom 5 so far:
-				[-98, -94, -93, -92, -89]
+				[-98, -93, -92, -89, -86]
 				Top 5 so far:
 				[60, 64, 65, 67, 70]
 		< Minute 14 >
 
 			Sensor 0 reads: 36
 			Sensor 1 reads: 42
-			Sensor 2 reads: -45
-			Sensor 3 reads: 60
+			Sensor 3 reads: -45
+			Sensor 2 reads: 60
 			Sensor 4 reads: -58
 			Sensor 5 reads: -72
-			Sensor 7 reads: -16
-			Sensor 6 reads: -4
+			Sensor 6 reads: -16
+			Sensor 7 reads: -4
 			Sensor[0]: 36
 			Sensor[1]: 42
-			Sensor[2]: -45
-			Sensor[3]: 60
+			Sensor[2]: 60
+			Sensor[3]: -45
 			Sensor[4]: -58
 			Sensor[5]: -72
-			Sensor[6]: -4
-			Sensor[7]: -16
+			Sensor[6]: -16
+			Sensor[7]: -4
 			Largest diff: 60 - -72 = 132
 
 			Checking -72 against 2147483647
 				Bottom 5 so far:
-				[-98, -94, -93, -92, -89]
+				[-98, -93, -92, -89, -86]
 				Top 5 so far:
 				[60, 64, 65, 67, 70]
 		< Minute 15 >
 
+			Sensor 4 reads: -9
+			Sensor 6 reads: 3
+			Sensor 1 reads: -35
 			Sensor 2 reads: -95
-			Sensor 3 reads: -9
-			Sensor 4 reads: 3
+			Sensor 3 reads: -42
 			Sensor 5 reads: 31
-			Sensor 6 reads: -42
 			Sensor 7 reads: -23
-			Sensor 1 reads: 41
-			Sensor 0 reads: -35
-			Sensor[0]: -35
-			Sensor[1]: 41
+			Sensor 0 reads: 41
+			Sensor[0]: 41
+			Sensor[1]: -35
 			Sensor[2]: -95
-			Sensor[3]: -9
-			Sensor[4]: 3
+			Sensor[3]: -42
+			Sensor[4]: -9
 			Sensor[5]: 31
-			Sensor[6]: -42
+			Sensor[6]: 3
 			Sensor[7]: -23
 			Largest diff: 41 - -95 = 136
 
 			Checking -95 against 2147483647
 				Bottom 5 so far:
-				[-98, -95, -94, -93, -92]
+				[-98, -95, -93, -92, -89]
 				Top 5 so far:
 				[60, 64, 65, 67, 70]
 		< Minute 16 >
 
-			Sensor 1 reads: 11
 			Sensor 0 reads: 66
-			Sensor 5 reads: -96
-			Sensor 2 reads: -41
-			Sensor 7 reads: 27
-			Sensor 3 reads: 35
-			Sensor 6 reads: -59
-			Sensor 4 reads: -10
+			Sensor 1 reads: 11
+			Sensor 2 reads: -10
+			Sensor 3 reads: -41
+			Sensor 4 reads: 35
+			Sensor 5 reads: -59
+			Sensor 6 reads: 27
+			Sensor 7 reads: -96
 			Sensor[0]: 66
 			Sensor[1]: 11
-			Sensor[2]: -41
-			Sensor[3]: 35
-			Sensor[4]: -10
-			Sensor[5]: -96
-			Sensor[6]: -59
-			Sensor[7]: 27
+			Sensor[2]: -10
+			Sensor[3]: -41
+			Sensor[4]: 35
+			Sensor[5]: -59
+			Sensor[6]: 27
+			Sensor[7]: -96
 			Largest diff: 66 - -96 = 162
 
 			Checking -96 against 2147483647
 				Bottom 5 so far:
-				[-98, -96, -95, -94, -93]
+				[-98, -96, -95, -93, -92]
 				Top 5 so far:
 				[64, 65, 66, 67, 70]
 		< Minute 17 >
 
 			Sensor 0 reads: 25
 			Sensor 1 reads: -95
-			Sensor 3 reads: 21
-			Sensor 2 reads: -1
+			Sensor 2 reads: 21
+			Sensor 3 reads: -1
 			Sensor 4 reads: 6
 			Sensor 5 reads: 19
 			Sensor 6 reads: 49
 			Sensor 7 reads: -98
 			Sensor[0]: 25
 			Sensor[1]: -95
-			Sensor[2]: -1
-			Sensor[3]: 21
+			Sensor[2]: 21
+			Sensor[3]: -1
 			Sensor[4]: 6
 			Sensor[5]: 19
 			Sensor[6]: 49
@@ -461,7 +461,7 @@ Sensor obtained ID 4
 
 			Checking -98 against 2147483647
 				Bottom 5 so far:
-				[-98, -96, -95, -94, -93]
+				[-98, -96, -95, -93, -92]
 				Top 5 so far:
 				[64, 65, 66, 67, 70]
 		< Minute 18 >
@@ -469,39 +469,39 @@ Sensor obtained ID 4
 			Sensor 1 reads: -90
 			Sensor 0 reads: 51
 			Sensor 2 reads: -37
-			Sensor 3 reads: -5
-			Sensor 4 reads: 70
+			Sensor 7 reads: -5
+			Sensor 6 reads: 70
 			Sensor 5 reads: -8
-			Sensor 6 reads: 24
-			Sensor 7 reads: 45
+			Sensor 3 reads: 24
+			Sensor 4 reads: 45
 			Sensor[0]: 51
 			Sensor[1]: -90
 			Sensor[2]: -37
-			Sensor[3]: -5
-			Sensor[4]: 70
+			Sensor[3]: 24
+			Sensor[4]: 45
 			Sensor[5]: -8
-			Sensor[6]: 24
-			Sensor[7]: 45
+			Sensor[6]: 70
+			Sensor[7]: -5
 			Largest diff: 70 - -90 = 160
 
 			Checking -90 against 2147483647
 				Bottom 5 so far:
-				[-98, -96, -95, -94, -93]
+				[-98, -96, -95, -93, -92]
 				Top 5 so far:
 				[64, 65, 66, 67, 70]
 		< Minute 19 >
 
 			Sensor 0 reads: 61
-			Sensor 2 reads: 58
-			Sensor 1 reads: -14
+			Sensor 1 reads: 58
+			Sensor 2 reads: -14
 			Sensor 3 reads: -4
 			Sensor 4 reads: -24
 			Sensor 5 reads: 19
 			Sensor 6 reads: -95
 			Sensor 7 reads: -49
 			Sensor[0]: 61
-			Sensor[1]: -14
-			Sensor[2]: 58
+			Sensor[1]: 58
+			Sensor[2]: -14
 			Sensor[3]: -4
 			Sensor[4]: -24
 			Sensor[5]: 19
@@ -511,7 +511,7 @@ Sensor obtained ID 4
 
 			Checking -95 against 2147483647
 				Bottom 5 so far:
-				[-98, -96, -95, -94, -93]
+				[-98, -96, -95, -93, -92]
 				Top 5 so far:
 				[64, 65, 66, 67, 70]
 		Largest diff this interval: 162
@@ -520,111 +520,111 @@ Sensor obtained ID 4
 
 		< Minute 20 >
 
-			Sensor 1 reads: -62
-			Sensor 0 reads: -91
-			Sensor 2 reads: -64
+			Sensor 0 reads: -62
+			Sensor 2 reads: -91
+			Sensor 1 reads: -64
 			Sensor 3 reads: 49
 			Sensor 4 reads: 28
 			Sensor 5 reads: -47
 			Sensor 6 reads: -44
 			Sensor 7 reads: -87
-			Sensor[0]: -91
-			Sensor[1]: -62
-			Sensor[2]: -64
+			Sensor[0]: -62
+			Sensor[1]: -64
+			Sensor[2]: -91
 			Sensor[3]: 49
 			Sensor[4]: 28
 			Sensor[5]: -47
 			Sensor[6]: -44
 			Sensor[7]: -87
-			Largest diff: 49 - -87 = 136
+			Largest diff: 49 - -91 = 140
 
-			Checking -87 against 2147483647
+			Checking -91 against 2147483647
 				Bottom 5 so far:
-				[-98, -96, -95, -94, -93]
+				[-98, -96, -95, -93, -92]
 				Top 5 so far:
 				[64, 65, 66, 67, 70]
 		< Minute 21 >
 
-			Sensor 1 reads: -75
-			Sensor 0 reads: -50
+			Sensor 1 reads: -50
+			Sensor 2 reads: -75
 			Sensor 3 reads: -79
-			Sensor 2 reads: -96
-			Sensor 4 reads: -20
-			Sensor 5 reads: 44
-			Sensor 6 reads: 42
-			Sensor 7 reads: -27
-			Sensor[0]: -50
-			Sensor[1]: -75
-			Sensor[2]: -96
+			Sensor 4 reads: -96
+			Sensor 5 reads: -20
+			Sensor 6 reads: 44
+			Sensor 7 reads: 42
+			Sensor 0 reads: -27
+			Sensor[0]: -27
+			Sensor[1]: -50
+			Sensor[2]: -75
 			Sensor[3]: -79
-			Sensor[4]: -20
-			Sensor[5]: 44
-			Sensor[6]: 42
-			Sensor[7]: -27
+			Sensor[4]: -96
+			Sensor[5]: -20
+			Sensor[6]: 44
+			Sensor[7]: 42
 			Largest diff: 44 - -96 = 140
 
 			Checking -96 against 2147483647
 				Bottom 5 so far:
-				[-98, -96, -95, -94, -93]
+				[-98, -96, -95, -93, -92]
 				Top 5 so far:
 				[64, 65, 66, 67, 70]
 		< Minute 22 >
 
 			Sensor 0 reads: -1
-			Sensor 1 reads: 48
-			Sensor 4 reads: -22
-			Sensor 6 reads: 27
-			Sensor 2 reads: -14
-			Sensor 7 reads: -58
+			Sensor 6 reads: 48
+			Sensor 2 reads: -22
+			Sensor 3 reads: 27
+			Sensor 1 reads: -14
+			Sensor 4 reads: -58
 			Sensor 5 reads: 39
-			Sensor 3 reads: 16
+			Sensor 7 reads: 16
 			Sensor[0]: -1
-			Sensor[1]: 48
-			Sensor[2]: -14
-			Sensor[3]: 16
-			Sensor[4]: -22
+			Sensor[1]: -14
+			Sensor[2]: -22
+			Sensor[3]: 27
+			Sensor[4]: -58
 			Sensor[5]: 39
-			Sensor[6]: 27
-			Sensor[7]: -58
+			Sensor[6]: 48
+			Sensor[7]: 16
 			Largest diff: 48 - -58 = 106
 
 			Checking -58 against 2147483647
 				Bottom 5 so far:
-				[-98, -96, -95, -94, -93]
+				[-98, -96, -95, -93, -92]
 				Top 5 so far:
 				[64, 65, 66, 67, 70]
 		< Minute 23 >
 
+			Sensor 1 reads: -95
 			Sensor 0 reads: -36
-			Sensor 2 reads: -95
-			Sensor 1 reads: -57
-			Sensor 4 reads: -89
-			Sensor 6 reads: -80
-			Sensor 7 reads: -58
-			Sensor 3 reads: 36
-			Sensor 5 reads: -33
+			Sensor 2 reads: -57
+			Sensor 3 reads: -89
+			Sensor 4 reads: -80
+			Sensor 5 reads: 36
+			Sensor 6 reads: -58
+			Sensor 7 reads: -33
 			Sensor[0]: -36
-			Sensor[1]: -57
-			Sensor[2]: -95
-			Sensor[3]: 36
-			Sensor[4]: -89
-			Sensor[5]: -33
-			Sensor[6]: -80
-			Sensor[7]: -58
+			Sensor[1]: -95
+			Sensor[2]: -57
+			Sensor[3]: -89
+			Sensor[4]: -80
+			Sensor[5]: 36
+			Sensor[6]: -58
+			Sensor[7]: -33
 			Largest diff: 36 - -95 = 131
 
 			Checking -95 against 2147483647
 				Bottom 5 so far:
-				[-98, -96, -95, -94, -93]
+				[-98, -96, -95, -93, -92]
 				Top 5 so far:
 				[64, 65, 66, 67, 70]
 		< Minute 24 >
 
 			Sensor 0 reads: -84
-			Sensor 2 reads: -39
 			Sensor 1 reads: -77
-			Sensor 4 reads: -83
+			Sensor 2 reads: -39
 			Sensor 3 reads: -83
+			Sensor 4 reads: -83
 			Sensor 5 reads: 9
 			Sensor 6 reads: -76
 			Sensor 7 reads: -24
@@ -640,47 +640,47 @@ Sensor obtained ID 4
 
 			Checking -83 against 2147483647
 				Bottom 5 so far:
-				[-98, -96, -95, -94, -93]
+				[-98, -96, -95, -93, -92]
 				Top 5 so far:
 				[64, 65, 66, 67, 70]
 		< Minute 25 >
 
-			Sensor 0 reads: -44
-			Sensor 1 reads: 57
-			Sensor 2 reads: 32
-			Sensor 4 reads: -68
-			Sensor 3 reads: 47
-			Sensor 6 reads: -55
-			Sensor 7 reads: 49
-			Sensor 5 reads: -18
-			Sensor[0]: -44
-			Sensor[1]: 57
-			Sensor[2]: 32
-			Sensor[3]: 47
-			Sensor[4]: -68
-			Sensor[5]: -18
-			Sensor[6]: -55
-			Sensor[7]: 49
+			Sensor 0 reads: 57
+			Sensor 1 reads: -44
+			Sensor 3 reads: 32
+			Sensor 5 reads: -68
+			Sensor 4 reads: 47
+			Sensor 2 reads: -55
+			Sensor 6 reads: 49
+			Sensor 7 reads: -18
+			Sensor[0]: 57
+			Sensor[1]: -44
+			Sensor[2]: -55
+			Sensor[3]: 32
+			Sensor[4]: 47
+			Sensor[5]: -68
+			Sensor[6]: 49
+			Sensor[7]: -18
 			Largest diff: 57 - -68 = 125
 
 			Checking -68 against 2147483647
 				Bottom 5 so far:
-				[-98, -96, -95, -94, -93]
+				[-98, -96, -95, -93, -92]
 				Top 5 so far:
 				[64, 65, 66, 67, 70]
 		< Minute 26 >
 
-			Sensor 1 reads: 58
-			Sensor 0 reads: 33
-			Sensor 2 reads: -82
+			Sensor 0 reads: 58
+			Sensor 2 reads: 33
+			Sensor 1 reads: -82
 			Sensor 3 reads: 1
 			Sensor 4 reads: -55
 			Sensor 5 reads: -22
 			Sensor 6 reads: -100
 			Sensor 7 reads: -41
-			Sensor[0]: 33
-			Sensor[1]: 58
-			Sensor[2]: -82
+			Sensor[0]: 58
+			Sensor[1]: -82
+			Sensor[2]: 33
 			Sensor[3]: 1
 			Sensor[4]: -55
 			Sensor[5]: -22
@@ -690,49 +690,49 @@ Sensor obtained ID 4
 
 			Checking -100 against 2147483647
 				Bottom 5 so far:
-				[-100, -98, -96, -95, -94]
+				[-100, -98, -96, -95, -93]
 				Top 5 so far:
 				[64, 65, 66, 67, 70]
 		< Minute 27 >
 
-			Sensor 0 reads: -7
 			Sensor 1 reads: -54
-			Sensor 4 reads: 12
+			Sensor 0 reads: -7
+			Sensor 2 reads: 12
 			Sensor 3 reads: -23
-			Sensor 6 reads: -39
-			Sensor 5 reads: -68
-			Sensor 2 reads: -6
-			Sensor 7 reads: -21
+			Sensor 5 reads: -6
+			Sensor 6 reads: -68
+			Sensor 7 reads: -39
+			Sensor 4 reads: -21
 			Sensor[0]: -7
 			Sensor[1]: -54
-			Sensor[2]: -6
+			Sensor[2]: 12
 			Sensor[3]: -23
-			Sensor[4]: 12
-			Sensor[5]: -68
-			Sensor[6]: -39
-			Sensor[7]: -21
+			Sensor[4]: -21
+			Sensor[5]: -6
+			Sensor[6]: -68
+			Sensor[7]: -39
 			Largest diff: 12 - -68 = 80
 
 			Checking -68 against 2147483647
 				Bottom 5 so far:
-				[-100, -98, -96, -95, -94]
+				[-100, -98, -96, -95, -93]
 				Top 5 so far:
 				[64, 65, 66, 67, 70]
 		< Minute 28 >
 
-			Sensor 1 reads: -5
-			Sensor 0 reads: -1
+			Sensor 1 reads: -1
+			Sensor 0 reads: -5
 			Sensor 2 reads: -3
-			Sensor 3 reads: -85
-			Sensor 4 reads: -84
+			Sensor 4 reads: -85
 			Sensor 5 reads: 58
+			Sensor 3 reads: -84
 			Sensor 6 reads: 4
 			Sensor 7 reads: -24
-			Sensor[0]: -1
-			Sensor[1]: -5
+			Sensor[0]: -5
+			Sensor[1]: -1
 			Sensor[2]: -3
-			Sensor[3]: -85
-			Sensor[4]: -84
+			Sensor[3]: -84
+			Sensor[4]: -85
 			Sensor[5]: 58
 			Sensor[6]: 4
 			Sensor[7]: -24
@@ -740,32 +740,32 @@ Sensor obtained ID 4
 
 			Checking -85 against 2147483647
 				Bottom 5 so far:
-				[-100, -98, -96, -95, -94]
+				[-100, -98, -96, -95, -93]
 				Top 5 so far:
 				[64, 65, 66, 67, 70]
 		< Minute 29 >
 
-			Sensor 0 reads: -85
-			Sensor 2 reads: -70
-			Sensor 3 reads: -71
-			Sensor 1 reads: -22
-			Sensor 4 reads: 59
+			Sensor 4 reads: -71
+			Sensor 3 reads: 59
 			Sensor 5 reads: -52
-			Sensor 6 reads: 49
-			Sensor 7 reads: 47
-			Sensor[0]: -85
-			Sensor[1]: -22
-			Sensor[2]: -70
-			Sensor[3]: -71
-			Sensor[4]: 59
+			Sensor 0 reads: -70
+			Sensor 6 reads: 47
+			Sensor 1 reads: -85
+			Sensor 7 reads: 49
+			Sensor 2 reads: -22
+			Sensor[0]: -70
+			Sensor[1]: -85
+			Sensor[2]: -22
+			Sensor[3]: 59
+			Sensor[4]: -71
 			Sensor[5]: -52
-			Sensor[6]: 49
-			Sensor[7]: 47
-			Largest diff: 59 - -71 = 130
+			Sensor[6]: 47
+			Sensor[7]: 49
+			Largest diff: 59 - -85 = 144
 
-			Checking -71 against 2147483647
+			Checking -85 against 2147483647
 				Bottom 5 so far:
-				[-100, -98, -96, -95, -94]
+				[-100, -98, -96, -95, -93]
 				Top 5 so far:
 				[64, 65, 66, 67, 70]
 		Largest diff this interval: 158
@@ -774,27 +774,27 @@ Sensor obtained ID 4
 
 		< Minute 30 >
 
-			Sensor 0 reads: -96
-			Sensor 1 reads: -62
-			Sensor 3 reads: -68
-			Sensor 4 reads: -32
-			Sensor 2 reads: 59
+			Sensor 1 reads: -96
+			Sensor 0 reads: -62
+			Sensor 2 reads: -68
+			Sensor 3 reads: -32
+			Sensor 4 reads: 59
 			Sensor 5 reads: -25
 			Sensor 6 reads: 0
 			Sensor 7 reads: 55
-			Sensor[0]: -96
-			Sensor[1]: -62
-			Sensor[2]: 59
-			Sensor[3]: -68
-			Sensor[4]: -32
+			Sensor[0]: -62
+			Sensor[1]: -96
+			Sensor[2]: -68
+			Sensor[3]: -32
+			Sensor[4]: 59
 			Sensor[5]: -25
 			Sensor[6]: 0
 			Sensor[7]: 55
-			Largest diff: 59 - -68 = 127
+			Largest diff: 59 - -96 = 155
 
-			Checking -68 against 2147483647
+			Checking -96 against 2147483647
 				Bottom 5 so far:
-				[-100, -98, -96, -95, -94]
+				[-100, -98, -96, -95, -93]
 				Top 5 so far:
 				[64, 65, 66, 67, 70]
 		< Minute 31 >
@@ -824,22 +824,22 @@ Sensor obtained ID 4
 				[64, 65, 66, 67, 70]
 		< Minute 32 >
 
-			Sensor 0 reads: 12
 			Sensor 1 reads: 18
+			Sensor 0 reads: 12
 			Sensor 2 reads: -33
-			Sensor 6 reads: -19
-			Sensor 3 reads: -82
-			Sensor 4 reads: 30
-			Sensor 5 reads: 5
-			Sensor 7 reads: 44
+			Sensor 3 reads: 44
+			Sensor 4 reads: -19
+			Sensor 6 reads: 30
+			Sensor 7 reads: 5
+			Sensor 5 reads: -82
 			Sensor[0]: 12
 			Sensor[1]: 18
 			Sensor[2]: -33
-			Sensor[3]: -82
-			Sensor[4]: 30
-			Sensor[5]: 5
-			Sensor[6]: -19
-			Sensor[7]: 44
+			Sensor[3]: 44
+			Sensor[4]: -19
+			Sensor[5]: -82
+			Sensor[6]: 30
+			Sensor[7]: 5
 			Largest diff: 44 - -82 = 126
 
 			Checking -82 against 2147483647
@@ -874,16 +874,16 @@ Sensor obtained ID 4
 				[64, 65, 66, 67, 70]
 		< Minute 34 >
 
-			Sensor 0 reads: -17
-			Sensor 1 reads: -89
+			Sensor 0 reads: -89
+			Sensor 1 reads: -17
 			Sensor 2 reads: -21
 			Sensor 3 reads: -68
 			Sensor 5 reads: 6
 			Sensor 4 reads: -32
 			Sensor 6 reads: -70
 			Sensor 7 reads: -93
-			Sensor[0]: -17
-			Sensor[1]: -89
+			Sensor[0]: -89
+			Sensor[1]: -17
 			Sensor[2]: -21
 			Sensor[3]: -68
 			Sensor[4]: -32
@@ -899,19 +899,19 @@ Sensor obtained ID 4
 				[64, 65, 66, 67, 70]
 		< Minute 35 >
 
-			Sensor 1 reads: 56
-			Sensor 0 reads: -10
+			Sensor 0 reads: 56
+			Sensor 1 reads: -10
 			Sensor 2 reads: -33
-			Sensor 4 reads: 66
-			Sensor 3 reads: -91
+			Sensor 3 reads: 66
+			Sensor 4 reads: -91
 			Sensor 5 reads: 39
 			Sensor 6 reads: 28
 			Sensor 7 reads: -81
-			Sensor[0]: -10
-			Sensor[1]: 56
+			Sensor[0]: 56
+			Sensor[1]: -10
 			Sensor[2]: -33
-			Sensor[3]: -91
-			Sensor[4]: 66
+			Sensor[3]: 66
+			Sensor[4]: -91
 			Sensor[5]: 39
 			Sensor[6]: 28
 			Sensor[7]: -81
@@ -950,20 +950,20 @@ Sensor obtained ID 4
 		< Minute 37 >
 
 			Sensor 0 reads: -55
-			Sensor 1 reads: -30
 			Sensor 2 reads: 39
+			Sensor 1 reads: -30
 			Sensor 3 reads: 48
 			Sensor 4 reads: -54
-			Sensor 5 reads: 59
-			Sensor 6 reads: -47
+			Sensor 6 reads: 59
+			Sensor 5 reads: -47
 			Sensor 7 reads: -59
 			Sensor[0]: -55
 			Sensor[1]: -30
 			Sensor[2]: 39
 			Sensor[3]: 48
 			Sensor[4]: -54
-			Sensor[5]: 59
-			Sensor[6]: -47
+			Sensor[5]: -47
+			Sensor[6]: 59
 			Sensor[7]: -59
 			Largest diff: 59 - -59 = 118
 
@@ -976,20 +976,20 @@ Sensor obtained ID 4
 
 			Sensor 0 reads: -8
 			Sensor 1 reads: -54
-			Sensor 2 reads: -46
 			Sensor 3 reads: -63
+			Sensor 2 reads: -46
 			Sensor 4 reads: -10
 			Sensor 5 reads: -97
-			Sensor 6 reads: -7
-			Sensor 7 reads: 33
+			Sensor 7 reads: -7
+			Sensor 6 reads: 33
 			Sensor[0]: -8
 			Sensor[1]: -54
 			Sensor[2]: -46
 			Sensor[3]: -63
 			Sensor[4]: -10
 			Sensor[5]: -97
-			Sensor[6]: -7
-			Sensor[7]: 33
+			Sensor[6]: 33
+			Sensor[7]: -7
 			Largest diff: 33 - -97 = 130
 
 			Checking -97 against 2147483647
@@ -1002,16 +1002,16 @@ Sensor obtained ID 4
 			Sensor 0 reads: -29
 			Sensor 1 reads: -4
 			Sensor 2 reads: 40
-			Sensor 4 reads: -10
-			Sensor 3 reads: 1
+			Sensor 3 reads: -10
+			Sensor 4 reads: 1
 			Sensor 5 reads: -31
 			Sensor 6 reads: -34
 			Sensor 7 reads: 25
 			Sensor[0]: -29
 			Sensor[1]: -4
 			Sensor[2]: 40
-			Sensor[3]: 1
-			Sensor[4]: -10
+			Sensor[3]: -10
+			Sensor[4]: 1
 			Sensor[5]: -31
 			Sensor[6]: -34
 			Sensor[7]: 25
@@ -1029,16 +1029,16 @@ Sensor obtained ID 4
 		< Minute 40 >
 
 			Sensor 0 reads: 66
-			Sensor 2 reads: -24
+			Sensor 1 reads: -24
+			Sensor 2 reads: 18
 			Sensor 3 reads: 66
-			Sensor 1 reads: 18
 			Sensor 4 reads: 28
 			Sensor 5 reads: -77
 			Sensor 6 reads: -88
 			Sensor 7 reads: 48
 			Sensor[0]: 66
-			Sensor[1]: 18
-			Sensor[2]: -24
+			Sensor[1]: -24
+			Sensor[2]: 18
 			Sensor[3]: 66
 			Sensor[4]: 28
 			Sensor[5]: -77
@@ -1054,20 +1054,20 @@ Sensor obtained ID 4
 		< Minute 41 >
 
 			Sensor 0 reads: -49
-			Sensor 1 reads: -57
-			Sensor 2 reads: 54
+			Sensor 2 reads: -57
+			Sensor 1 reads: 54
 			Sensor 3 reads: -13
 			Sensor 4 reads: -16
-			Sensor 5 reads: 19
-			Sensor 6 reads: -100
+			Sensor 6 reads: 19
+			Sensor 5 reads: -100
 			Sensor 7 reads: -31
 			Sensor[0]: -49
-			Sensor[1]: -57
-			Sensor[2]: 54
+			Sensor[1]: 54
+			Sensor[2]: -57
 			Sensor[3]: -13
 			Sensor[4]: -16
-			Sensor[5]: 19
-			Sensor[6]: -100
+			Sensor[5]: -100
+			Sensor[6]: 19
 			Sensor[7]: -31
 			Largest diff: 54 - -100 = 154
 
@@ -1104,24 +1104,24 @@ Sensor obtained ID 4
 		< Minute 43 >
 
 			Sensor 0 reads: -92
-			Sensor 2 reads: -55
-			Sensor 1 reads: -22
+			Sensor 1 reads: -55
 			Sensor 3 reads: -7
+			Sensor 2 reads: -22
 			Sensor 4 reads: 44
-			Sensor 6 reads: 70
-			Sensor 5 reads: 19
+			Sensor 5 reads: 70
+			Sensor 6 reads: 19
 			Sensor 7 reads: 63
 			Sensor[0]: -92
-			Sensor[1]: -22
-			Sensor[2]: -55
+			Sensor[1]: -55
+			Sensor[2]: -22
 			Sensor[3]: -7
 			Sensor[4]: 44
-			Sensor[5]: 19
-			Sensor[6]: 70
+			Sensor[5]: 70
+			Sensor[6]: 19
 			Sensor[7]: 63
-			Largest diff: 70 - -55 = 125
+			Largest diff: 70 - 19 = 51
 
-			Checking -55 against 2147483647
+			Checking 19 against 2147483647
 				Bottom 5 so far:
 				[-100, -98, -97, -96, -95]
 				Top 5 so far:
@@ -1133,16 +1133,16 @@ Sensor obtained ID 4
 			Sensor 2 reads: 56
 			Sensor 3 reads: -91
 			Sensor 4 reads: 3
-			Sensor 6 reads: -12
-			Sensor 5 reads: -53
+			Sensor 5 reads: -12
+			Sensor 6 reads: -53
 			Sensor 7 reads: 60
 			Sensor[0]: 8
 			Sensor[1]: -10
 			Sensor[2]: 56
 			Sensor[3]: -91
 			Sensor[4]: 3
-			Sensor[5]: -53
-			Sensor[6]: -12
+			Sensor[5]: -12
+			Sensor[6]: -53
 			Sensor[7]: 60
 			Largest diff: 60 - -91 = 151
 
@@ -1203,21 +1203,21 @@ Sensor obtained ID 4
 				[65, 66, 67, 68, 70]
 		< Minute 47 >
 
-			Sensor 1 reads: -23
-			Sensor 4 reads: 63
-			Sensor 0 reads: 49
-			Sensor 2 reads: 43
-			Sensor 6 reads: -28
-			Sensor 3 reads: -22
-			Sensor 5 reads: 47
+			Sensor 0 reads: -23
+			Sensor 2 reads: 63
+			Sensor 1 reads: 49
+			Sensor 3 reads: 43
+			Sensor 4 reads: -28
+			Sensor 5 reads: -22
+			Sensor 6 reads: 47
 			Sensor 7 reads: -96
-			Sensor[0]: 49
-			Sensor[1]: -23
-			Sensor[2]: 43
-			Sensor[3]: -22
-			Sensor[4]: 63
-			Sensor[5]: 47
-			Sensor[6]: -28
+			Sensor[0]: -23
+			Sensor[1]: 49
+			Sensor[2]: 63
+			Sensor[3]: 43
+			Sensor[4]: -28
+			Sensor[5]: -22
+			Sensor[6]: 47
 			Sensor[7]: -96
 			Largest diff: 63 - -96 = 159
 
@@ -1228,21 +1228,21 @@ Sensor obtained ID 4
 				[65, 66, 67, 68, 70]
 		< Minute 48 >
 
-			Sensor 1 reads: -70
-			Sensor 0 reads: 10
+			Sensor 0 reads: -70
+			Sensor 1 reads: 10
 			Sensor 2 reads: -19
 			Sensor 3 reads: -15
 			Sensor 4 reads: -16
-			Sensor 5 reads: -81
-			Sensor 6 reads: -28
+			Sensor 6 reads: -81
+			Sensor 5 reads: -28
 			Sensor 7 reads: -66
-			Sensor[0]: 10
-			Sensor[1]: -70
+			Sensor[0]: -70
+			Sensor[1]: 10
 			Sensor[2]: -19
 			Sensor[3]: -15
 			Sensor[4]: -16
-			Sensor[5]: -81
-			Sensor[6]: -28
+			Sensor[5]: -28
+			Sensor[6]: -81
 			Sensor[7]: -66
 			Largest diff: 10 - -81 = 91
 
@@ -1254,21 +1254,21 @@ Sensor obtained ID 4
 		< Minute 49 >
 
 			Sensor 0 reads: 53
-			Sensor 1 reads: -21
-			Sensor 7 reads: -17
-			Sensor 2 reads: -5
-			Sensor 3 reads: -85
-			Sensor 4 reads: -52
-			Sensor 5 reads: -84
-			Sensor 6 reads: -5
+			Sensor 1 reads: -17
+			Sensor 2 reads: -21
+			Sensor 3 reads: -5
+			Sensor 4 reads: -85
+			Sensor 5 reads: -52
+			Sensor 6 reads: -84
+			Sensor 7 reads: -5
 			Sensor[0]: 53
-			Sensor[1]: -21
-			Sensor[2]: -5
-			Sensor[3]: -85
-			Sensor[4]: -52
-			Sensor[5]: -84
-			Sensor[6]: -5
-			Sensor[7]: -17
+			Sensor[1]: -17
+			Sensor[2]: -21
+			Sensor[3]: -5
+			Sensor[4]: -85
+			Sensor[5]: -52
+			Sensor[6]: -84
+			Sensor[7]: -5
 			Largest diff: 53 - -85 = 138
 
 			Checking -85 against 2147483647
@@ -1307,22 +1307,22 @@ Sensor obtained ID 4
 				[65, 66, 67, 68, 70]
 		< Minute 51 >
 
-			Sensor 0 reads: 65
-			Sensor 1 reads: -31
-			Sensor 2 reads: -96
-			Sensor 4 reads: -82
+			Sensor 1 reads: 65
+			Sensor 2 reads: -31
+			Sensor 0 reads: -82
+			Sensor 4 reads: -96
 			Sensor 3 reads: -87
-			Sensor 6 reads: 24
-			Sensor 7 reads: 41
-			Sensor 5 reads: -4
-			Sensor[0]: 65
-			Sensor[1]: -31
-			Sensor[2]: -96
+			Sensor 5 reads: 24
+			Sensor 6 reads: 41
+			Sensor 7 reads: -4
+			Sensor[0]: -82
+			Sensor[1]: 65
+			Sensor[2]: -31
 			Sensor[3]: -87
-			Sensor[4]: -82
-			Sensor[5]: -4
-			Sensor[6]: 24
-			Sensor[7]: 41
+			Sensor[4]: -96
+			Sensor[5]: 24
+			Sensor[6]: 41
+			Sensor[7]: -4
 			Largest diff: 65 - -96 = 161
 
 			Checking -96 against 2147483647
@@ -1332,67 +1332,67 @@ Sensor obtained ID 4
 				[65, 66, 67, 68, 70]
 		< Minute 52 >
 
-			Sensor 0 reads: -88
-			Sensor 3 reads: 69
-			Sensor 4 reads: 52
-			Sensor 6 reads: 1
-			Sensor 5 reads: -8
-			Sensor 7 reads: 62
-			Sensor 1 reads: 53
-			Sensor 2 reads: 56
-			Sensor[0]: -88
-			Sensor[1]: 53
-			Sensor[2]: 56
-			Sensor[3]: 69
-			Sensor[4]: 52
-			Sensor[5]: -8
-			Sensor[6]: 1
-			Sensor[7]: 62
-			Largest diff: 69 - -8 = 77
+			Sensor 0 reads: 69
+			Sensor 1 reads: -88
+			Sensor 2 reads: 52
+			Sensor 3 reads: 1
+			Sensor 4 reads: -8
+			Sensor 5 reads: 62
+			Sensor 6 reads: 53
+			Sensor 7 reads: 56
+			Sensor[0]: 69
+			Sensor[1]: -88
+			Sensor[2]: 52
+			Sensor[3]: 1
+			Sensor[4]: -8
+			Sensor[5]: 62
+			Sensor[6]: 53
+			Sensor[7]: 56
+			Largest diff: 69 - -88 = 157
 
-			Checking -8 against 2147483647
+			Checking -88 against 2147483647
 				Bottom 5 so far:
 				[-100, -99, -98, -97, -96]
 				Top 5 so far:
 				[66, 67, 68, 69, 70]
 		< Minute 53 >
 
-			Sensor 1 reads: -24
-			Sensor 0 reads: -35
-			Sensor 3 reads: 32
-			Sensor 4 reads: -8
-			Sensor 5 reads: 26
-			Sensor 2 reads: 38
+			Sensor 0 reads: -24
+			Sensor 1 reads: -35
+			Sensor 2 reads: 32
+			Sensor 3 reads: -8
+			Sensor 4 reads: 26
+			Sensor 5 reads: 38
 			Sensor 6 reads: -30
 			Sensor 7 reads: 13
-			Sensor[0]: -35
-			Sensor[1]: -24
-			Sensor[2]: 38
-			Sensor[3]: 32
-			Sensor[4]: -8
-			Sensor[5]: 26
+			Sensor[0]: -24
+			Sensor[1]: -35
+			Sensor[2]: 32
+			Sensor[3]: -8
+			Sensor[4]: 26
+			Sensor[5]: 38
 			Sensor[6]: -30
 			Sensor[7]: 13
-			Largest diff: 38 - -30 = 68
+			Largest diff: 38 - -35 = 73
 
-			Checking -30 against 2147483647
+			Checking -35 against 2147483647
 				Bottom 5 so far:
 				[-100, -99, -98, -97, -96]
 				Top 5 so far:
 				[66, 67, 68, 69, 70]
 		< Minute 54 >
 
-			Sensor 1 reads: 15
-			Sensor 2 reads: 68
-			Sensor 0 reads: 61
+			Sensor 0 reads: 15
+			Sensor 1 reads: 68
+			Sensor 2 reads: 61
 			Sensor 3 reads: -48
 			Sensor 4 reads: -10
 			Sensor 5 reads: 19
 			Sensor 6 reads: -46
 			Sensor 7 reads: -76
-			Sensor[0]: 61
-			Sensor[1]: 15
-			Sensor[2]: 68
+			Sensor[0]: 15
+			Sensor[1]: 68
+			Sensor[2]: 61
 			Sensor[3]: -48
 			Sensor[4]: -10
 			Sensor[5]: 19
@@ -1407,21 +1407,21 @@ Sensor obtained ID 4
 				[66, 67, 68, 69, 70]
 		< Minute 55 >
 
-			Sensor 1 reads: 66
+			Sensor 2 reads: 66
 			Sensor 0 reads: 22
-			Sensor 3 reads: 16
+			Sensor 1 reads: 16
 			Sensor 4 reads: -84
-			Sensor 5 reads: -42
-			Sensor 6 reads: 42
-			Sensor 2 reads: -19
+			Sensor 3 reads: -42
+			Sensor 5 reads: 42
+			Sensor 6 reads: -19
 			Sensor 7 reads: -63
 			Sensor[0]: 22
-			Sensor[1]: 66
-			Sensor[2]: -19
-			Sensor[3]: 16
+			Sensor[1]: 16
+			Sensor[2]: 66
+			Sensor[3]: -42
 			Sensor[4]: -84
-			Sensor[5]: -42
-			Sensor[6]: 42
+			Sensor[5]: 42
+			Sensor[6]: -19
 			Sensor[7]: -63
 			Largest diff: 66 - -84 = 150
 
@@ -1435,16 +1435,16 @@ Sensor obtained ID 4
 			Sensor 0 reads: -5
 			Sensor 1 reads: 2
 			Sensor 2 reads: -51
-			Sensor 4 reads: -62
-			Sensor 3 reads: 47
+			Sensor 3 reads: -62
+			Sensor 4 reads: 47
 			Sensor 5 reads: -27
 			Sensor 6 reads: -75
 			Sensor 7 reads: -6
 			Sensor[0]: -5
 			Sensor[1]: 2
 			Sensor[2]: -51
-			Sensor[3]: 47
-			Sensor[4]: -62
+			Sensor[3]: -62
+			Sensor[4]: 47
 			Sensor[5]: -27
 			Sensor[6]: -75
 			Sensor[7]: -6
@@ -1459,19 +1459,19 @@ Sensor obtained ID 4
 
 			Sensor 0 reads: -9
 			Sensor 1 reads: 20
-			Sensor 2 reads: 52
-			Sensor 3 reads: -21
+			Sensor 3 reads: 52
+			Sensor 2 reads: -21
 			Sensor 4 reads: 16
-			Sensor 6 reads: 49
-			Sensor 5 reads: 44
+			Sensor 5 reads: 49
+			Sensor 6 reads: 44
 			Sensor 7 reads: -99
 			Sensor[0]: -9
 			Sensor[1]: 20
-			Sensor[2]: 52
-			Sensor[3]: -21
+			Sensor[2]: -21
+			Sensor[3]: 52
 			Sensor[4]: 16
-			Sensor[5]: 44
-			Sensor[6]: 49
+			Sensor[5]: 49
+			Sensor[6]: 44
 			Sensor[7]: -99
 			Largest diff: 52 - -99 = 151
 
@@ -1508,20 +1508,20 @@ Sensor obtained ID 4
 		< Minute 59 >
 
 			Sensor 0 reads: -82
-			Sensor 1 reads: -1
 			Sensor 3 reads: -77
-			Sensor 2 reads: -67
+			Sensor 2 reads: -1
+			Sensor 1 reads: -67
 			Sensor 4 reads: 17
-			Sensor 6 reads: 24
-			Sensor 5 reads: -85
+			Sensor 5 reads: 24
+			Sensor 6 reads: -85
 			Sensor 7 reads: 23
 			Sensor[0]: -82
-			Sensor[1]: -1
-			Sensor[2]: -67
+			Sensor[1]: -67
+			Sensor[2]: -1
 			Sensor[3]: -77
 			Sensor[4]: 17
-			Sensor[5]: -85
-			Sensor[6]: 24
+			Sensor[5]: 24
+			Sensor[6]: -85
 			Sensor[7]: 23
 			Largest diff: 24 - -85 = 109
 
@@ -1542,16 +1542,16 @@ Sensor obtained ID 4
 
 			Sensor 0 reads: -11
 			Sensor 1 reads: -67
-			Sensor 3 reads: 57
-			Sensor 2 reads: -40
+			Sensor 2 reads: 57
+			Sensor 3 reads: -40
 			Sensor 4 reads: -43
 			Sensor 5 reads: 14
 			Sensor 6 reads: -92
 			Sensor 7 reads: -37
 			Sensor[0]: -11
 			Sensor[1]: -67
-			Sensor[2]: -40
-			Sensor[3]: 57
+			Sensor[2]: 57
+			Sensor[3]: -40
 			Sensor[4]: -43
 			Sensor[5]: 14
 			Sensor[6]: -92
@@ -1565,22 +1565,22 @@ Sensor obtained ID 4
 				[57]
 		< Minute 61 >
 
-			Sensor 0 reads: 46
-			Sensor 2 reads: -6
-			Sensor 4 reads: -16
-			Sensor 6 reads: 19
-			Sensor 3 reads: -22
+			Sensor 2 reads: 46
+			Sensor 3 reads: -6
+			Sensor 0 reads: -16
 			Sensor 1 reads: 59
-			Sensor 7 reads: 63
-			Sensor 5 reads: -7
-			Sensor[0]: 46
+			Sensor 4 reads: 19
+			Sensor 5 reads: -22
+			Sensor 6 reads: 63
+			Sensor 7 reads: -7
+			Sensor[0]: -16
 			Sensor[1]: 59
-			Sensor[2]: -6
-			Sensor[3]: -22
-			Sensor[4]: -16
-			Sensor[5]: -7
-			Sensor[6]: 19
-			Sensor[7]: 63
+			Sensor[2]: 46
+			Sensor[3]: -6
+			Sensor[4]: 19
+			Sensor[5]: -22
+			Sensor[6]: 63
+			Sensor[7]: -7
 			Largest diff: 63 - -22 = 85
 
 			Checking -22 against 2147483647
@@ -1590,17 +1590,17 @@ Sensor obtained ID 4
 				[57, 63]
 		< Minute 62 >
 
-			Sensor 2 reads: 34
-			Sensor 0 reads: 62
-			Sensor 1 reads: 12
+			Sensor 0 reads: 34
+			Sensor 1 reads: 62
+			Sensor 2 reads: 12
 			Sensor 3 reads: -59
 			Sensor 4 reads: 63
 			Sensor 5 reads: -59
 			Sensor 6 reads: -98
 			Sensor 7 reads: 54
-			Sensor[0]: 62
-			Sensor[1]: 12
-			Sensor[2]: 34
+			Sensor[0]: 34
+			Sensor[1]: 62
+			Sensor[2]: 12
 			Sensor[3]: -59
 			Sensor[4]: 63
 			Sensor[5]: -59
@@ -1615,21 +1615,21 @@ Sensor obtained ID 4
 				[57, 63]
 		< Minute 63 >
 
-			Sensor 2 reads: -75
+			Sensor 0 reads: -75
 			Sensor 1 reads: 15
-			Sensor 0 reads: 54
+			Sensor 2 reads: 54
 			Sensor 3 reads: -13
-			Sensor 6 reads: -96
 			Sensor 4 reads: 5
-			Sensor 5 reads: 37
+			Sensor 5 reads: -96
+			Sensor 6 reads: 37
 			Sensor 7 reads: -45
-			Sensor[0]: 54
+			Sensor[0]: -75
 			Sensor[1]: 15
-			Sensor[2]: -75
+			Sensor[2]: 54
 			Sensor[3]: -13
 			Sensor[4]: 5
-			Sensor[5]: 37
-			Sensor[6]: -96
+			Sensor[5]: -96
+			Sensor[6]: 37
 			Sensor[7]: -45
 			Largest diff: 54 - -96 = 150
 
@@ -1640,19 +1640,19 @@ Sensor obtained ID 4
 				[54, 57, 63]
 		< Minute 64 >
 
-			Sensor 2 reads: 64
-			Sensor 1 reads: -94
-			Sensor 0 reads: -80
-			Sensor 4 reads: 7
-			Sensor 3 reads: -68
+			Sensor 0 reads: 64
+			Sensor 1 reads: -80
+			Sensor 3 reads: 7
+			Sensor 2 reads: -94
+			Sensor 4 reads: -68
 			Sensor 5 reads: 64
 			Sensor 6 reads: 4
 			Sensor 7 reads: -96
-			Sensor[0]: -80
-			Sensor[1]: -94
-			Sensor[2]: 64
-			Sensor[3]: -68
-			Sensor[4]: 7
+			Sensor[0]: 64
+			Sensor[1]: -80
+			Sensor[2]: -94
+			Sensor[3]: 7
+			Sensor[4]: -68
 			Sensor[5]: 64
 			Sensor[6]: 4
 			Sensor[7]: -96
@@ -1665,22 +1665,22 @@ Sensor obtained ID 4
 				[54, 57, 63, 64]
 		< Minute 65 >
 
-			Sensor 1 reads: 66
-			Sensor 0 reads: 17
+			Sensor 0 reads: 66
+			Sensor 1 reads: 17
 			Sensor 2 reads: 56
 			Sensor 3 reads: 20
 			Sensor 4 reads: 58
-			Sensor 6 reads: -72
-			Sensor 7 reads: 33
-			Sensor 5 reads: -73
-			Sensor[0]: 17
-			Sensor[1]: 66
+			Sensor 5 reads: -72
+			Sensor 6 reads: 33
+			Sensor 7 reads: -73
+			Sensor[0]: 66
+			Sensor[1]: 17
 			Sensor[2]: 56
 			Sensor[3]: 20
 			Sensor[4]: 58
-			Sensor[5]: -73
-			Sensor[6]: -72
-			Sensor[7]: 33
+			Sensor[5]: -72
+			Sensor[6]: 33
+			Sensor[7]: -73
 			Largest diff: 66 - -73 = 139
 
 			Checking -73 against 2147483647
@@ -1690,19 +1690,19 @@ Sensor obtained ID 4
 				[54, 57, 63, 64, 66]
 		< Minute 66 >
 
-			Sensor 1 reads: 26
-			Sensor 4 reads: -69
-			Sensor 0 reads: -64
-			Sensor 2 reads: 9
-			Sensor 3 reads: 69
+			Sensor 2 reads: 26
+			Sensor 0 reads: -69
+			Sensor 1 reads: -64
+			Sensor 3 reads: 9
+			Sensor 4 reads: 69
 			Sensor 5 reads: -90
 			Sensor 6 reads: 35
 			Sensor 7 reads: -9
-			Sensor[0]: -64
-			Sensor[1]: 26
-			Sensor[2]: 9
-			Sensor[3]: 69
-			Sensor[4]: -69
+			Sensor[0]: -69
+			Sensor[1]: -64
+			Sensor[2]: 26
+			Sensor[3]: 9
+			Sensor[4]: 69
 			Sensor[5]: -90
 			Sensor[6]: 35
 			Sensor[7]: -9
@@ -1715,21 +1715,21 @@ Sensor obtained ID 4
 				[57, 63, 64, 66, 69]
 		< Minute 67 >
 
-			Sensor 1 reads: 59
-			Sensor 2 reads: 7
-			Sensor 0 reads: 40
+			Sensor 0 reads: 59
+			Sensor 1 reads: 7
+			Sensor 2 reads: 40
 			Sensor 3 reads: -31
 			Sensor 4 reads: -78
-			Sensor 6 reads: 5
-			Sensor 5 reads: -3
+			Sensor 5 reads: 5
+			Sensor 6 reads: -3
 			Sensor 7 reads: -82
-			Sensor[0]: 40
-			Sensor[1]: 59
-			Sensor[2]: 7
+			Sensor[0]: 59
+			Sensor[1]: 7
+			Sensor[2]: 40
 			Sensor[3]: -31
 			Sensor[4]: -78
-			Sensor[5]: -3
-			Sensor[6]: 5
+			Sensor[5]: 5
+			Sensor[6]: -3
 			Sensor[7]: -82
 			Largest diff: 59 - -82 = 141
 
@@ -1742,16 +1742,16 @@ Sensor obtained ID 4
 
 			Sensor 0 reads: 37
 			Sensor 1 reads: 53
-			Sensor 3 reads: 31
-			Sensor 2 reads: -49
-			Sensor 4 reads: -69
+			Sensor 2 reads: 31
+			Sensor 3 reads: -49
 			Sensor 5 reads: 69
+			Sensor 4 reads: -69
 			Sensor 6 reads: 35
 			Sensor 7 reads: 64
 			Sensor[0]: 37
 			Sensor[1]: 53
-			Sensor[2]: -49
-			Sensor[3]: 31
+			Sensor[2]: 31
+			Sensor[3]: -49
 			Sensor[4]: -69
 			Sensor[5]: 69
 			Sensor[6]: 35
@@ -1765,25 +1765,25 @@ Sensor obtained ID 4
 				[59, 63, 64, 66, 69]
 		< Minute 69 >
 
-			Sensor 1 reads: -40
-			Sensor 0 reads: 30
-			Sensor 2 reads: -12
-			Sensor 3 reads: -13
+			Sensor 0 reads: -40
+			Sensor 1 reads: -12
+			Sensor 3 reads: 30
+			Sensor 2 reads: -13
 			Sensor 4 reads: -24
 			Sensor 5 reads: 20
 			Sensor 6 reads: 28
 			Sensor 7 reads: -25
-			Sensor[0]: 30
-			Sensor[1]: -40
-			Sensor[2]: -12
-			Sensor[3]: -13
+			Sensor[0]: -40
+			Sensor[1]: -12
+			Sensor[2]: -13
+			Sensor[3]: 30
 			Sensor[4]: -24
 			Sensor[5]: 20
 			Sensor[6]: 28
 			Sensor[7]: -25
-			Largest diff: 30 - -40 = 70
+			Largest diff: 30 - -25 = 55
 
-			Checking -40 against 2147483647
+			Checking -25 against 2147483647
 				Bottom 5 so far:
 				[-98, -96, -92, -90, -82]
 				Top 5 so far:
@@ -1794,22 +1794,22 @@ Sensor obtained ID 4
 
 		< Minute 70 >
 
-			Sensor 0 reads: 19
-			Sensor 4 reads: -6
-			Sensor 3 reads: 61
-			Sensor 2 reads: -58
-			Sensor 1 reads: -7
-			Sensor 6 reads: -70
-			Sensor 7 reads: 3
-			Sensor 5 reads: -19
-			Sensor[0]: 19
-			Sensor[1]: -7
-			Sensor[2]: -58
-			Sensor[3]: 61
-			Sensor[4]: -6
-			Sensor[5]: -19
-			Sensor[6]: -70
-			Sensor[7]: 3
+			Sensor 0 reads: 61
+			Sensor 1 reads: -6
+			Sensor 2 reads: 19
+			Sensor 3 reads: -58
+			Sensor 4 reads: -7
+			Sensor 5 reads: -70
+			Sensor 6 reads: 3
+			Sensor 7 reads: -19
+			Sensor[0]: 61
+			Sensor[1]: -6
+			Sensor[2]: 19
+			Sensor[3]: -58
+			Sensor[4]: -7
+			Sensor[5]: -70
+			Sensor[6]: 3
+			Sensor[7]: -19
 			Largest diff: 61 - -70 = 131
 
 			Checking -70 against 2147483647
@@ -1821,20 +1821,20 @@ Sensor obtained ID 4
 
 			Sensor 0 reads: -85
 			Sensor 1 reads: -1
-			Sensor 4 reads: 26
-			Sensor 5 reads: -2
-			Sensor 6 reads: 23
-			Sensor 2 reads: -52
-			Sensor 7 reads: 22
-			Sensor 3 reads: -39
+			Sensor 2 reads: 26
+			Sensor 3 reads: -2
+			Sensor 4 reads: 23
+			Sensor 5 reads: -52
+			Sensor 6 reads: 22
+			Sensor 7 reads: -39
 			Sensor[0]: -85
 			Sensor[1]: -1
-			Sensor[2]: -52
-			Sensor[3]: -39
-			Sensor[4]: 26
-			Sensor[5]: -2
-			Sensor[6]: 23
-			Sensor[7]: 22
+			Sensor[2]: 26
+			Sensor[3]: -2
+			Sensor[4]: 23
+			Sensor[5]: -52
+			Sensor[6]: 22
+			Sensor[7]: -39
 			Largest diff: 26 - -52 = 78
 
 			Checking -52 against 2147483647
@@ -1846,20 +1846,20 @@ Sensor obtained ID 4
 
 			Sensor 0 reads: -85
 			Sensor 1 reads: 43
+			Sensor 3 reads: -14
 			Sensor 2 reads: -98
-			Sensor 4 reads: -14
-			Sensor 3 reads: 26
+			Sensor 4 reads: 26
 			Sensor 5 reads: 42
-			Sensor 6 reads: 67
-			Sensor 7 reads: 28
+			Sensor 7 reads: 67
+			Sensor 6 reads: 28
 			Sensor[0]: -85
 			Sensor[1]: 43
 			Sensor[2]: -98
-			Sensor[3]: 26
-			Sensor[4]: -14
+			Sensor[3]: -14
+			Sensor[4]: 26
 			Sensor[5]: 42
-			Sensor[6]: 67
-			Sensor[7]: 28
+			Sensor[6]: 28
+			Sensor[7]: 67
 			Largest diff: 67 - -98 = 165
 
 			Checking -98 against 2147483647
@@ -1870,18 +1870,18 @@ Sensor obtained ID 4
 		< Minute 73 >
 
 			Sensor 0 reads: -37
-			Sensor 2 reads: -54
-			Sensor 3 reads: -74
-			Sensor 4 reads: -48
-			Sensor 1 reads: -56
+			Sensor 1 reads: -54
+			Sensor 2 reads: -74
+			Sensor 3 reads: -48
+			Sensor 4 reads: -56
 			Sensor 5 reads: -67
 			Sensor 6 reads: -43
 			Sensor 7 reads: 8
 			Sensor[0]: -37
-			Sensor[1]: -56
-			Sensor[2]: -54
-			Sensor[3]: -74
-			Sensor[4]: -48
+			Sensor[1]: -54
+			Sensor[2]: -74
+			Sensor[3]: -48
+			Sensor[4]: -56
 			Sensor[5]: -67
 			Sensor[6]: -43
 			Sensor[7]: 8
@@ -1923,16 +1923,16 @@ Sensor obtained ID 4
 			Sensor 1 reads: -97
 			Sensor 2 reads: 33
 			Sensor 3 reads: 64
-			Sensor 4 reads: -48
-			Sensor 5 reads: -11
+			Sensor 5 reads: -48
+			Sensor 4 reads: -11
 			Sensor 6 reads: 2
 			Sensor 7 reads: 55
 			Sensor[0]: 40
 			Sensor[1]: -97
 			Sensor[2]: 33
 			Sensor[3]: 64
-			Sensor[4]: -48
-			Sensor[5]: -11
+			Sensor[4]: -11
+			Sensor[5]: -48
 			Sensor[6]: 2
 			Sensor[7]: 55
 			Largest diff: 64 - -97 = 161
@@ -1944,20 +1944,20 @@ Sensor obtained ID 4
 				[64, 65, 66, 67, 69]
 		< Minute 76 >
 
-			Sensor 0 reads: -9
-			Sensor 1 reads: 67
+			Sensor 1 reads: -9
+			Sensor 0 reads: 67
 			Sensor 2 reads: 54
-			Sensor 3 reads: 4
-			Sensor 4 reads: -79
-			Sensor 5 reads: -72
+			Sensor 5 reads: 4
+			Sensor 3 reads: -79
+			Sensor 4 reads: -72
 			Sensor 6 reads: 16
 			Sensor 7 reads: 32
-			Sensor[0]: -9
-			Sensor[1]: 67
+			Sensor[0]: 67
+			Sensor[1]: -9
 			Sensor[2]: 54
-			Sensor[3]: 4
-			Sensor[4]: -79
-			Sensor[5]: -72
+			Sensor[3]: -79
+			Sensor[4]: -72
+			Sensor[5]: 4
 			Sensor[6]: 16
 			Sensor[7]: 32
 			Largest diff: 67 - -79 = 146
@@ -1994,22 +1994,22 @@ Sensor obtained ID 4
 				[65, 66, 67, 69, 70]
 		< Minute 78 >
 
-			Sensor 1 reads: 14
-			Sensor 0 reads: 49
-			Sensor 2 reads: -11
+			Sensor 0 reads: 14
+			Sensor 2 reads: 49
+			Sensor 1 reads: -11
 			Sensor 3 reads: 41
 			Sensor 4 reads: -66
-			Sensor 7 reads: -20
-			Sensor 5 reads: -75
-			Sensor 6 reads: -94
-			Sensor[0]: 49
-			Sensor[1]: 14
-			Sensor[2]: -11
+			Sensor 6 reads: -75
+			Sensor 5 reads: -20
+			Sensor 7 reads: -94
+			Sensor[0]: 14
+			Sensor[1]: -11
+			Sensor[2]: 49
 			Sensor[3]: 41
 			Sensor[4]: -66
-			Sensor[5]: -75
-			Sensor[6]: -94
-			Sensor[7]: -20
+			Sensor[5]: -20
+			Sensor[6]: -75
+			Sensor[7]: -94
 			Largest diff: 49 - -94 = 143
 
 			Checking -94 against 2147483647
@@ -2019,21 +2019,21 @@ Sensor obtained ID 4
 				[65, 66, 67, 69, 70]
 		< Minute 79 >
 
-			Sensor 1 reads: 5
-			Sensor 0 reads: 61
+			Sensor 0 reads: 5
+			Sensor 1 reads: 61
 			Sensor 2 reads: 51
 			Sensor 3 reads: -5
 			Sensor 4 reads: 18
-			Sensor 5 reads: 40
-			Sensor 6 reads: -8
+			Sensor 6 reads: 40
+			Sensor 5 reads: -8
 			Sensor 7 reads: -94
-			Sensor[0]: 61
-			Sensor[1]: 5
+			Sensor[0]: 5
+			Sensor[1]: 61
 			Sensor[2]: 51
 			Sensor[3]: -5
 			Sensor[4]: 18
-			Sensor[5]: 40
-			Sensor[6]: -8
+			Sensor[5]: -8
+			Sensor[6]: 40
 			Sensor[7]: -94
 			Largest diff: 61 - -94 = 155
 
@@ -2050,16 +2050,16 @@ Sensor obtained ID 4
 
 			Sensor 0 reads: -42
 			Sensor 1 reads: 35
-			Sensor 3 reads: -27
-			Sensor 2 reads: 56
+			Sensor 2 reads: -27
+			Sensor 3 reads: 56
 			Sensor 4 reads: -51
 			Sensor 5 reads: -30
 			Sensor 6 reads: 15
 			Sensor 7 reads: -56
 			Sensor[0]: -42
 			Sensor[1]: 35
-			Sensor[2]: 56
-			Sensor[3]: -27
+			Sensor[2]: -27
+			Sensor[3]: 56
 			Sensor[4]: -51
 			Sensor[5]: -30
 			Sensor[6]: 15
@@ -2073,20 +2073,20 @@ Sensor obtained ID 4
 				[65, 66, 67, 69, 70]
 		< Minute 81 >
 
-			Sensor 1 reads: 64
-			Sensor 0 reads: 50
-			Sensor 4 reads: -79
-			Sensor 2 reads: 46
+			Sensor 0 reads: 64
+			Sensor 5 reads: 50
+			Sensor 2 reads: -79
+			Sensor 1 reads: 46
 			Sensor 3 reads: -1
-			Sensor 5 reads: -89
+			Sensor 4 reads: -89
 			Sensor 6 reads: -96
 			Sensor 7 reads: -29
-			Sensor[0]: 50
-			Sensor[1]: 64
-			Sensor[2]: 46
+			Sensor[0]: 64
+			Sensor[1]: 46
+			Sensor[2]: -79
 			Sensor[3]: -1
-			Sensor[4]: -79
-			Sensor[5]: -89
+			Sensor[4]: -89
+			Sensor[5]: 50
 			Sensor[6]: -96
 			Sensor[7]: -29
 			Largest diff: 64 - -96 = 160
@@ -2098,20 +2098,20 @@ Sensor obtained ID 4
 				[65, 66, 67, 69, 70]
 		< Minute 82 >
 
-			Sensor 1 reads: 32
-			Sensor 0 reads: 26
+			Sensor 0 reads: 32
+			Sensor 1 reads: 26
 			Sensor 2 reads: -49
 			Sensor 3 reads: -48
-			Sensor 5 reads: -24
-			Sensor 4 reads: 41
+			Sensor 4 reads: -24
+			Sensor 5 reads: 41
 			Sensor 6 reads: 50
 			Sensor 7 reads: 41
-			Sensor[0]: 26
-			Sensor[1]: 32
+			Sensor[0]: 32
+			Sensor[1]: 26
 			Sensor[2]: -49
 			Sensor[3]: -48
-			Sensor[4]: 41
-			Sensor[5]: -24
+			Sensor[4]: -24
+			Sensor[5]: 41
 			Sensor[6]: 50
 			Sensor[7]: 41
 			Largest diff: 50 - -49 = 99
@@ -2124,21 +2124,21 @@ Sensor obtained ID 4
 		< Minute 83 >
 
 			Sensor 0 reads: -24
-			Sensor 4 reads: 10
-			Sensor 1 reads: 14
-			Sensor 3 reads: -46
-			Sensor 2 reads: 19
+			Sensor 1 reads: 10
+			Sensor 2 reads: -46
+			Sensor 4 reads: 14
+			Sensor 3 reads: 19
 			Sensor 5 reads: 39
-			Sensor 7 reads: -65
-			Sensor 6 reads: -42
+			Sensor 6 reads: -65
+			Sensor 7 reads: -42
 			Sensor[0]: -24
-			Sensor[1]: 14
-			Sensor[2]: 19
-			Sensor[3]: -46
-			Sensor[4]: 10
+			Sensor[1]: 10
+			Sensor[2]: -46
+			Sensor[3]: 19
+			Sensor[4]: 14
 			Sensor[5]: 39
-			Sensor[6]: -42
-			Sensor[7]: -65
+			Sensor[6]: -65
+			Sensor[7]: -42
 			Largest diff: 39 - -65 = 104
 
 			Checking -65 against 2147483647
@@ -2150,8 +2150,8 @@ Sensor obtained ID 4
 
 			Sensor 0 reads: 7
 			Sensor 1 reads: -66
-			Sensor 2 reads: -42
 			Sensor 3 reads: 45
+			Sensor 2 reads: -42
 			Sensor 4 reads: -48
 			Sensor 5 reads: -76
 			Sensor 6 reads: -74
@@ -2174,21 +2174,21 @@ Sensor obtained ID 4
 		< Minute 85 >
 
 			Sensor 0 reads: -82
-			Sensor 5 reads: -53
-			Sensor 4 reads: -28
-			Sensor 1 reads: -42
-			Sensor 6 reads: -46
-			Sensor 7 reads: -33
-			Sensor 2 reads: -45
-			Sensor 3 reads: 52
+			Sensor 1 reads: -28
+			Sensor 2 reads: -53
+			Sensor 3 reads: -42
+			Sensor 4 reads: -46
+			Sensor 6 reads: -33
+			Sensor 5 reads: -45
+			Sensor 7 reads: 52
 			Sensor[0]: -82
-			Sensor[1]: -42
-			Sensor[2]: -45
-			Sensor[3]: 52
-			Sensor[4]: -28
-			Sensor[5]: -53
-			Sensor[6]: -46
-			Sensor[7]: -33
+			Sensor[1]: -28
+			Sensor[2]: -53
+			Sensor[3]: -42
+			Sensor[4]: -46
+			Sensor[5]: -45
+			Sensor[6]: -33
+			Sensor[7]: 52
 			Largest diff: 52 - -53 = 105
 
 			Checking -53 against 2147483647
@@ -2223,22 +2223,22 @@ Sensor obtained ID 4
 				[65, 66, 67, 69, 70]
 		< Minute 87 >
 
-			Sensor 2 reads: -57
+			Sensor 0 reads: -57
 			Sensor 1 reads: -44
-			Sensor 0 reads: 61
+			Sensor 2 reads: 61
 			Sensor 3 reads: -79
 			Sensor 4 reads: -54
 			Sensor 5 reads: 5
-			Sensor 7 reads: 36
-			Sensor 6 reads: 53
-			Sensor[0]: 61
+			Sensor 6 reads: 36
+			Sensor 7 reads: 53
+			Sensor[0]: -57
 			Sensor[1]: -44
-			Sensor[2]: -57
+			Sensor[2]: 61
 			Sensor[3]: -79
 			Sensor[4]: -54
 			Sensor[5]: 5
-			Sensor[6]: 53
-			Sensor[7]: 36
+			Sensor[6]: 36
+			Sensor[7]: 53
 			Largest diff: 61 - -79 = 140
 
 			Checking -79 against 2147483647
@@ -2252,16 +2252,16 @@ Sensor obtained ID 4
 			Sensor 1 reads: -73
 			Sensor 2 reads: -98
 			Sensor 3 reads: -64
-			Sensor 5 reads: 28
-			Sensor 4 reads: 44
+			Sensor 4 reads: 28
+			Sensor 5 reads: 44
 			Sensor 6 reads: -77
 			Sensor 7 reads: -38
 			Sensor[0]: -8
 			Sensor[1]: -73
 			Sensor[2]: -98
 			Sensor[3]: -64
-			Sensor[4]: 44
-			Sensor[5]: 28
+			Sensor[4]: 28
+			Sensor[5]: 44
 			Sensor[6]: -77
 			Sensor[7]: -38
 			Largest diff: 44 - -98 = 142
@@ -2273,22 +2273,22 @@ Sensor obtained ID 4
 				[65, 66, 67, 69, 70]
 		< Minute 89 >
 
-			Sensor 2 reads: -26
-			Sensor 0 reads: 65
-			Sensor 1 reads: 68
+			Sensor 0 reads: -26
+			Sensor 1 reads: 65
+			Sensor 2 reads: 68
 			Sensor 3 reads: -69
 			Sensor 4 reads: 65
-			Sensor 6 reads: -91
-			Sensor 7 reads: -50
-			Sensor 5 reads: -17
-			Sensor[0]: 65
-			Sensor[1]: 68
-			Sensor[2]: -26
+			Sensor 5 reads: -91
+			Sensor 6 reads: -50
+			Sensor 7 reads: -17
+			Sensor[0]: -26
+			Sensor[1]: 65
+			Sensor[2]: 68
 			Sensor[3]: -69
 			Sensor[4]: 65
-			Sensor[5]: -17
-			Sensor[6]: -91
-			Sensor[7]: -50
+			Sensor[5]: -91
+			Sensor[6]: -50
+			Sensor[7]: -17
 			Largest diff: 68 - -91 = 159
 
 			Checking -91 against 2147483647
@@ -2302,22 +2302,22 @@ Sensor obtained ID 4
 
 		< Minute 90 >
 
-			Sensor 1 reads: 56
-			Sensor 0 reads: -56
+			Sensor 0 reads: 56
+			Sensor 1 reads: -56
 			Sensor 2 reads: 45
 			Sensor 3 reads: 45
 			Sensor 4 reads: -49
 			Sensor 6 reads: -77
-			Sensor 7 reads: 22
-			Sensor 5 reads: 5
-			Sensor[0]: -56
-			Sensor[1]: 56
+			Sensor 5 reads: 22
+			Sensor 7 reads: 5
+			Sensor[0]: 56
+			Sensor[1]: -56
 			Sensor[2]: 45
 			Sensor[3]: 45
 			Sensor[4]: -49
-			Sensor[5]: 5
+			Sensor[5]: 22
 			Sensor[6]: -77
-			Sensor[7]: 22
+			Sensor[7]: 5
 			Largest diff: 56 - -77 = 133
 
 			Checking -77 against 2147483647
@@ -2329,18 +2329,18 @@ Sensor obtained ID 4
 
 			Sensor 0 reads: -100
 			Sensor 1 reads: 30
-			Sensor 3 reads: -20
 			Sensor 2 reads: -86
-			Sensor 5 reads: 21
-			Sensor 4 reads: 46
+			Sensor 3 reads: -20
+			Sensor 4 reads: 21
+			Sensor 5 reads: 46
 			Sensor 6 reads: -27
 			Sensor 7 reads: -46
 			Sensor[0]: -100
 			Sensor[1]: 30
 			Sensor[2]: -86
 			Sensor[3]: -20
-			Sensor[4]: 46
-			Sensor[5]: 21
+			Sensor[4]: 21
+			Sensor[5]: 46
 			Sensor[6]: -27
 			Sensor[7]: -46
 			Largest diff: 46 - -86 = 132
@@ -2352,18 +2352,18 @@ Sensor obtained ID 4
 				[66, 67, 68, 69, 70]
 		< Minute 92 >
 
-			Sensor 1 reads: 68
-			Sensor 2 reads: -76
-			Sensor 3 reads: 41
-			Sensor 0 reads: -32
-			Sensor 4 reads: -79
+			Sensor 0 reads: 68
+			Sensor 1 reads: -76
+			Sensor 2 reads: 41
+			Sensor 3 reads: -32
 			Sensor 5 reads: -80
+			Sensor 4 reads: -79
 			Sensor 6 reads: -10
 			Sensor 7 reads: 35
-			Sensor[0]: -32
-			Sensor[1]: 68
-			Sensor[2]: -76
-			Sensor[3]: 41
+			Sensor[0]: 68
+			Sensor[1]: -76
+			Sensor[2]: 41
+			Sensor[3]: -32
 			Sensor[4]: -79
 			Sensor[5]: -80
 			Sensor[6]: -10
@@ -2381,9 +2381,9 @@ Sensor obtained ID 4
 			Sensor 1 reads: -67
 			Sensor 2 reads: 19
 			Sensor 3 reads: 16
+			Sensor 4 reads: -47
 			Sensor 5 reads: 9
 			Sensor 6 reads: 1
-			Sensor 4 reads: -47
 			Sensor 7 reads: -20
 			Sensor[0]: 53
 			Sensor[1]: -67
@@ -2452,21 +2452,21 @@ Sensor obtained ID 4
 				[66, 67, 68, 69, 70]
 		< Minute 96 >
 
-			Sensor 2 reads: -77
-			Sensor 0 reads: 61
-			Sensor 1 reads: -8
+			Sensor 0 reads: -77
+			Sensor 1 reads: 61
+			Sensor 2 reads: -8
 			Sensor 3 reads: 21
-			Sensor 5 reads: -96
-			Sensor 6 reads: -12
-			Sensor 4 reads: 57
+			Sensor 4 reads: -96
+			Sensor 5 reads: -12
+			Sensor 6 reads: 57
 			Sensor 7 reads: -26
-			Sensor[0]: 61
-			Sensor[1]: -8
-			Sensor[2]: -77
+			Sensor[0]: -77
+			Sensor[1]: 61
+			Sensor[2]: -8
 			Sensor[3]: 21
-			Sensor[4]: 57
-			Sensor[5]: -96
-			Sensor[6]: -12
+			Sensor[4]: -96
+			Sensor[5]: -12
+			Sensor[6]: 57
 			Sensor[7]: -26
 			Largest diff: 61 - -96 = 157
 
@@ -2477,22 +2477,22 @@ Sensor obtained ID 4
 				[66, 67, 68, 69, 70]
 		< Minute 97 >
 
-			Sensor 2 reads: -66
+			Sensor 0 reads: -66
 			Sensor 1 reads: -37
-			Sensor 3 reads: -64
-			Sensor 0 reads: -17
-			Sensor 4 reads: -66
-			Sensor 5 reads: 42
-			Sensor 7 reads: 33
-			Sensor 6 reads: -34
-			Sensor[0]: -17
+			Sensor 2 reads: -64
+			Sensor 3 reads: -17
+			Sensor 5 reads: -66
+			Sensor 4 reads: 42
+			Sensor 6 reads: 33
+			Sensor 7 reads: -34
+			Sensor[0]: -66
 			Sensor[1]: -37
-			Sensor[2]: -66
-			Sensor[3]: -64
-			Sensor[4]: -66
-			Sensor[5]: 42
-			Sensor[6]: -34
-			Sensor[7]: 33
+			Sensor[2]: -64
+			Sensor[3]: -17
+			Sensor[4]: 42
+			Sensor[5]: -66
+			Sensor[6]: 33
+			Sensor[7]: -34
 			Largest diff: 42 - -66 = 108
 
 			Checking -66 against 2147483647
@@ -2502,22 +2502,22 @@ Sensor obtained ID 4
 				[66, 67, 68, 69, 70]
 		< Minute 98 >
 
-			Sensor 1 reads: 1
-			Sensor 0 reads: -43
-			Sensor 4 reads: -88
+			Sensor 0 reads: 1
+			Sensor 1 reads: -43
 			Sensor 2 reads: 10
-			Sensor 6 reads: -74
-			Sensor 7 reads: -54
-			Sensor 3 reads: -87
-			Sensor 5 reads: -58
-			Sensor[0]: -43
-			Sensor[1]: 1
+			Sensor 3 reads: -88
+			Sensor 4 reads: -74
+			Sensor 5 reads: -54
+			Sensor 6 reads: -87
+			Sensor 7 reads: -58
+			Sensor[0]: 1
+			Sensor[1]: -43
 			Sensor[2]: 10
-			Sensor[3]: -87
-			Sensor[4]: -88
-			Sensor[5]: -58
-			Sensor[6]: -74
-			Sensor[7]: -54
+			Sensor[3]: -88
+			Sensor[4]: -74
+			Sensor[5]: -54
+			Sensor[6]: -87
+			Sensor[7]: -58
 			Largest diff: 10 - -88 = 98
 
 			Checking -88 against 2147483647
@@ -2584,19 +2584,19 @@ Sensor obtained ID 4
 			Sensor 0 reads: -96
 			Sensor 1 reads: -17
 			Sensor 2 reads: 68
-			Sensor 6 reads: 10
-			Sensor 7 reads: -59
+			Sensor 3 reads: 10
+			Sensor 4 reads: -59
 			Sensor 5 reads: 59
-			Sensor 3 reads: 66
-			Sensor 4 reads: -38
+			Sensor 6 reads: 66
+			Sensor 7 reads: -38
 			Sensor[0]: -96
 			Sensor[1]: -17
 			Sensor[2]: 68
-			Sensor[3]: 66
-			Sensor[4]: -38
+			Sensor[3]: 10
+			Sensor[4]: -59
 			Sensor[5]: 59
-			Sensor[6]: 10
-			Sensor[7]: -59
+			Sensor[6]: 66
+			Sensor[7]: -38
 			Largest diff: 68 - -59 = 127
 
 			Checking -59 against 2147483647
@@ -2606,21 +2606,21 @@ Sensor obtained ID 4
 				[66, 67, 68, 69, 70]
 		< Minute 102 >
 
-			Sensor 1 reads: 12
-			Sensor 2 reads: 35
-			Sensor 3 reads: -80
-			Sensor 4 reads: -39
-			Sensor 0 reads: -24
-			Sensor 5 reads: 34
-			Sensor 6 reads: -40
+			Sensor 0 reads: 12
+			Sensor 2 reads: -80
+			Sensor 3 reads: -39
+			Sensor 1 reads: 35
+			Sensor 4 reads: -24
+			Sensor 6 reads: 34
+			Sensor 5 reads: -40
 			Sensor 7 reads: -43
-			Sensor[0]: -24
-			Sensor[1]: 12
-			Sensor[2]: 35
-			Sensor[3]: -80
-			Sensor[4]: -39
-			Sensor[5]: 34
-			Sensor[6]: -40
+			Sensor[0]: 12
+			Sensor[1]: 35
+			Sensor[2]: -80
+			Sensor[3]: -39
+			Sensor[4]: -24
+			Sensor[5]: -40
+			Sensor[6]: 34
 			Sensor[7]: -43
 			Largest diff: 35 - -80 = 115
 
@@ -2631,25 +2631,25 @@ Sensor obtained ID 4
 				[66, 67, 68, 69, 70]
 		< Minute 103 >
 
-			Sensor 0 reads: -13
-			Sensor 2 reads: -82
-			Sensor 1 reads: -3
+			Sensor 1 reads: -13
+			Sensor 0 reads: -82
+			Sensor 2 reads: -3
 			Sensor 3 reads: 6
 			Sensor 4 reads: -77
 			Sensor 5 reads: 6
-			Sensor 7 reads: 50
-			Sensor 6 reads: -49
-			Sensor[0]: -13
-			Sensor[1]: -3
-			Sensor[2]: -82
+			Sensor 7 reads: -49
+			Sensor 6 reads: 50
+			Sensor[0]: -82
+			Sensor[1]: -13
+			Sensor[2]: -3
 			Sensor[3]: 6
 			Sensor[4]: -77
 			Sensor[5]: 6
-			Sensor[6]: -49
-			Sensor[7]: 50
-			Largest diff: 50 - -82 = 132
+			Sensor[6]: 50
+			Sensor[7]: -49
+			Largest diff: 50 - -77 = 127
 
-			Checking -82 against 2147483647
+			Checking -77 against 2147483647
 				Bottom 5 so far:
 				[-100, -98, -97, -96, -94]
 				Top 5 so far:
@@ -2657,18 +2657,18 @@ Sensor obtained ID 4
 		< Minute 104 >
 
 			Sensor 0 reads: -97
-			Sensor 2 reads: 36
 			Sensor 1 reads: 23
-			Sensor 3 reads: -8
-			Sensor 4 reads: -10
+			Sensor 3 reads: 36
+			Sensor 4 reads: -8
+			Sensor 2 reads: -10
 			Sensor 5 reads: -13
-			Sensor 6 reads: 32
 			Sensor 7 reads: -1
+			Sensor 6 reads: 32
 			Sensor[0]: -97
 			Sensor[1]: 23
-			Sensor[2]: 36
-			Sensor[3]: -8
-			Sensor[4]: -10
+			Sensor[2]: -10
+			Sensor[3]: 36
+			Sensor[4]: -8
 			Sensor[5]: -13
 			Sensor[6]: 32
 			Sensor[7]: -1
@@ -2681,21 +2681,21 @@ Sensor obtained ID 4
 				[66, 67, 68, 69, 70]
 		< Minute 105 >
 
-			Sensor 1 reads: -99
-			Sensor 0 reads: -48
+			Sensor 0 reads: -99
+			Sensor 1 reads: -48
 			Sensor 2 reads: -18
+			Sensor 3 reads: -98
+			Sensor 4 reads: 12
 			Sensor 5 reads: 12
-			Sensor 4 reads: -98
-			Sensor 6 reads: 12
-			Sensor 3 reads: -100
+			Sensor 6 reads: -100
 			Sensor 7 reads: -53
-			Sensor[0]: -48
-			Sensor[1]: -99
+			Sensor[0]: -99
+			Sensor[1]: -48
 			Sensor[2]: -18
-			Sensor[3]: -100
-			Sensor[4]: -98
+			Sensor[3]: -98
+			Sensor[4]: 12
 			Sensor[5]: 12
-			Sensor[6]: 12
+			Sensor[6]: -100
 			Sensor[7]: -53
 			Largest diff: 12 - -100 = 112
 
@@ -2709,19 +2709,19 @@ Sensor obtained ID 4
 			Sensor 0 reads: -15
 			Sensor 1 reads: 69
 			Sensor 2 reads: 17
-			Sensor 4 reads: -86
-			Sensor 5 reads: -2
-			Sensor 6 reads: 38
-			Sensor 7 reads: -7
-			Sensor 3 reads: 4
+			Sensor 3 reads: -86
+			Sensor 4 reads: -2
+			Sensor 5 reads: 38
+			Sensor 6 reads: -7
+			Sensor 7 reads: 4
 			Sensor[0]: -15
 			Sensor[1]: 69
 			Sensor[2]: 17
-			Sensor[3]: 4
-			Sensor[4]: -86
-			Sensor[5]: -2
-			Sensor[6]: 38
-			Sensor[7]: -7
+			Sensor[3]: -86
+			Sensor[4]: -2
+			Sensor[5]: 38
+			Sensor[6]: -7
+			Sensor[7]: 4
 			Largest diff: 69 - -86 = 155
 
 			Checking -86 against 2147483647
@@ -2732,20 +2732,20 @@ Sensor obtained ID 4
 		< Minute 107 >
 
 			Sensor 0 reads: 31
-			Sensor 1 reads: -35
-			Sensor 2 reads: -53
-			Sensor 3 reads: 21
-			Sensor 4 reads: 21
-			Sensor 5 reads: -38
-			Sensor 6 reads: 47
+			Sensor 3 reads: -35
+			Sensor 4 reads: -53
+			Sensor 1 reads: 21
+			Sensor 5 reads: 21
+			Sensor 6 reads: -38
+			Sensor 2 reads: 47
 			Sensor 7 reads: -59
 			Sensor[0]: 31
-			Sensor[1]: -35
-			Sensor[2]: -53
-			Sensor[3]: 21
-			Sensor[4]: 21
-			Sensor[5]: -38
-			Sensor[6]: 47
+			Sensor[1]: 21
+			Sensor[2]: 47
+			Sensor[3]: -35
+			Sensor[4]: -53
+			Sensor[5]: 21
+			Sensor[6]: -38
 			Sensor[7]: -59
 			Largest diff: 47 - -59 = 106
 
@@ -2756,25 +2756,25 @@ Sensor obtained ID 4
 				[66, 67, 68, 69, 70]
 		< Minute 108 >
 
-			Sensor 2 reads: -94
-			Sensor 3 reads: 49
-			Sensor 4 reads: -70
-			Sensor 5 reads: 44
-			Sensor 0 reads: -30
-			Sensor 6 reads: 52
+			Sensor 0 reads: -94
+			Sensor 1 reads: 49
+			Sensor 2 reads: 44
+			Sensor 3 reads: -70
+			Sensor 4 reads: -30
+			Sensor 5 reads: 52
 			Sensor 7 reads: -77
-			Sensor 1 reads: -80
-			Sensor[0]: -30
-			Sensor[1]: -80
-			Sensor[2]: -94
-			Sensor[3]: 49
-			Sensor[4]: -70
-			Sensor[5]: 44
-			Sensor[6]: 52
+			Sensor 6 reads: -80
+			Sensor[0]: -94
+			Sensor[1]: 49
+			Sensor[2]: 44
+			Sensor[3]: -70
+			Sensor[4]: -30
+			Sensor[5]: 52
+			Sensor[6]: -80
 			Sensor[7]: -77
-			Largest diff: 52 - -94 = 146
+			Largest diff: 52 - -80 = 132
 
-			Checking -94 against 2147483647
+			Checking -80 against 2147483647
 				Bottom 5 so far:
 				[-100, -98, -97, -96, -94]
 				Top 5 so far:
@@ -2782,21 +2782,21 @@ Sensor obtained ID 4
 		< Minute 109 >
 
 			Sensor 0 reads: -28
-			Sensor 1 reads: -80
-			Sensor 2 reads: -58
+			Sensor 1 reads: -58
+			Sensor 2 reads: -80
 			Sensor 3 reads: -85
-			Sensor 5 reads: 48
-			Sensor 4 reads: 35
-			Sensor 6 reads: -26
-			Sensor 7 reads: -58
+			Sensor 4 reads: 48
+			Sensor 5 reads: 35
+			Sensor 7 reads: -26
+			Sensor 6 reads: -58
 			Sensor[0]: -28
-			Sensor[1]: -80
-			Sensor[2]: -58
+			Sensor[1]: -58
+			Sensor[2]: -80
 			Sensor[3]: -85
-			Sensor[4]: 35
-			Sensor[5]: 48
-			Sensor[6]: -26
-			Sensor[7]: -58
+			Sensor[4]: 48
+			Sensor[5]: 35
+			Sensor[6]: -58
+			Sensor[7]: -26
 			Largest diff: 48 - -85 = 133
 
 			Checking -85 against 2147483647
@@ -2815,17 +2815,17 @@ Sensor obtained ID 4
 			Sensor 2 reads: -4
 			Sensor 3 reads: 1
 			Sensor 4 reads: -72
-			Sensor 7 reads: -8
+			Sensor 5 reads: -8
 			Sensor 6 reads: 48
-			Sensor 5 reads: -7
+			Sensor 7 reads: -7
 			Sensor[0]: 25
 			Sensor[1]: 39
 			Sensor[2]: -4
 			Sensor[3]: 1
 			Sensor[4]: -72
-			Sensor[5]: -7
+			Sensor[5]: -8
 			Sensor[6]: 48
-			Sensor[7]: -8
+			Sensor[7]: -7
 			Largest diff: 48 - -72 = 120
 
 			Checking -72 against 2147483647
@@ -2837,18 +2837,18 @@ Sensor obtained ID 4
 
 			Sensor 0 reads: 39
 			Sensor 1 reads: -74
-			Sensor 5 reads: -34
 			Sensor 2 reads: -2
-			Sensor 3 reads: -85
-			Sensor 4 reads: -56
+			Sensor 3 reads: -34
+			Sensor 4 reads: -85
+			Sensor 5 reads: -56
 			Sensor 6 reads: -80
 			Sensor 7 reads: 25
 			Sensor[0]: 39
 			Sensor[1]: -74
 			Sensor[2]: -2
-			Sensor[3]: -85
-			Sensor[4]: -56
-			Sensor[5]: -34
+			Sensor[3]: -34
+			Sensor[4]: -85
+			Sensor[5]: -56
 			Sensor[6]: -80
 			Sensor[7]: 25
 			Largest diff: 39 - -85 = 124
@@ -2861,21 +2861,21 @@ Sensor obtained ID 4
 		< Minute 112 >
 
 			Sensor 0 reads: -63
-			Sensor 3 reads: 35
-			Sensor 6 reads: 51
-			Sensor 1 reads: -5
+			Sensor 1 reads: 35
+			Sensor 2 reads: 51
+			Sensor 3 reads: -5
 			Sensor 4 reads: -94
 			Sensor 5 reads: -9
-			Sensor 7 reads: 40
-			Sensor 2 reads: -64
+			Sensor 6 reads: 40
+			Sensor 7 reads: -64
 			Sensor[0]: -63
-			Sensor[1]: -5
-			Sensor[2]: -64
-			Sensor[3]: 35
+			Sensor[1]: 35
+			Sensor[2]: 51
+			Sensor[3]: -5
 			Sensor[4]: -94
 			Sensor[5]: -9
-			Sensor[6]: 51
-			Sensor[7]: 40
+			Sensor[6]: 40
+			Sensor[7]: -64
 			Largest diff: 51 - -94 = 145
 
 			Checking -94 against 2147483647
@@ -2885,21 +2885,21 @@ Sensor obtained ID 4
 				[66, 67, 68, 69, 70]
 		< Minute 113 >
 
-			Sensor 2 reads: -45
-			Sensor 0 reads: -86
 			Sensor 1 reads: -19
+			Sensor 2 reads: -86
+			Sensor 0 reads: -45
 			Sensor 3 reads: 57
-			Sensor 4 reads: -92
-			Sensor 5 reads: 20
-			Sensor 6 reads: 28
+			Sensor 6 reads: -92
+			Sensor 4 reads: 20
+			Sensor 5 reads: 28
 			Sensor 7 reads: 33
-			Sensor[0]: -86
+			Sensor[0]: -45
 			Sensor[1]: -19
-			Sensor[2]: -45
+			Sensor[2]: -86
 			Sensor[3]: 57
-			Sensor[4]: -92
-			Sensor[5]: 20
-			Sensor[6]: 28
+			Sensor[4]: 20
+			Sensor[5]: 28
+			Sensor[6]: -92
 			Sensor[7]: 33
 			Largest diff: 57 - -92 = 149
 
@@ -2912,19 +2912,19 @@ Sensor obtained ID 4
 
 			Sensor 0 reads: -14
 			Sensor 1 reads: -11
-			Sensor 2 reads: -88
 			Sensor 3 reads: -15
-			Sensor 5 reads: -61
+			Sensor 2 reads: -88
+			Sensor 6 reads: -61
 			Sensor 4 reads: -72
-			Sensor 6 reads: -90
+			Sensor 5 reads: -90
 			Sensor 7 reads: 8
 			Sensor[0]: -14
 			Sensor[1]: -11
 			Sensor[2]: -88
 			Sensor[3]: -15
 			Sensor[4]: -72
-			Sensor[5]: -61
-			Sensor[6]: -90
+			Sensor[5]: -90
+			Sensor[6]: -61
 			Sensor[7]: 8
 			Largest diff: 8 - -90 = 98
 
@@ -2985,19 +2985,19 @@ Sensor obtained ID 4
 				[66, 67, 68, 69, 70]
 		< Minute 117 >
 
-			Sensor 0 reads: -57
-			Sensor 2 reads: 31
-			Sensor 1 reads: -51
-			Sensor 3 reads: -90
-			Sensor 4 reads: 15
+			Sensor 3 reads: 31
+			Sensor 2 reads: -57
+			Sensor 4 reads: -51
+			Sensor 1 reads: -90
+			Sensor 0 reads: 15
 			Sensor 5 reads: 50
 			Sensor 6 reads: -84
 			Sensor 7 reads: 14
-			Sensor[0]: -57
-			Sensor[1]: -51
-			Sensor[2]: 31
-			Sensor[3]: -90
-			Sensor[4]: 15
+			Sensor[0]: 15
+			Sensor[1]: -90
+			Sensor[2]: -57
+			Sensor[3]: 31
+			Sensor[4]: -51
 			Sensor[5]: 50
 			Sensor[6]: -84
 			Sensor[7]: 14
@@ -3014,18 +3014,18 @@ Sensor obtained ID 4
 			Sensor 1 reads: 2
 			Sensor 2 reads: 14
 			Sensor 3 reads: 8
-			Sensor 6 reads: 0
-			Sensor 7 reads: -62
-			Sensor 4 reads: 5
-			Sensor 5 reads: 21
+			Sensor 4 reads: 0
+			Sensor 5 reads: -62
+			Sensor 6 reads: 5
+			Sensor 7 reads: 21
 			Sensor[0]: 16
 			Sensor[1]: 2
 			Sensor[2]: 14
 			Sensor[3]: 8
-			Sensor[4]: 5
-			Sensor[5]: 21
-			Sensor[6]: 0
-			Sensor[7]: -62
+			Sensor[4]: 0
+			Sensor[5]: -62
+			Sensor[6]: 5
+			Sensor[7]: 21
 			Largest diff: 21 - -62 = 83
 
 			Checking -62 against 2147483647
@@ -3070,18 +3070,18 @@ Sensor obtained ID 4
 
 			Sensor 0 reads: -50
 			Sensor 1 reads: 16
-			Sensor 3 reads: -40
 			Sensor 2 reads: 42
-			Sensor 4 reads: 64
-			Sensor 5 reads: -79
+			Sensor 3 reads: -40
+			Sensor 5 reads: 64
+			Sensor 4 reads: -79
 			Sensor 6 reads: -52
 			Sensor 7 reads: -75
 			Sensor[0]: -50
 			Sensor[1]: 16
 			Sensor[2]: 42
 			Sensor[3]: -40
-			Sensor[4]: 64
-			Sensor[5]: -79
+			Sensor[4]: -79
+			Sensor[5]: 64
 			Sensor[6]: -52
 			Sensor[7]: -75
 			Largest diff: 64 - -79 = 143
@@ -3093,20 +3093,20 @@ Sensor obtained ID 4
 				[64]
 		< Minute 121 >
 
-			Sensor 1 reads: -19
-			Sensor 0 reads: -52
-			Sensor 3 reads: 7
-			Sensor 4 reads: -83
-			Sensor 5 reads: -32
-			Sensor 2 reads: -69
+			Sensor 0 reads: -19
+			Sensor 2 reads: 7
+			Sensor 1 reads: -52
+			Sensor 3 reads: -83
+			Sensor 4 reads: -32
+			Sensor 5 reads: -69
 			Sensor 6 reads: -77
 			Sensor 7 reads: -32
-			Sensor[0]: -52
-			Sensor[1]: -19
-			Sensor[2]: -69
-			Sensor[3]: 7
-			Sensor[4]: -83
-			Sensor[5]: -32
+			Sensor[0]: -19
+			Sensor[1]: -52
+			Sensor[2]: 7
+			Sensor[3]: -83
+			Sensor[4]: -32
+			Sensor[5]: -69
 			Sensor[6]: -77
 			Sensor[7]: -32
 			Largest diff: 7 - -83 = 90
@@ -3120,12 +3120,12 @@ Sensor obtained ID 4
 
 			Sensor 0 reads: 8
 			Sensor 1 reads: 27
-			Sensor 7 reads: -48
-			Sensor 6 reads: 24
-			Sensor 5 reads: 61
+			Sensor 2 reads: -31
 			Sensor 3 reads: -22
 			Sensor 4 reads: -75
-			Sensor 2 reads: -31
+			Sensor 5 reads: 61
+			Sensor 6 reads: 24
+			Sensor 7 reads: -48
 			Sensor[0]: 8
 			Sensor[1]: 27
 			Sensor[2]: -31
@@ -3143,27 +3143,27 @@ Sensor obtained ID 4
 				[7, 61, 64]
 		< Minute 123 >
 
-			Sensor 1 reads: 5
-			Sensor 2 reads: 34
-			Sensor 0 reads: -86
-			Sensor 5 reads: -35
-			Sensor 6 reads: 60
-			Sensor 3 reads: -72
-			Sensor 7 reads: -29
-			Sensor 4 reads: 40
-			Sensor[0]: -86
-			Sensor[1]: 5
-			Sensor[2]: 34
-			Sensor[3]: -72
-			Sensor[4]: 40
-			Sensor[5]: -35
-			Sensor[6]: 60
-			Sensor[7]: -29
-			Largest diff: 60 - -72 = 132
+			Sensor 0 reads: 5
+			Sensor 1 reads: 34
+			Sensor 2 reads: -86
+			Sensor 4 reads: -35
+			Sensor 3 reads: 60
+			Sensor 5 reads: -72
+			Sensor 6 reads: -29
+			Sensor 7 reads: 40
+			Sensor[0]: 5
+			Sensor[1]: 34
+			Sensor[2]: -86
+			Sensor[3]: 60
+			Sensor[4]: -35
+			Sensor[5]: -72
+			Sensor[6]: -29
+			Sensor[7]: 40
+			Largest diff: 60 - -86 = 146
 
-			Checking -72 against 2147483647
+			Checking -86 against 2147483647
 				Bottom 5 so far:
-				[-83, -79, -75, -72]
+				[-86, -83, -79, -75]
 				Top 5 so far:
 				[7, 60, 61, 64]
 		< Minute 124 >
@@ -3188,7 +3188,7 @@ Sensor obtained ID 4
 
 			Checking -71 against 2147483647
 				Bottom 5 so far:
-				[-83, -79, -75, -72, -71]
+				[-86, -83, -79, -75, -71]
 				Top 5 so far:
 				[7, 60, 61, 64, 68]
 		< Minute 125 >
@@ -3199,21 +3199,21 @@ Sensor obtained ID 4
 			Sensor 3 reads: -29
 			Sensor 4 reads: 0
 			Sensor 5 reads: -17
-			Sensor 7 reads: -59
-			Sensor 6 reads: 41
+			Sensor 6 reads: -59
+			Sensor 7 reads: 41
 			Sensor[0]: 32
 			Sensor[1]: 0
 			Sensor[2]: -52
 			Sensor[3]: -29
 			Sensor[4]: 0
 			Sensor[5]: -17
-			Sensor[6]: 41
-			Sensor[7]: -59
+			Sensor[6]: -59
+			Sensor[7]: 41
 			Largest diff: 41 - -59 = 100
 
 			Checking -59 against 2147483647
 				Bottom 5 so far:
-				[-83, -79, -75, -72, -71]
+				[-86, -83, -79, -75, -71]
 				Top 5 so far:
 				[41, 60, 61, 64, 68]
 		< Minute 126 >
@@ -3224,21 +3224,21 @@ Sensor obtained ID 4
 			Sensor 3 reads: -58
 			Sensor 4 reads: -1
 			Sensor 5 reads: -13
-			Sensor 7 reads: 38
-			Sensor 6 reads: 51
+			Sensor 6 reads: 38
+			Sensor 7 reads: 51
 			Sensor[0]: -84
 			Sensor[1]: -34
 			Sensor[2]: 43
 			Sensor[3]: -58
 			Sensor[4]: -1
 			Sensor[5]: -13
-			Sensor[6]: 51
-			Sensor[7]: 38
+			Sensor[6]: 38
+			Sensor[7]: 51
 			Largest diff: 51 - -58 = 109
 
 			Checking -58 against 2147483647
 				Bottom 5 so far:
-				[-83, -79, -75, -72, -71]
+				[-86, -83, -79, -75, -71]
 				Top 5 so far:
 				[51, 60, 61, 64, 68]
 		< Minute 127 >
@@ -3263,7 +3263,7 @@ Sensor obtained ID 4
 
 			Checking -18 against 2147483647
 				Bottom 5 so far:
-				[-83, -79, -75, -72, -71]
+				[-86, -83, -79, -75, -71]
 				Top 5 so far:
 				[60, 61, 64, 68, 69]
 		< Minute 128 >
@@ -3288,24 +3288,24 @@ Sensor obtained ID 4
 
 			Checking -85 against 2147483647
 				Bottom 5 so far:
-				[-85, -83, -79, -75, -72]
+				[-86, -85, -83, -79, -75]
 				Top 5 so far:
 				[60, 61, 64, 68, 69]
 		< Minute 129 >
 
 			Sensor 0 reads: -10
 			Sensor 1 reads: 15
+			Sensor 3 reads: -66
 			Sensor 2 reads: -74
-			Sensor 4 reads: -66
-			Sensor 3 reads: 42
+			Sensor 4 reads: 42
 			Sensor 5 reads: 20
 			Sensor 6 reads: -41
 			Sensor 7 reads: -33
 			Sensor[0]: -10
 			Sensor[1]: 15
 			Sensor[2]: -74
-			Sensor[3]: 42
-			Sensor[4]: -66
+			Sensor[3]: -66
+			Sensor[4]: 42
 			Sensor[5]: 20
 			Sensor[6]: -41
 			Sensor[7]: -33
@@ -3313,10 +3313,10 @@ Sensor obtained ID 4
 
 			Checking -74 against 2147483647
 				Bottom 5 so far:
-				[-85, -83, -79, -75, -74]
+				[-86, -85, -83, -79, -75]
 				Top 5 so far:
 				[60, 61, 64, 68, 69]
-		Largest diff this interval: 143
+		Largest diff this interval: 146
 
 	=== Interval 1 ===
 
@@ -3324,39 +3324,39 @@ Sensor obtained ID 4
 
 			Sensor 0 reads: 57
 			Sensor 1 reads: -30
-			Sensor 2 reads: -80
-			Sensor 5 reads: -63
-			Sensor 3 reads: -27
-			Sensor 4 reads: -62
-			Sensor 7 reads: 38
+			Sensor 2 reads: -63
+			Sensor 3 reads: -80
+			Sensor 4 reads: -27
+			Sensor 5 reads: -62
 			Sensor 6 reads: -72
+			Sensor 7 reads: 38
 			Sensor[0]: 57
 			Sensor[1]: -30
-			Sensor[2]: -80
-			Sensor[3]: -27
-			Sensor[4]: -62
-			Sensor[5]: -63
+			Sensor[2]: -63
+			Sensor[3]: -80
+			Sensor[4]: -27
+			Sensor[5]: -62
 			Sensor[6]: -72
 			Sensor[7]: 38
 			Largest diff: 57 - -80 = 137
 
 			Checking -80 against 2147483647
 				Bottom 5 so far:
-				[-85, -83, -80, -79, -75]
+				[-86, -85, -83, -80, -79]
 				Top 5 so far:
 				[60, 61, 64, 68, 69]
 		< Minute 131 >
 
-			Sensor 1 reads: -28
-			Sensor 0 reads: 12
+			Sensor 0 reads: -28
+			Sensor 1 reads: 12
 			Sensor 2 reads: 38
 			Sensor 3 reads: -91
 			Sensor 4 reads: -62
 			Sensor 5 reads: 15
 			Sensor 6 reads: -62
 			Sensor 7 reads: 70
-			Sensor[0]: 12
-			Sensor[1]: -28
+			Sensor[0]: -28
+			Sensor[1]: 12
 			Sensor[2]: 38
 			Sensor[3]: -91
 			Sensor[4]: -62
@@ -3367,32 +3367,32 @@ Sensor obtained ID 4
 
 			Checking -91 against 2147483647
 				Bottom 5 so far:
-				[-91, -85, -83, -80, -79]
+				[-91, -86, -85, -83, -80]
 				Top 5 so far:
 				[61, 64, 68, 69, 70]
 		< Minute 132 >
 
 			Sensor 0 reads: -79
-			Sensor 7 reads: -43
-			Sensor 1 reads: 10
-			Sensor 2 reads: 62
+			Sensor 1 reads: -43
+			Sensor 2 reads: 10
+			Sensor 3 reads: 62
 			Sensor 4 reads: -35
-			Sensor 3 reads: -48
+			Sensor 5 reads: -48
 			Sensor 6 reads: -65
-			Sensor 5 reads: -100
+			Sensor 7 reads: -100
 			Sensor[0]: -79
-			Sensor[1]: 10
-			Sensor[2]: 62
-			Sensor[3]: -48
+			Sensor[1]: -43
+			Sensor[2]: 10
+			Sensor[3]: 62
 			Sensor[4]: -35
-			Sensor[5]: -100
+			Sensor[5]: -48
 			Sensor[6]: -65
-			Sensor[7]: -43
+			Sensor[7]: -100
 			Largest diff: 62 - -100 = 162
 
 			Checking -100 against 2147483647
 				Bottom 5 so far:
-				[-100, -91, -85, -83, -80]
+				[-100, -91, -86, -85, -83]
 				Top 5 so far:
 				[62, 64, 68, 69, 70]
 		< Minute 133 >
@@ -3417,7 +3417,7 @@ Sensor obtained ID 4
 
 			Checking -81 against 2147483647
 				Bottom 5 so far:
-				[-100, -91, -85, -83, -81]
+				[-100, -91, -86, -85, -83]
 				Top 5 so far:
 				[62, 64, 68, 69, 70]
 		< Minute 134 >
@@ -3427,56 +3427,2694 @@ Sensor obtained ID 4
 			Sensor 2 reads: -67
 			Sensor 3 reads: 4
 			Sensor 4 reads: 68
-			Sensor 5 reads: -61
-			Sensor 6 reads: 9
-			Sensor 7 reads: 35
+			Sensor 6 reads: -61
+			Sensor 7 reads: 9
+			Sensor 5 reads: 35
 			Sensor[0]: -47
 			Sensor[1]: -30
 			Sensor[2]: -67
 			Sensor[3]: 4
 			Sensor[4]: 68
-			Sensor[5]: -61
-			Sensor[6]: 9
-			Sensor[7]: 35
+			Sensor[5]: 35
+			Sensor[6]: -61
+			Sensor[7]: 9
 			Largest diff: 68 - -67 = 135
 
 			Checking -67 against 2147483647
 				Bottom 5 so far:
-				[-100, -91, -85, -83, -81]
+				[-100, -91, -86, -85, -83]
 				Top 5 so far:
 				[62, 64, 68, 69, 70]
 		< Minute 135 >
 
-			Sensor 1 reads: -94
 			Sensor 0 reads: -2
-			Sensor 3 reads: -70
-			Sensor 4 reads: -1
-			Sensor 5 reads: 2
-			Sensor 6 reads: -82
-			Sensor 2 reads: -75
+			Sensor 1 reads: -94
+			Sensor 2 reads: -70
+			Sensor 3 reads: -1
+			Sensor 4 reads: 2
+			Sensor 5 reads: -82
+			Sensor 6 reads: -75
 			Sensor 7 reads: -89
 			Sensor[0]: -2
 			Sensor[1]: -94
-			Sensor[2]: -75
-			Sensor[3]: -70
-			Sensor[4]: -1
-			Sensor[5]: 2
-			Sensor[6]: -82
+			Sensor[2]: -70
+			Sensor[3]: -1
+			Sensor[4]: 2
+			Sensor[5]: -82
+			Sensor[6]: -75
 			Sensor[7]: -89
 			Largest diff: 2 - -94 = 96
 
 			Checking -94 against 2147483647
 				Bottom 5 so far:
-				[-100, -94, -91, -85, -83]
+				[-100, -94, -91, -86, -85]
 				Top 5 so far:
 				[62, 64, 68, 69, 70]
 		< Minute 136 >
 
 			Sensor 0 reads: -41
 			Sensor 1 reads: -60
+			Sensor 3 reads: -44
 			Sensor 2 reads: -75
-			Sensor 5 reads: -44
-			Sensor 3 reads: -55
-			Sensor 6 reads: -15
-			Sensor 7 reads: 70
-			Sensor 4 reads: -
+			Sensor 4 reads: -55
+			Sensor 5 reads: -15
+			Sensor 6 reads: 70
+			Sensor 7 reads: -61
+			Sensor[0]: -41
+			Sensor[1]: -60
+			Sensor[2]: -75
+			Sensor[3]: -44
+			Sensor[4]: -55
+			Sensor[5]: -15
+			Sensor[6]: 70
+			Sensor[7]: -61
+			Largest diff: 70 - -75 = 145
+
+			Checking -75 against 2147483647
+				Bottom 5 so far:
+				[-100, -94, -91, -86, -85]
+				Top 5 so far:
+				[62, 64, 68, 69, 70]
+		< Minute 137 >
+
+			Sensor 0 reads: -7
+			Sensor 2 reads: -38
+			Sensor 1 reads: -68
+			Sensor 3 reads: -70
+			Sensor 4 reads: -72
+			Sensor 5 reads: -36
+			Sensor 6 reads: 44
+			Sensor 7 reads: -75
+			Sensor[0]: -7
+			Sensor[1]: -68
+			Sensor[2]: -38
+			Sensor[3]: -70
+			Sensor[4]: -72
+			Sensor[5]: -36
+			Sensor[6]: 44
+			Sensor[7]: -75
+			Largest diff: 44 - -75 = 119
+
+			Checking -75 against 2147483647
+				Bottom 5 so far:
+				[-100, -94, -91, -86, -85]
+				Top 5 so far:
+				[62, 64, 68, 69, 70]
+		< Minute 138 >
+
+			Sensor 0 reads: -31
+			Sensor 1 reads: 47
+			Sensor 2 reads: -84
+			Sensor 3 reads: -17
+			Sensor 4 reads: 43
+			Sensor 5 reads: -28
+			Sensor 6 reads: -31
+			Sensor 7 reads: 36
+			Sensor[0]: -31
+			Sensor[1]: 47
+			Sensor[2]: -84
+			Sensor[3]: -17
+			Sensor[4]: 43
+			Sensor[5]: -28
+			Sensor[6]: -31
+			Sensor[7]: 36
+			Largest diff: 47 - -84 = 131
+
+			Checking -84 against 2147483647
+				Bottom 5 so far:
+				[-100, -94, -91, -86, -85]
+				Top 5 so far:
+				[62, 64, 68, 69, 70]
+		< Minute 139 >
+
+			Sensor 0 reads: 30
+			Sensor 1 reads: -30
+			Sensor 2 reads: 47
+			Sensor 3 reads: -66
+			Sensor 4 reads: 33
+			Sensor 5 reads: -31
+			Sensor 6 reads: 67
+			Sensor 7 reads: -14
+			Sensor[0]: 30
+			Sensor[1]: -30
+			Sensor[2]: 47
+			Sensor[3]: -66
+			Sensor[4]: 33
+			Sensor[5]: -31
+			Sensor[6]: 67
+			Sensor[7]: -14
+			Largest diff: 67 - -66 = 133
+
+			Checking -66 against 2147483647
+				Bottom 5 so far:
+				[-100, -94, -91, -86, -85]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		Largest diff this interval: 162
+
+	=== Interval 2 ===
+
+		< Minute 140 >
+
+			Sensor 0 reads: 12
+			Sensor 1 reads: -4
+			Sensor 3 reads: 49
+			Sensor 2 reads: -94
+			Sensor 4 reads: -100
+			Sensor 5 reads: -78
+			Sensor 6 reads: -100
+			Sensor 7 reads: -54
+			Sensor[0]: 12
+			Sensor[1]: -4
+			Sensor[2]: -94
+			Sensor[3]: 49
+			Sensor[4]: -100
+			Sensor[5]: -78
+			Sensor[6]: -100
+			Sensor[7]: -54
+			Largest diff: 49 - -100 = 149
+
+			Checking -100 against 2147483647
+				Bottom 5 so far:
+				[-100, -94, -91, -86, -85]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 141 >
+
+			Sensor 0 reads: -94
+			Sensor 1 reads: 64
+			Sensor 2 reads: -60
+			Sensor 3 reads: -4
+			Sensor 4 reads: 51
+			Sensor 5 reads: -17
+			Sensor 6 reads: -34
+			Sensor 7 reads: 69
+			Sensor[0]: -94
+			Sensor[1]: 64
+			Sensor[2]: -60
+			Sensor[3]: -4
+			Sensor[4]: 51
+			Sensor[5]: -17
+			Sensor[6]: -34
+			Sensor[7]: 69
+			Largest diff: 69 - -60 = 129
+
+			Checking -60 against 2147483647
+				Bottom 5 so far:
+				[-100, -94, -91, -86, -85]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 142 >
+
+			Sensor 0 reads: 2
+			Sensor 1 reads: 42
+			Sensor 2 reads: 52
+			Sensor 3 reads: 54
+			Sensor 4 reads: -95
+			Sensor 5 reads: -26
+			Sensor 6 reads: -27
+			Sensor 7 reads: 30
+			Sensor[0]: 2
+			Sensor[1]: 42
+			Sensor[2]: 52
+			Sensor[3]: 54
+			Sensor[4]: -95
+			Sensor[5]: -26
+			Sensor[6]: -27
+			Sensor[7]: 30
+			Largest diff: 54 - -95 = 149
+
+			Checking -95 against 2147483647
+				Bottom 5 so far:
+				[-100, -95, -94, -91, -86]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 143 >
+
+			Sensor 0 reads: 58
+			Sensor 1 reads: 52
+			Sensor 2 reads: 18
+			Sensor 4 reads: -4
+			Sensor 3 reads: -17
+			Sensor 5 reads: -11
+			Sensor 6 reads: 4
+			Sensor 7 reads: -50
+			Sensor[0]: 58
+			Sensor[1]: 52
+			Sensor[2]: 18
+			Sensor[3]: -17
+			Sensor[4]: -4
+			Sensor[5]: -11
+			Sensor[6]: 4
+			Sensor[7]: -50
+			Largest diff: 58 - -50 = 108
+
+			Checking -50 against 2147483647
+				Bottom 5 so far:
+				[-100, -95, -94, -91, -86]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 144 >
+
+			Sensor 0 reads: 43
+			Sensor 1 reads: -77
+			Sensor 2 reads: -6
+			Sensor 3 reads: -74
+			Sensor 4 reads: -45
+			Sensor 5 reads: -3
+			Sensor 6 reads: 5
+			Sensor 7 reads: -13
+			Sensor[0]: 43
+			Sensor[1]: -77
+			Sensor[2]: -6
+			Sensor[3]: -74
+			Sensor[4]: -45
+			Sensor[5]: -3
+			Sensor[6]: 5
+			Sensor[7]: -13
+			Largest diff: 43 - -77 = 120
+
+			Checking -77 against 2147483647
+				Bottom 5 so far:
+				[-100, -95, -94, -91, -86]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 145 >
+
+			Sensor 0 reads: 21
+			Sensor 1 reads: 11
+			Sensor 2 reads: -22
+			Sensor 3 reads: 16
+			Sensor 4 reads: -23
+			Sensor 5 reads: -50
+			Sensor 6 reads: 25
+			Sensor 7 reads: 36
+			Sensor[0]: 21
+			Sensor[1]: 11
+			Sensor[2]: -22
+			Sensor[3]: 16
+			Sensor[4]: -23
+			Sensor[5]: -50
+			Sensor[6]: 25
+			Sensor[7]: 36
+			Largest diff: 36 - -50 = 86
+
+			Checking -50 against 2147483647
+				Bottom 5 so far:
+				[-100, -95, -94, -91, -86]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 146 >
+
+			Sensor 0 reads: 68
+			Sensor 1 reads: 33
+			Sensor 2 reads: -76
+			Sensor 3 reads: 22
+			Sensor 5 reads: -99
+			Sensor 4 reads: -73
+			Sensor 6 reads: 28
+			Sensor 7 reads: -96
+			Sensor[0]: 68
+			Sensor[1]: 33
+			Sensor[2]: -76
+			Sensor[3]: 22
+			Sensor[4]: -73
+			Sensor[5]: -99
+			Sensor[6]: 28
+			Sensor[7]: -96
+			Largest diff: 68 - -99 = 167
+
+			Checking -99 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 147 >
+
+			Sensor 0 reads: 60
+			Sensor 1 reads: 54
+			Sensor 2 reads: -78
+			Sensor 3 reads: -60
+			Sensor 4 reads: -42
+			Sensor 5 reads: 32
+			Sensor 6 reads: 69
+			Sensor 7 reads: -1
+			Sensor[0]: 60
+			Sensor[1]: 54
+			Sensor[2]: -78
+			Sensor[3]: -60
+			Sensor[4]: -42
+			Sensor[5]: 32
+			Sensor[6]: 69
+			Sensor[7]: -1
+			Largest diff: 69 - -78 = 147
+
+			Checking -78 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 148 >
+
+			Sensor 0 reads: -36
+			Sensor 1 reads: -61
+			Sensor 2 reads: 19
+			Sensor 3 reads: 46
+			Sensor 5 reads: 8
+			Sensor 4 reads: -72
+			Sensor 6 reads: 6
+			Sensor 7 reads: -82
+			Sensor[0]: -36
+			Sensor[1]: -61
+			Sensor[2]: 19
+			Sensor[3]: 46
+			Sensor[4]: -72
+			Sensor[5]: 8
+			Sensor[6]: 6
+			Sensor[7]: -82
+			Largest diff: 46 - -82 = 128
+
+			Checking -82 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 149 >
+
+			Sensor 2 reads: 39
+			Sensor 0 reads: 18
+			Sensor 3 reads: 49
+			Sensor 1 reads: 55
+			Sensor 5 reads: -37
+			Sensor 6 reads: 5
+			Sensor 4 reads: 37
+			Sensor 7 reads: -44
+			Sensor[0]: 18
+			Sensor[1]: 55
+			Sensor[2]: 39
+			Sensor[3]: 49
+			Sensor[4]: 37
+			Sensor[5]: -37
+			Sensor[6]: 5
+			Sensor[7]: -44
+			Largest diff: 55 - -44 = 99
+
+			Checking -44 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		Largest diff this interval: 167
+
+	=== Interval 3 ===
+
+		< Minute 150 >
+
+			Sensor 2 reads: -63
+			Sensor 1 reads: 40
+			Sensor 0 reads: -49
+			Sensor 3 reads: -64
+			Sensor 4 reads: 35
+			Sensor 5 reads: -16
+			Sensor 6 reads: 22
+			Sensor 7 reads: 45
+			Sensor[0]: -49
+			Sensor[1]: 40
+			Sensor[2]: -63
+			Sensor[3]: -64
+			Sensor[4]: 35
+			Sensor[5]: -16
+			Sensor[6]: 22
+			Sensor[7]: 45
+			Largest diff: 45 - -64 = 109
+
+			Checking -64 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 151 >
+
+			Sensor 2 reads: -26
+			Sensor 0 reads: 21
+			Sensor 1 reads: -86
+			Sensor 3 reads: -94
+			Sensor 4 reads: -55
+			Sensor 5 reads: 39
+			Sensor 7 reads: 41
+			Sensor 6 reads: -46
+			Sensor[0]: 21
+			Sensor[1]: -86
+			Sensor[2]: -26
+			Sensor[3]: -94
+			Sensor[4]: -55
+			Sensor[5]: 39
+			Sensor[6]: -46
+			Sensor[7]: 41
+			Largest diff: 41 - -94 = 135
+
+			Checking -94 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 152 >
+
+			Sensor 0 reads: 58
+			Sensor 1 reads: -21
+			Sensor 2 reads: 11
+			Sensor 3 reads: 43
+			Sensor 4 reads: 30
+			Sensor 5 reads: -3
+			Sensor 7 reads: -4
+			Sensor 6 reads: 61
+			Sensor[0]: 58
+			Sensor[1]: -21
+			Sensor[2]: 11
+			Sensor[3]: 43
+			Sensor[4]: 30
+			Sensor[5]: -3
+			Sensor[6]: 61
+			Sensor[7]: -4
+			Largest diff: 61 - -21 = 82
+
+			Checking -21 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 153 >
+
+			Sensor 0 reads: -88
+			Sensor 1 reads: -20
+			Sensor 2 reads: 39
+			Sensor 3 reads: -70
+			Sensor 4 reads: 64
+			Sensor 5 reads: -61
+			Sensor 7 reads: -91
+			Sensor 6 reads: -76
+			Sensor[0]: -88
+			Sensor[1]: -20
+			Sensor[2]: 39
+			Sensor[3]: -70
+			Sensor[4]: 64
+			Sensor[5]: -61
+			Sensor[6]: -76
+			Sensor[7]: -91
+			Largest diff: 64 - -91 = 155
+
+			Checking -91 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 154 >
+
+			Sensor 0 reads: -44
+			Sensor 1 reads: 30
+			Sensor 2 reads: -51
+			Sensor 3 reads: -50
+			Sensor 4 reads: -70
+			Sensor 5 reads: -93
+			Sensor 6 reads: -95
+			Sensor 7 reads: -52
+			Sensor[0]: -44
+			Sensor[1]: 30
+			Sensor[2]: -51
+			Sensor[3]: -50
+			Sensor[4]: -70
+			Sensor[5]: -93
+			Sensor[6]: -95
+			Sensor[7]: -52
+			Largest diff: 30 - -95 = 125
+
+			Checking -95 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 155 >
+
+			Sensor 0 reads: 29
+			Sensor 1 reads: -94
+			Sensor 2 reads: -35
+			Sensor 3 reads: -28
+			Sensor 4 reads: -82
+			Sensor 5 reads: -14
+			Sensor 6 reads: -37
+			Sensor 7 reads: 22
+			Sensor[0]: 29
+			Sensor[1]: -94
+			Sensor[2]: -35
+			Sensor[3]: -28
+			Sensor[4]: -82
+			Sensor[5]: -14
+			Sensor[6]: -37
+			Sensor[7]: 22
+			Largest diff: 29 - -94 = 123
+
+			Checking -94 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 156 >
+
+			Sensor 0 reads: 5
+			Sensor 1 reads: -66
+			Sensor 2 reads: 8
+			Sensor 3 reads: 15
+			Sensor 5 reads: -46
+			Sensor 4 reads: -68
+			Sensor 6 reads: 52
+			Sensor 7 reads: -25
+			Sensor[0]: 5
+			Sensor[1]: -66
+			Sensor[2]: 8
+			Sensor[3]: 15
+			Sensor[4]: -68
+			Sensor[5]: -46
+			Sensor[6]: 52
+			Sensor[7]: -25
+			Largest diff: 52 - -68 = 120
+
+			Checking -68 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 157 >
+
+			Sensor 6 reads: -81
+			Sensor 5 reads: 52
+			Sensor 0 reads: 42
+			Sensor 1 reads: -42
+			Sensor 2 reads: -44
+			Sensor 3 reads: 39
+			Sensor 4 reads: 67
+			Sensor 7 reads: 15
+			Sensor[0]: 42
+			Sensor[1]: -42
+			Sensor[2]: -44
+			Sensor[3]: 39
+			Sensor[4]: 67
+			Sensor[5]: 52
+			Sensor[6]: -81
+			Sensor[7]: 15
+			Largest diff: 67 - -81 = 148
+
+			Checking -81 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 158 >
+
+			Sensor 0 reads: -96
+			Sensor 1 reads: 22
+			Sensor 2 reads: -14
+			Sensor 3 reads: -5
+			Sensor 4 reads: 27
+			Sensor 5 reads: 17
+			Sensor 6 reads: -27
+			Sensor 7 reads: 43
+			Sensor[0]: -96
+			Sensor[1]: 22
+			Sensor[2]: -14
+			Sensor[3]: -5
+			Sensor[4]: 27
+			Sensor[5]: 17
+			Sensor[6]: -27
+			Sensor[7]: 43
+			Largest diff: 43 - -27 = 70
+
+			Checking -27 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 159 >
+
+			Sensor 0 reads: -97
+			Sensor 1 reads: 2
+			Sensor 2 reads: -24
+			Sensor 3 reads: -83
+			Sensor 4 reads: -2
+			Sensor 5 reads: -23
+			Sensor 6 reads: 46
+			Sensor 7 reads: 20
+			Sensor[0]: -97
+			Sensor[1]: 2
+			Sensor[2]: -24
+			Sensor[3]: -83
+			Sensor[4]: -2
+			Sensor[5]: -23
+			Sensor[6]: 46
+			Sensor[7]: 20
+			Largest diff: 46 - -83 = 129
+
+			Checking -83 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		Largest diff this interval: 155
+
+	=== Interval 4 ===
+
+		< Minute 160 >
+
+			Sensor 0 reads: -94
+			Sensor 1 reads: 13
+			Sensor 4 reads: -53
+			Sensor 3 reads: 1
+			Sensor 6 reads: 0
+			Sensor 5 reads: -30
+			Sensor 2 reads: -6
+			Sensor 7 reads: -26
+			Sensor[0]: -94
+			Sensor[1]: 13
+			Sensor[2]: -6
+			Sensor[3]: 1
+			Sensor[4]: -53
+			Sensor[5]: -30
+			Sensor[6]: 0
+			Sensor[7]: -26
+			Largest diff: 13 - -53 = 66
+
+			Checking -53 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 161 >
+
+			Sensor 0 reads: -82
+			Sensor 1 reads: 26
+			Sensor 2 reads: -44
+			Sensor 4 reads: 41
+			Sensor 3 reads: -37
+			Sensor 5 reads: -13
+			Sensor 6 reads: 47
+			Sensor 7 reads: 15
+			Sensor[0]: -82
+			Sensor[1]: 26
+			Sensor[2]: -44
+			Sensor[3]: -37
+			Sensor[4]: 41
+			Sensor[5]: -13
+			Sensor[6]: 47
+			Sensor[7]: 15
+			Largest diff: 47 - -44 = 91
+
+			Checking -44 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 162 >
+
+			Sensor 0 reads: 51
+			Sensor 1 reads: -89
+			Sensor 2 reads: -79
+			Sensor 3 reads: -30
+			Sensor 4 reads: 52
+			Sensor 5 reads: 40
+			Sensor 6 reads: 44
+			Sensor 7 reads: -25
+			Sensor[0]: 51
+			Sensor[1]: -89
+			Sensor[2]: -79
+			Sensor[3]: -30
+			Sensor[4]: 52
+			Sensor[5]: 40
+			Sensor[6]: 44
+			Sensor[7]: -25
+			Largest diff: 52 - -89 = 141
+
+			Checking -89 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 163 >
+
+			Sensor 0 reads: 64
+			Sensor 1 reads: -62
+			Sensor 2 reads: -26
+			Sensor 3 reads: 60
+			Sensor 5 reads: -39
+			Sensor 4 reads: 14
+			Sensor 6 reads: -78
+			Sensor 7 reads: 19
+			Sensor[0]: 64
+			Sensor[1]: -62
+			Sensor[2]: -26
+			Sensor[3]: 60
+			Sensor[4]: 14
+			Sensor[5]: -39
+			Sensor[6]: -78
+			Sensor[7]: 19
+			Largest diff: 64 - -78 = 142
+
+			Checking -78 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 164 >
+
+			Sensor 2 reads: -90
+			Sensor 1 reads: -4
+			Sensor 0 reads: -16
+			Sensor 3 reads: 15
+			Sensor 4 reads: 36
+			Sensor 5 reads: 31
+			Sensor 6 reads: -31
+			Sensor 7 reads: -6
+			Sensor[0]: -16
+			Sensor[1]: -4
+			Sensor[2]: -90
+			Sensor[3]: 15
+			Sensor[4]: 36
+			Sensor[5]: 31
+			Sensor[6]: -31
+			Sensor[7]: -6
+			Largest diff: 36 - -90 = 126
+
+			Checking -90 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[64, 67, 68, 69, 70]
+		< Minute 165 >
+
+			Sensor 0 reads: -86
+			Sensor 1 reads: -33
+			Sensor 2 reads: -68
+			Sensor 3 reads: 59
+			Sensor 4 reads: -73
+			Sensor 5 reads: -40
+			Sensor 6 reads: 65
+			Sensor 7 reads: 13
+			Sensor[0]: -86
+			Sensor[1]: -33
+			Sensor[2]: -68
+			Sensor[3]: 59
+			Sensor[4]: -73
+			Sensor[5]: -40
+			Sensor[6]: 65
+			Sensor[7]: 13
+			Largest diff: 65 - -73 = 138
+
+			Checking -73 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[65, 67, 68, 69, 70]
+		< Minute 166 >
+
+			Sensor 0 reads: 35
+			Sensor 1 reads: 32
+			Sensor 2 reads: 4
+			Sensor 3 reads: -42
+			Sensor 4 reads: -42
+			Sensor 5 reads: -67
+			Sensor 6 reads: 3
+			Sensor 7 reads: 23
+			Sensor[0]: 35
+			Sensor[1]: 32
+			Sensor[2]: 4
+			Sensor[3]: -42
+			Sensor[4]: -42
+			Sensor[5]: -67
+			Sensor[6]: 3
+			Sensor[7]: 23
+			Largest diff: 35 - -67 = 102
+
+			Checking -67 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[65, 67, 68, 69, 70]
+		< Minute 167 >
+
+			Sensor 2 reads: 43
+			Sensor 0 reads: -12
+			Sensor 1 reads: 4
+			Sensor 3 reads: -37
+			Sensor 4 reads: -60
+			Sensor 5 reads: 23
+			Sensor 6 reads: 17
+			Sensor 7 reads: -57
+			Sensor[0]: -12
+			Sensor[1]: 4
+			Sensor[2]: 43
+			Sensor[3]: -37
+			Sensor[4]: -60
+			Sensor[5]: 23
+			Sensor[6]: 17
+			Sensor[7]: -57
+			Largest diff: 43 - -60 = 103
+
+			Checking -60 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[65, 67, 68, 69, 70]
+		< Minute 168 >
+
+			Sensor 0 reads: 30
+			Sensor 2 reads: -7
+			Sensor 3 reads: 63
+			Sensor 4 reads: 21
+			Sensor 5 reads: -92
+			Sensor 1 reads: 63
+			Sensor 7 reads: -75
+			Sensor 6 reads: -95
+			Sensor[0]: 30
+			Sensor[1]: 63
+			Sensor[2]: -7
+			Sensor[3]: 63
+			Sensor[4]: 21
+			Sensor[5]: -92
+			Sensor[6]: -95
+			Sensor[7]: -75
+			Largest diff: 63 - -95 = 158
+
+			Checking -95 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[65, 67, 68, 69, 70]
+		< Minute 169 >
+
+			Sensor 0 reads: -6
+			Sensor 2 reads: -92
+			Sensor 1 reads: 60
+			Sensor 4 reads: -95
+			Sensor 3 reads: -79
+			Sensor 5 reads: 68
+			Sensor 6 reads: -95
+			Sensor 7 reads: 43
+			Sensor[0]: -6
+			Sensor[1]: 60
+			Sensor[2]: -92
+			Sensor[3]: -79
+			Sensor[4]: -95
+			Sensor[5]: 68
+			Sensor[6]: -95
+			Sensor[7]: 43
+			Largest diff: 68 - -95 = 163
+
+			Checking -95 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[65, 67, 68, 69, 70]
+		Largest diff this interval: 163
+
+	=== Interval 5 ===
+
+		< Minute 170 >
+
+			Sensor 0 reads: 28
+			Sensor 1 reads: 41
+			Sensor 2 reads: 65
+			Sensor 3 reads: 15
+			Sensor 4 reads: 47
+			Sensor 5 reads: -69
+			Sensor 6 reads: -97
+			Sensor 7 reads: 12
+			Sensor[0]: 28
+			Sensor[1]: 41
+			Sensor[2]: 65
+			Sensor[3]: 15
+			Sensor[4]: 47
+			Sensor[5]: -69
+			Sensor[6]: -97
+			Sensor[7]: 12
+			Largest diff: 65 - -97 = 162
+
+			Checking -97 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -97, -95, -94]
+				Top 5 so far:
+				[65, 67, 68, 69, 70]
+		< Minute 171 >
+
+			Sensor 0 reads: -13
+			Sensor 2 reads: -97
+			Sensor 3 reads: 56
+			Sensor 1 reads: -11
+			Sensor 4 reads: -91
+			Sensor 5 reads: -6
+			Sensor 6 reads: 62
+			Sensor 7 reads: -96
+			Sensor[0]: -13
+			Sensor[1]: -11
+			Sensor[2]: -97
+			Sensor[3]: 56
+			Sensor[4]: -91
+			Sensor[5]: -6
+			Sensor[6]: 62
+			Sensor[7]: -96
+			Largest diff: 62 - -97 = 159
+
+			Checking -97 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -97, -95, -94]
+				Top 5 so far:
+				[65, 67, 68, 69, 70]
+		< Minute 172 >
+
+			Sensor 1 reads: 36
+			Sensor 0 reads: 25
+			Sensor 2 reads: 58
+			Sensor 3 reads: -47
+			Sensor 4 reads: -52
+			Sensor 5 reads: 70
+			Sensor 6 reads: -6
+			Sensor 7 reads: 26
+			Sensor[0]: 25
+			Sensor[1]: 36
+			Sensor[2]: 58
+			Sensor[3]: -47
+			Sensor[4]: -52
+			Sensor[5]: 70
+			Sensor[6]: -6
+			Sensor[7]: 26
+			Largest diff: 70 - -52 = 122
+
+			Checking -52 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -97, -95, -94]
+				Top 5 so far:
+				[65, 67, 68, 69, 70]
+		< Minute 173 >
+
+			Sensor 0 reads: 7
+			Sensor 1 reads: -24
+			Sensor 2 reads: 27
+			Sensor 3 reads: -68
+			Sensor 4 reads: -61
+			Sensor 5 reads: -12
+			Sensor 6 reads: 69
+			Sensor 7 reads: 33
+			Sensor[0]: 7
+			Sensor[1]: -24
+			Sensor[2]: 27
+			Sensor[3]: -68
+			Sensor[4]: -61
+			Sensor[5]: -12
+			Sensor[6]: 69
+			Sensor[7]: 33
+			Largest diff: 69 - -68 = 137
+
+			Checking -68 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -97, -95, -94]
+				Top 5 so far:
+				[65, 67, 68, 69, 70]
+		< Minute 174 >
+
+			Sensor 0 reads: 5
+			Sensor 1 reads: -82
+			Sensor 2 reads: 51
+			Sensor 3 reads: 42
+			Sensor 4 reads: -88
+			Sensor 5 reads: -32
+			Sensor 6 reads: 61
+			Sensor 7 reads: -77
+			Sensor[0]: 5
+			Sensor[1]: -82
+			Sensor[2]: 51
+			Sensor[3]: 42
+			Sensor[4]: -88
+			Sensor[5]: -32
+			Sensor[6]: 61
+			Sensor[7]: -77
+			Largest diff: 61 - -88 = 149
+
+			Checking -88 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -97, -95, -94]
+				Top 5 so far:
+				[65, 67, 68, 69, 70]
+		< Minute 175 >
+
+			Sensor 0 reads: -25
+			Sensor 1 reads: -57
+			Sensor 3 reads: 6
+			Sensor 2 reads: -22
+			Sensor 4 reads: -75
+			Sensor 5 reads: -24
+			Sensor 6 reads: -62
+			Sensor 7 reads: 9
+			Sensor[0]: -25
+			Sensor[1]: -57
+			Sensor[2]: -22
+			Sensor[3]: 6
+			Sensor[4]: -75
+			Sensor[5]: -24
+			Sensor[6]: -62
+			Sensor[7]: 9
+			Largest diff: 9 - -75 = 84
+
+			Checking -75 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -97, -95, -94]
+				Top 5 so far:
+				[65, 67, 68, 69, 70]
+		< Minute 176 >
+
+			Sensor 0 reads: -86
+			Sensor 1 reads: 21
+			Sensor 2 reads: 63
+			Sensor 3 reads: 17
+			Sensor 4 reads: 32
+			Sensor 5 reads: 33
+			Sensor 6 reads: 29
+			Sensor 7 reads: -2
+			Sensor[0]: -86
+			Sensor[1]: 21
+			Sensor[2]: 63
+			Sensor[3]: 17
+			Sensor[4]: 32
+			Sensor[5]: 33
+			Sensor[6]: 29
+			Sensor[7]: -2
+			Largest diff: 63 - -2 = 65
+
+			Checking -2 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -97, -95, -94]
+				Top 5 so far:
+				[65, 67, 68, 69, 70]
+		< Minute 177 >
+
+			Sensor 0 reads: -14
+			Sensor 1 reads: -91
+			Sensor 2 reads: 68
+			Sensor 3 reads: -11
+			Sensor 4 reads: -55
+			Sensor 5 reads: -70
+			Sensor 6 reads: -10
+			Sensor 7 reads: -51
+			Sensor[0]: -14
+			Sensor[1]: -91
+			Sensor[2]: 68
+			Sensor[3]: -11
+			Sensor[4]: -55
+			Sensor[5]: -70
+			Sensor[6]: -10
+			Sensor[7]: -51
+			Largest diff: 68 - -91 = 159
+
+			Checking -91 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -97, -95, -94]
+				Top 5 so far:
+				[65, 67, 68, 69, 70]
+		< Minute 178 >
+
+			Sensor 0 reads: -13
+			Sensor 1 reads: -13
+			Sensor 2 reads: 1
+			Sensor 3 reads: -17
+			Sensor 4 reads: -100
+			Sensor 5 reads: -68
+			Sensor 6 reads: -35
+			Sensor 7 reads: -17
+			Sensor[0]: -13
+			Sensor[1]: -13
+			Sensor[2]: 1
+			Sensor[3]: -17
+			Sensor[4]: -100
+			Sensor[5]: -68
+			Sensor[6]: -35
+			Sensor[7]: -17
+			Largest diff: 1 - -100 = 101
+
+			Checking -100 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -97, -95, -94]
+				Top 5 so far:
+				[65, 67, 68, 69, 70]
+		< Minute 179 >
+
+			Sensor 0 reads: -18
+			Sensor 1 reads: -61
+			Sensor 2 reads: -75
+			Sensor 3 reads: 4
+			Sensor 4 reads: 30
+			Sensor 5 reads: 21
+			Sensor 6 reads: -2
+			Sensor 7 reads: 43
+			Sensor[0]: -18
+			Sensor[1]: -61
+			Sensor[2]: -75
+			Sensor[3]: 4
+			Sensor[4]: 30
+			Sensor[5]: 21
+			Sensor[6]: -2
+			Sensor[7]: 43
+			Largest diff: 43 - -75 = 118
+
+			Checking -75 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -97, -95, -94]
+				Top 5 so far:
+				[65, 67, 68, 69, 70]
+		Largest diff this interval: 162
+
+	Interval with max diff this hour: 999
+
+====== Hour 3 ======
+
+	=== Interval 0 ===
+
+		< Minute 180 >
+
+			Sensor 0 reads: 67
+			Sensor 1 reads: -80
+			Sensor 2 reads: -30
+			Sensor 3 reads: 50
+			Sensor 5 reads: -17
+			Sensor 4 reads: 45
+			Sensor 6 reads: 1
+			Sensor 7 reads: -89
+			Sensor[0]: 67
+			Sensor[1]: -80
+			Sensor[2]: -30
+			Sensor[3]: 50
+			Sensor[4]: 45
+			Sensor[5]: -17
+			Sensor[6]: 1
+			Sensor[7]: -89
+			Largest diff: 67 - -89 = 156
+
+			Checking -89 against 2147483647
+				Bottom 5 so far:
+				[-89]
+				Top 5 so far:
+				[67]
+		< Minute 181 >
+
+			Sensor 0 reads: -82
+			Sensor 2 reads: -83
+			Sensor 1 reads: 51
+			Sensor 3 reads: -58
+			Sensor 4 reads: -39
+			Sensor 5 reads: -56
+			Sensor 6 reads: 15
+			Sensor 7 reads: 55
+			Sensor[0]: -82
+			Sensor[1]: 51
+			Sensor[2]: -83
+			Sensor[3]: -58
+			Sensor[4]: -39
+			Sensor[5]: -56
+			Sensor[6]: 15
+			Sensor[7]: 55
+			Largest diff: 55 - -83 = 138
+
+			Checking -83 against 2147483647
+				Bottom 5 so far:
+				[-89, -83]
+				Top 5 so far:
+				[55, 67]
+		< Minute 182 >
+
+			Sensor 0 reads: -31
+			Sensor 1 reads: 57
+			Sensor 3 reads: 50
+			Sensor 2 reads: -37
+			Sensor 4 reads: 58
+			Sensor 5 reads: -91
+			Sensor 6 reads: -86
+			Sensor 7 reads: -34
+			Sensor[0]: -31
+			Sensor[1]: 57
+			Sensor[2]: -37
+			Sensor[3]: 50
+			Sensor[4]: 58
+			Sensor[5]: -91
+			Sensor[6]: -86
+			Sensor[7]: -34
+			Largest diff: 58 - -91 = 149
+
+			Checking -91 against 2147483647
+				Bottom 5 so far:
+				[-91, -89, -83]
+				Top 5 so far:
+				[55, 58, 67]
+		< Minute 183 >
+
+			Sensor 0 reads: -11
+			Sensor 1 reads: -80
+			Sensor 2 reads: -50
+			Sensor 3 reads: 28
+			Sensor 4 reads: -19
+			Sensor 6 reads: -72
+			Sensor 5 reads: -54
+			Sensor 7 reads: 41
+			Sensor[0]: -11
+			Sensor[1]: -80
+			Sensor[2]: -50
+			Sensor[3]: 28
+			Sensor[4]: -19
+			Sensor[5]: -54
+			Sensor[6]: -72
+			Sensor[7]: 41
+			Largest diff: 41 - -80 = 121
+
+			Checking -80 against 2147483647
+				Bottom 5 so far:
+				[-91, -89, -83, -80]
+				Top 5 so far:
+				[41, 55, 58, 67]
+		< Minute 184 >
+
+			Sensor 0 reads: -1
+			Sensor 1 reads: 19
+			Sensor 2 reads: -3
+			Sensor 4 reads: 59
+			Sensor 3 reads: 48
+			Sensor 5 reads: -73
+			Sensor 6 reads: 6
+			Sensor 7 reads: -47
+			Sensor[0]: -1
+			Sensor[1]: 19
+			Sensor[2]: -3
+			Sensor[3]: 48
+			Sensor[4]: 59
+			Sensor[5]: -73
+			Sensor[6]: 6
+			Sensor[7]: -47
+			Largest diff: 59 - -73 = 132
+
+			Checking -73 against 2147483647
+				Bottom 5 so far:
+				[-91, -89, -83, -80, -73]
+				Top 5 so far:
+				[41, 55, 58, 59, 67]
+		< Minute 185 >
+
+			Sensor 0 reads: -34
+			Sensor 1 reads: 53
+			Sensor 2 reads: 61
+			Sensor 3 reads: -42
+			Sensor 4 reads: 54
+			Sensor 5 reads: -51
+			Sensor 6 reads: -6
+			Sensor 7 reads: -31
+			Sensor[0]: -34
+			Sensor[1]: 53
+			Sensor[2]: 61
+			Sensor[3]: -42
+			Sensor[4]: 54
+			Sensor[5]: -51
+			Sensor[6]: -6
+			Sensor[7]: -31
+			Largest diff: 61 - -51 = 112
+
+			Checking -51 against 2147483647
+				Bottom 5 so far:
+				[-91, -89, -83, -80, -73]
+				Top 5 so far:
+				[55, 58, 59, 61, 67]
+		< Minute 186 >
+
+			Sensor 0 reads: -50
+			Sensor 1 reads: -99
+			Sensor 2 reads: -6
+			Sensor 3 reads: -92
+			Sensor 4 reads: -74
+			Sensor 5 reads: -47
+			Sensor 6 reads: -70
+			Sensor 7 reads: 41
+			Sensor[0]: -50
+			Sensor[1]: -99
+			Sensor[2]: -6
+			Sensor[3]: -92
+			Sensor[4]: -74
+			Sensor[5]: -47
+			Sensor[6]: -70
+			Sensor[7]: 41
+			Largest diff: 41 - -99 = 140
+
+			Checking -99 against 2147483647
+				Bottom 5 so far:
+				[-99, -91, -89, -83, -80]
+				Top 5 so far:
+				[55, 58, 59, 61, 67]
+		< Minute 187 >
+
+			Sensor 0 reads: 23
+			Sensor 1 reads: 41
+			Sensor 2 reads: -26
+			Sensor 3 reads: 23
+			Sensor 5 reads: -32
+			Sensor 6 reads: 42
+			Sensor 7 reads: -87
+			Sensor 4 reads: -100
+			Sensor[0]: 23
+			Sensor[1]: 41
+			Sensor[2]: -26
+			Sensor[3]: 23
+			Sensor[4]: -100
+			Sensor[5]: -32
+			Sensor[6]: 42
+			Sensor[7]: -87
+			Largest diff: 42 - -100 = 142
+
+			Checking -100 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -91, -89, -83]
+				Top 5 so far:
+				[55, 58, 59, 61, 67]
+		< Minute 188 >
+
+			Sensor 0 reads: 10
+			Sensor 1 reads: -4
+			Sensor 2 reads: -49
+			Sensor 4 reads: 45
+			Sensor 3 reads: -79
+			Sensor 5 reads: -10
+			Sensor 6 reads: 63
+			Sensor 7 reads: 32
+			Sensor[0]: 10
+			Sensor[1]: -4
+			Sensor[2]: -49
+			Sensor[3]: -79
+			Sensor[4]: 45
+			Sensor[5]: -10
+			Sensor[6]: 63
+			Sensor[7]: 32
+			Largest diff: 63 - -79 = 142
+
+			Checking -79 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -91, -89, -83]
+				Top 5 so far:
+				[58, 59, 61, 63, 67]
+		< Minute 189 >
+
+			Sensor 0 reads: -2
+			Sensor 2 reads: -77
+			Sensor 1 reads: 47
+			Sensor 3 reads: 1
+			Sensor 4 reads: 54
+			Sensor 5 reads: 65
+			Sensor 6 reads: -1
+			Sensor 7 reads: -3
+			Sensor[0]: -2
+			Sensor[1]: 47
+			Sensor[2]: -77
+			Sensor[3]: 1
+			Sensor[4]: 54
+			Sensor[5]: 65
+			Sensor[6]: -1
+			Sensor[7]: -3
+			Largest diff: 65 - -77 = 142
+
+			Checking -77 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -91, -89, -83]
+				Top 5 so far:
+				[59, 61, 63, 65, 67]
+		Largest diff this interval: 156
+
+	=== Interval 1 ===
+
+		< Minute 190 >
+
+			Sensor 0 reads: -43
+			Sensor 1 reads: -26
+			Sensor 2 reads: -27
+			Sensor 3 reads: 17
+			Sensor 4 reads: 42
+			Sensor 5 reads: -22
+			Sensor 6 reads: 12
+			Sensor 7 reads: 18
+			Sensor[0]: -43
+			Sensor[1]: -26
+			Sensor[2]: -27
+			Sensor[3]: 17
+			Sensor[4]: 42
+			Sensor[5]: -22
+			Sensor[6]: 12
+			Sensor[7]: 18
+			Largest diff: 42 - -27 = 69
+
+			Checking -27 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -91, -89, -83]
+				Top 5 so far:
+				[59, 61, 63, 65, 67]
+		< Minute 191 >
+
+			Sensor 0 reads: -66
+			Sensor 1 reads: -45
+			Sensor 2 reads: 37
+			Sensor 4 reads: 41
+			Sensor 3 reads: -89
+			Sensor 5 reads: -26
+			Sensor 6 reads: 23
+			Sensor 7 reads: -58
+			Sensor[0]: -66
+			Sensor[1]: -45
+			Sensor[2]: 37
+			Sensor[3]: -89
+			Sensor[4]: 41
+			Sensor[5]: -26
+			Sensor[6]: 23
+			Sensor[7]: -58
+			Largest diff: 41 - -89 = 130
+
+			Checking -89 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -91, -89, -83]
+				Top 5 so far:
+				[59, 61, 63, 65, 67]
+		< Minute 192 >
+
+			Sensor 0 reads: 22
+			Sensor 1 reads: -100
+			Sensor 2 reads: -5
+			Sensor 3 reads: 8
+			Sensor 4 reads: -56
+			Sensor 5 reads: -89
+			Sensor 6 reads: 48
+			Sensor 7 reads: 59
+			Sensor[0]: 22
+			Sensor[1]: -100
+			Sensor[2]: -5
+			Sensor[3]: 8
+			Sensor[4]: -56
+			Sensor[5]: -89
+			Sensor[6]: 48
+			Sensor[7]: 59
+			Largest diff: 59 - -100 = 159
+
+			Checking -100 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -91, -89, -83]
+				Top 5 so far:
+				[59, 61, 63, 65, 67]
+		< Minute 193 >
+
+			Sensor 0 reads: -25
+			Sensor 1 reads: -47
+			Sensor 2 reads: -70
+			Sensor 4 reads: -71
+			Sensor 3 reads: -14
+			Sensor 5 reads: -38
+			Sensor 6 reads: -95
+			Sensor 7 reads: -60
+			Sensor[0]: -25
+			Sensor[1]: -47
+			Sensor[2]: -70
+			Sensor[3]: -14
+			Sensor[4]: -71
+			Sensor[5]: -38
+			Sensor[6]: -95
+			Sensor[7]: -60
+			Largest diff: -14 - -95 = 81
+
+			Checking -95 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -91, -89]
+				Top 5 so far:
+				[59, 61, 63, 65, 67]
+		< Minute 194 >
+
+			Sensor 0 reads: 24
+			Sensor 1 reads: -86
+			Sensor 2 reads: 48
+			Sensor 3 reads: -58
+			Sensor 4 reads: 4
+			Sensor 5 reads: -87
+			Sensor 6 reads: -28
+			Sensor 7 reads: -29
+			Sensor[0]: 24
+			Sensor[1]: -86
+			Sensor[2]: 48
+			Sensor[3]: -58
+			Sensor[4]: 4
+			Sensor[5]: -87
+			Sensor[6]: -28
+			Sensor[7]: -29
+			Largest diff: 48 - -87 = 135
+
+			Checking -87 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -91, -89]
+				Top 5 so far:
+				[59, 61, 63, 65, 67]
+		< Minute 195 >
+
+			Sensor 0 reads: -93
+			Sensor 1 reads: -88
+			Sensor 2 reads: 15
+			Sensor 3 reads: 62
+			Sensor 4 reads: -24
+			Sensor 5 reads: -51
+			Sensor 6 reads: -60
+			Sensor 7 reads: -23
+			Sensor[0]: -93
+			Sensor[1]: -88
+			Sensor[2]: 15
+			Sensor[3]: 62
+			Sensor[4]: -24
+			Sensor[5]: -51
+			Sensor[6]: -60
+			Sensor[7]: -23
+			Largest diff: 62 - -60 = 122
+
+			Checking -60 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -91, -89]
+				Top 5 so far:
+				[61, 62, 63, 65, 67]
+		< Minute 196 >
+
+			Sensor 2 reads: -52
+			Sensor 1 reads: 38
+			Sensor 0 reads: -22
+			Sensor 3 reads: -36
+			Sensor 4 reads: 67
+			Sensor 5 reads: 1
+			Sensor 6 reads: 34
+			Sensor 7 reads: 64
+			Sensor[0]: -22
+			Sensor[1]: 38
+			Sensor[2]: -52
+			Sensor[3]: -36
+			Sensor[4]: 67
+			Sensor[5]: 1
+			Sensor[6]: 34
+			Sensor[7]: 64
+			Largest diff: 67 - -52 = 119
+
+			Checking -52 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -91, -89]
+				Top 5 so far:
+				[61, 62, 63, 65, 67]
+		< Minute 197 >
+
+			Sensor 0 reads: 67
+			Sensor 1 reads: -99
+			Sensor 2 reads: -33
+			Sensor 3 reads: 31
+			Sensor 4 reads: -88
+			Sensor 5 reads: -8
+			Sensor 6 reads: -5
+			Sensor 7 reads: -68
+			Sensor[0]: 67
+			Sensor[1]: -99
+			Sensor[2]: -33
+			Sensor[3]: 31
+			Sensor[4]: -88
+			Sensor[5]: -8
+			Sensor[6]: -5
+			Sensor[7]: -68
+			Largest diff: 67 - -99 = 166
+
+			Checking -99 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -91, -89]
+				Top 5 so far:
+				[61, 62, 63, 65, 67]
+		< Minute 198 >
+
+			Sensor 0 reads: -99
+			Sensor 1 reads: -31
+			Sensor 2 reads: 69
+			Sensor 3 reads: -4
+			Sensor 4 reads: 36
+			Sensor 5 reads: -91
+			Sensor 6 reads: -39
+			Sensor 7 reads: 51
+			Sensor[0]: -99
+			Sensor[1]: -31
+			Sensor[2]: 69
+			Sensor[3]: -4
+			Sensor[4]: 36
+			Sensor[5]: -91
+			Sensor[6]: -39
+			Sensor[7]: 51
+			Largest diff: 69 - -91 = 160
+
+			Checking -91 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -91, -89]
+				Top 5 so far:
+				[62, 63, 65, 67, 69]
+		< Minute 199 >
+
+			Sensor 0 reads: -28
+			Sensor 1 reads: 19
+			Sensor 2 reads: -24
+			Sensor 3 reads: 44
+			Sensor 4 reads: -35
+			Sensor 6 reads: -9
+			Sensor 5 reads: -38
+			Sensor 7 reads: 11
+			Sensor[0]: -28
+			Sensor[1]: 19
+			Sensor[2]: -24
+			Sensor[3]: 44
+			Sensor[4]: -35
+			Sensor[5]: -38
+			Sensor[6]: -9
+			Sensor[7]: 11
+			Largest diff: 44 - -38 = 82
+
+			Checking -38 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -91, -89]
+				Top 5 so far:
+				[62, 63, 65, 67, 69]
+		Largest diff this interval: 166
+
+	=== Interval 2 ===
+
+		< Minute 200 >
+
+			Sensor 0 reads: -94
+			Sensor 1 reads: -80
+			Sensor 2 reads: -29
+			Sensor 4 reads: -6
+			Sensor 3 reads: 36
+			Sensor 5 reads: 28
+			Sensor 6 reads: -51
+			Sensor 7 reads: -44
+			Sensor[0]: -94
+			Sensor[1]: -80
+			Sensor[2]: -29
+			Sensor[3]: 36
+			Sensor[4]: -6
+			Sensor[5]: 28
+			Sensor[6]: -51
+			Sensor[7]: -44
+			Largest diff: 36 - -51 = 87
+
+			Checking -51 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -91, -89]
+				Top 5 so far:
+				[62, 63, 65, 67, 69]
+		< Minute 201 >
+
+			Sensor 0 reads: -18
+			Sensor 2 reads: -17
+			Sensor 1 reads: 40
+			Sensor 3 reads: 57
+			Sensor 4 reads: 2
+			Sensor 5 reads: -51
+			Sensor 6 reads: 9
+			Sensor 7 reads: 26
+			Sensor[0]: -18
+			Sensor[1]: 40
+			Sensor[2]: -17
+			Sensor[3]: 57
+			Sensor[4]: 2
+			Sensor[5]: -51
+			Sensor[6]: 9
+			Sensor[7]: 26
+			Largest diff: 57 - -51 = 108
+
+			Checking -51 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -91, -89]
+				Top 5 so far:
+				[62, 63, 65, 67, 69]
+		< Minute 202 >
+
+			Sensor 0 reads: 26
+			Sensor 1 reads: 42
+			Sensor 2 reads: -100
+			Sensor 4 reads: 5
+			Sensor 3 reads: 21
+			Sensor 5 reads: -8
+			Sensor 6 reads: 53
+			Sensor 7 reads: -8
+			Sensor[0]: 26
+			Sensor[1]: 42
+			Sensor[2]: -100
+			Sensor[3]: 21
+			Sensor[4]: 5
+			Sensor[5]: -8
+			Sensor[6]: 53
+			Sensor[7]: -8
+			Largest diff: 53 - -100 = 153
+
+			Checking -100 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -91, -89]
+				Top 5 so far:
+				[62, 63, 65, 67, 69]
+		< Minute 203 >
+
+			Sensor 0 reads: -68
+			Sensor 1 reads: -1
+			Sensor 2 reads: -44
+			Sensor 3 reads: -82
+			Sensor 4 reads: 8
+			Sensor 5 reads: -26
+			Sensor 6 reads: 15
+			Sensor 7 reads: 31
+			Sensor[0]: -68
+			Sensor[1]: -1
+			Sensor[2]: -44
+			Sensor[3]: -82
+			Sensor[4]: 8
+			Sensor[5]: -26
+			Sensor[6]: 15
+			Sensor[7]: 31
+			Largest diff: 31 - -82 = 113
+
+			Checking -82 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -91, -89]
+				Top 5 so far:
+				[62, 63, 65, 67, 69]
+		< Minute 204 >
+
+			Sensor 0 reads: -98
+			Sensor 1 reads: -63
+			Sensor 2 reads: -78
+			Sensor 3 reads: -94
+			Sensor 4 reads: -49
+			Sensor 6 reads: 23
+			Sensor 5 reads: -23
+			Sensor 7 reads: -71
+			Sensor[0]: -98
+			Sensor[1]: -63
+			Sensor[2]: -78
+			Sensor[3]: -94
+			Sensor[4]: -49
+			Sensor[5]: -23
+			Sensor[6]: 23
+			Sensor[7]: -71
+			Largest diff: 23 - -94 = 117
+
+			Checking -94 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[62, 63, 65, 67, 69]
+		< Minute 205 >
+
+			Sensor 0 reads: -100
+			Sensor 1 reads: 62
+			Sensor 2 reads: -67
+			Sensor 3 reads: 10
+			Sensor 4 reads: 24
+			Sensor 5 reads: 39
+			Sensor 6 reads: -29
+			Sensor 7 reads: 68
+			Sensor[0]: -100
+			Sensor[1]: 62
+			Sensor[2]: -67
+			Sensor[3]: 10
+			Sensor[4]: 24
+			Sensor[5]: 39
+			Sensor[6]: -29
+			Sensor[7]: 68
+			Largest diff: 68 - -67 = 135
+
+			Checking -67 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 206 >
+
+			Sensor 0 reads: -57
+			Sensor 1 reads: -79
+			Sensor 2 reads: 30
+			Sensor 4 reads: 54
+			Sensor 3 reads: -87
+			Sensor 6 reads: -84
+			Sensor 5 reads: 28
+			Sensor 7 reads: -84
+			Sensor[0]: -57
+			Sensor[1]: -79
+			Sensor[2]: 30
+			Sensor[3]: -87
+			Sensor[4]: 54
+			Sensor[5]: 28
+			Sensor[6]: -84
+			Sensor[7]: -84
+			Largest diff: 54 - -87 = 141
+
+			Checking -87 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 207 >
+
+			Sensor 0 reads: -61
+			Sensor 1 reads: 33
+			Sensor 2 reads: -72
+			Sensor 3 reads: 9
+			Sensor 4 reads: -30
+			Sensor 5 reads: 2
+			Sensor 6 reads: -70
+			Sensor 7 reads: -56
+			Sensor[0]: -61
+			Sensor[1]: 33
+			Sensor[2]: -72
+			Sensor[3]: 9
+			Sensor[4]: -30
+			Sensor[5]: 2
+			Sensor[6]: -70
+			Sensor[7]: -56
+			Largest diff: 33 - -72 = 105
+
+			Checking -72 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 208 >
+
+			Sensor 0 reads: 58
+			Sensor 1 reads: -49
+			Sensor 2 reads: -35
+			Sensor 3 reads: 50
+			Sensor 4 reads: -20
+			Sensor 5 reads: -74
+			Sensor 6 reads: -17
+			Sensor 7 reads: -71
+			Sensor[0]: 58
+			Sensor[1]: -49
+			Sensor[2]: -35
+			Sensor[3]: 50
+			Sensor[4]: -20
+			Sensor[5]: -74
+			Sensor[6]: -17
+			Sensor[7]: -71
+			Largest diff: 58 - -74 = 132
+
+			Checking -74 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 209 >
+
+			Sensor 0 reads: 32
+			Sensor 1 reads: -13
+			Sensor 2 reads: 21
+			Sensor 4 reads: -78
+			Sensor 3 reads: -70
+			Sensor 5 reads: -83
+			Sensor 7 reads: 34
+			Sensor 6 reads: 39
+			Sensor[0]: 32
+			Sensor[1]: -13
+			Sensor[2]: 21
+			Sensor[3]: -70
+			Sensor[4]: -78
+			Sensor[5]: -83
+			Sensor[6]: 39
+			Sensor[7]: 34
+			Largest diff: 39 - -83 = 122
+
+			Checking -83 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		Largest diff this interval: 153
+
+	=== Interval 3 ===
+
+		< Minute 210 >
+
+			Sensor 0 reads: -46
+			Sensor 1 reads: -42
+			Sensor 2 reads: 68
+			Sensor 3 reads: 38
+			Sensor 4 reads: 45
+			Sensor 5 reads: 1
+			Sensor 6 reads: -36
+			Sensor 7 reads: -61
+			Sensor[0]: -46
+			Sensor[1]: -42
+			Sensor[2]: 68
+			Sensor[3]: 38
+			Sensor[4]: 45
+			Sensor[5]: 1
+			Sensor[6]: -36
+			Sensor[7]: -61
+			Largest diff: 68 - -61 = 129
+
+			Checking -61 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -95, -94, -91]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 211 >
+
+			Sensor 0 reads: -37
+			Sensor 1 reads: 44
+			Sensor 2 reads: 51
+			Sensor 3 reads: -28
+			Sensor 4 reads: 65
+			Sensor 6 reads: 42
+			Sensor 5 reads: -98
+			Sensor 7 reads: 41
+			Sensor[0]: -37
+			Sensor[1]: 44
+			Sensor[2]: 51
+			Sensor[3]: -28
+			Sensor[4]: 65
+			Sensor[5]: -98
+			Sensor[6]: 42
+			Sensor[7]: 41
+			Largest diff: 65 - -98 = 163
+
+			Checking -98 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -95, -94]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 212 >
+
+			Sensor 0 reads: 63
+			Sensor 1 reads: 9
+			Sensor 2 reads: 4
+			Sensor 3 reads: -87
+			Sensor 4 reads: 41
+			Sensor 5 reads: -11
+			Sensor 6 reads: -69
+			Sensor 7 reads: -51
+			Sensor[0]: 63
+			Sensor[1]: 9
+			Sensor[2]: 4
+			Sensor[3]: -87
+			Sensor[4]: 41
+			Sensor[5]: -11
+			Sensor[6]: -69
+			Sensor[7]: -51
+			Largest diff: 63 - -87 = 150
+
+			Checking -87 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -95, -94]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 213 >
+
+			Sensor 0 reads: -97
+			Sensor 1 reads: -28
+			Sensor 2 reads: -95
+			Sensor 3 reads: -3
+			Sensor 4 reads: 55
+			Sensor 5 reads: -24
+			Sensor 6 reads: 1
+			Sensor 7 reads: -73
+			Sensor[0]: -97
+			Sensor[1]: -28
+			Sensor[2]: -95
+			Sensor[3]: -3
+			Sensor[4]: 55
+			Sensor[5]: -24
+			Sensor[6]: 1
+			Sensor[7]: -73
+			Largest diff: 55 - -95 = 150
+
+			Checking -95 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -95, -94]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 214 >
+
+			Sensor 0 reads: -36
+			Sensor 1 reads: -91
+			Sensor 2 reads: -3
+			Sensor 3 reads: -90
+			Sensor 4 reads: -30
+			Sensor 5 reads: -1
+			Sensor 6 reads: 14
+			Sensor 7 reads: -46
+			Sensor[0]: -36
+			Sensor[1]: -91
+			Sensor[2]: -3
+			Sensor[3]: -90
+			Sensor[4]: -30
+			Sensor[5]: -1
+			Sensor[6]: 14
+			Sensor[7]: -46
+			Largest diff: 14 - -91 = 105
+
+			Checking -91 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -95, -94]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 215 >
+
+			Sensor 0 reads: -4
+			Sensor 1 reads: 43
+			Sensor 3 reads: -97
+			Sensor 2 reads: -81
+			Sensor 4 reads: 35
+			Sensor 5 reads: -95
+			Sensor 6 reads: -74
+			Sensor 7 reads: -86
+			Sensor[0]: -4
+			Sensor[1]: 43
+			Sensor[2]: -81
+			Sensor[3]: -97
+			Sensor[4]: 35
+			Sensor[5]: -95
+			Sensor[6]: -74
+			Sensor[7]: -86
+			Largest diff: 43 - -97 = 140
+
+			Checking -97 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -95]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 216 >
+
+			Sensor 0 reads: 8
+			Sensor 1 reads: 56
+			Sensor 2 reads: -31
+			Sensor 3 reads: 2
+			Sensor 4 reads: -86
+			Sensor 5 reads: 60
+			Sensor 6 reads: 58
+			Sensor 7 reads: 6
+			Sensor[0]: 8
+			Sensor[1]: 56
+			Sensor[2]: -31
+			Sensor[3]: 2
+			Sensor[4]: -86
+			Sensor[5]: 60
+			Sensor[6]: 58
+			Sensor[7]: 6
+			Largest diff: 60 - -86 = 146
+
+			Checking -86 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -95]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 217 >
+
+			Sensor 0 reads: 48
+			Sensor 1 reads: 2
+			Sensor 2 reads: 20
+			Sensor 3 reads: -24
+			Sensor 4 reads: 15
+			Sensor 5 reads: -61
+			Sensor 6 reads: -21
+			Sensor 7 reads: -60
+			Sensor[0]: 48
+			Sensor[1]: 2
+			Sensor[2]: 20
+			Sensor[3]: -24
+			Sensor[4]: 15
+			Sensor[5]: -61
+			Sensor[6]: -21
+			Sensor[7]: -60
+			Largest diff: 48 - -61 = 109
+
+			Checking -61 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -95]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 218 >
+
+			Sensor 0 reads: 55
+			Sensor 1 reads: -83
+			Sensor 2 reads: -43
+			Sensor 3 reads: 63
+			Sensor 4 reads: 3
+			Sensor 5 reads: 60
+			Sensor 7 reads: -22
+			Sensor 6 reads: -60
+			Sensor[0]: 55
+			Sensor[1]: -83
+			Sensor[2]: -43
+			Sensor[3]: 63
+			Sensor[4]: 3
+			Sensor[5]: 60
+			Sensor[6]: -60
+			Sensor[7]: -22
+			Largest diff: 63 - -83 = 146
+
+			Checking -83 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -95]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 219 >
+
+			Sensor 0 reads: -11
+			Sensor 1 reads: 17
+			Sensor 2 reads: -49
+			Sensor 3 reads: 3
+			Sensor 5 reads: 57
+			Sensor 6 reads: -56
+			Sensor 4 reads: -58
+			Sensor 7 reads: 38
+			Sensor[0]: -11
+			Sensor[1]: 17
+			Sensor[2]: -49
+			Sensor[3]: 3
+			Sensor[4]: -58
+			Sensor[5]: 57
+			Sensor[6]: -56
+			Sensor[7]: 38
+			Largest diff: 57 - -58 = 115
+
+			Checking -58 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -95]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		Largest diff this interval: 163
+
+	=== Interval 4 ===
+
+		< Minute 220 >
+
+			Sensor 0 reads: 54
+			Sensor 1 reads: 31
+			Sensor 2 reads: -78
+			Sensor 3 reads: 68
+			Sensor 4 reads: -83
+			Sensor 5 reads: -2
+			Sensor 6 reads: 1
+			Sensor 7 reads: -27
+			Sensor[0]: 54
+			Sensor[1]: 31
+			Sensor[2]: -78
+			Sensor[3]: 68
+			Sensor[4]: -83
+			Sensor[5]: -2
+			Sensor[6]: 1
+			Sensor[7]: -27
+			Largest diff: 68 - -83 = 151
+
+			Checking -83 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -95]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 221 >
+
+			Sensor 0 reads: -85
+			Sensor 1 reads: 28
+			Sensor 2 reads: -59
+			Sensor 3 reads: 15
+			Sensor 4 reads: 61
+			Sensor 5 reads: 8
+			Sensor 6 reads: -27
+			Sensor 7 reads: -83
+			Sensor[0]: -85
+			Sensor[1]: 28
+			Sensor[2]: -59
+			Sensor[3]: 15
+			Sensor[4]: 61
+			Sensor[5]: 8
+			Sensor[6]: -27
+			Sensor[7]: -83
+			Largest diff: 61 - -83 = 144
+
+			Checking -83 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -95]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 222 >
+
+			Sensor 0 reads: -31
+			Sensor 1 reads: -60
+			Sensor 2 reads: -71
+			Sensor 3 reads: -26
+			Sensor 4 reads: -79
+			Sensor 6 reads: 25
+			Sensor 5 reads: 47
+			Sensor 7 reads: -92
+			Sensor[0]: -31
+			Sensor[1]: -60
+			Sensor[2]: -71
+			Sensor[3]: -26
+			Sensor[4]: -79
+			Sensor[5]: 47
+			Sensor[6]: 25
+			Sensor[7]: -92
+			Largest diff: 47 - -92 = 139
+
+			Checking -92 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -95]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 223 >
+
+			Sensor 0 reads: -49
+			Sensor 1 reads: 25
+			Sensor 2 reads: 51
+			Sensor 3 reads: -96
+			Sensor 4 reads: 46
+			Sensor 5 reads: -76
+			Sensor 6 reads: 4
+			Sensor 7 reads: 46
+			Sensor[0]: -49
+			Sensor[1]: 25
+			Sensor[2]: 51
+			Sensor[3]: -96
+			Sensor[4]: 46
+			Sensor[5]: -76
+			Sensor[6]: 4
+			Sensor[7]: 46
+			Largest diff: 51 - -96 = 147
+
+			Checking -96 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 224 >
+
+			Sensor 0 reads: -87
+			Sensor 1 reads: 43
+			Sensor 3 reads: 6
+			Sensor 4 reads: 40
+			Sensor 2 reads: -41
+			Sensor 5 reads: 46
+			Sensor 6 reads: -97
+			Sensor 7 reads: 7
+			Sensor[0]: -87
+			Sensor[1]: 43
+			Sensor[2]: -41
+			Sensor[3]: 6
+			Sensor[4]: 40
+			Sensor[5]: 46
+			Sensor[6]: -97
+			Sensor[7]: 7
+			Largest diff: 46 - -97 = 143
+
+			Checking -97 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 225 >
+
+			Sensor 1 reads: 48
+			Sensor 2 reads: 50
+			Sensor 0 reads: -45
+			Sensor 3 reads: -25
+			Sensor 4 reads: -46
+			Sensor 5 reads: 26
+			Sensor 6 reads: 4
+			Sensor 7 reads: -67
+			Sensor[0]: -45
+			Sensor[1]: 48
+			Sensor[2]: 50
+			Sensor[3]: -25
+			Sensor[4]: -46
+			Sensor[5]: 26
+			Sensor[6]: 4
+			Sensor[7]: -67
+			Largest diff: 50 - -67 = 117
+
+			Checking -67 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 226 >
+
+			Sensor 0 reads: 39
+			Sensor 1 reads: -24
+			Sensor 3 reads: -79
+			Sensor 2 reads: 17
+			Sensor 5 reads: -62
+			Sensor 4 reads: 9
+			Sensor 6 reads: -90
+			Sensor 7 reads: -47
+			Sensor[0]: 39
+			Sensor[1]: -24
+			Sensor[2]: 17
+			Sensor[3]: -79
+			Sensor[4]: 9
+			Sensor[5]: -62
+			Sensor[6]: -90
+			Sensor[7]: -47
+			Largest diff: 39 - -90 = 129
+
+			Checking -90 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 227 >
+
+			Sensor 0 reads: -90
+			Sensor 1 reads: -59
+			Sensor 2 reads: 60
+			Sensor 3 reads: -74
+			Sensor 5 reads: -74
+			Sensor 4 reads: 33
+			Sensor 6 reads: 2
+			Sensor 7 reads: -94
+			Sensor[0]: -90
+			Sensor[1]: -59
+			Sensor[2]: 60
+			Sensor[3]: -74
+			Sensor[4]: 33
+			Sensor[5]: -74
+			Sensor[6]: 2
+			Sensor[7]: -94
+			Largest diff: 60 - -94 = 154
+
+			Checking -94 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 228 >
+
+			Sensor 0 reads: -21
+			Sensor 1 reads: 57
+			Sensor 2 reads: 37
+			Sensor 3 reads: -5
+			Sensor 4 reads: -89
+			Sensor 5 reads: -34
+			Sensor 6 reads: -53
+			Sensor 7 reads: -28
+			Sensor[0]: -21
+			Sensor[1]: 57
+			Sensor[2]: 37
+			Sensor[3]: -5
+			Sensor[4]: -89
+			Sensor[5]: -34
+			Sensor[6]: -53
+			Sensor[7]: -28
+			Largest diff: 57 - -89 = 146
+
+			Checking -89 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 229 >
+
+			Sensor 1 reads: 16
+			Sensor 0 reads: 48
+			Sensor 2 reads: -65
+			Sensor 4 reads: 13
+			Sensor 3 reads: -31
+			Sensor 6 reads: 31
+			Sensor 7 reads: -20
+			Sensor 5 reads: 48
+			Sensor[0]: 48
+			Sensor[1]: 16
+			Sensor[2]: -65
+			Sensor[3]: -31
+			Sensor[4]: 13
+			Sensor[5]: 48
+			Sensor[6]: 31
+			Sensor[7]: -20
+			Largest diff: 48 - -65 = 113
+
+			Checking -65 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		Largest diff this interval: 154
+
+	=== Interval 5 ===
+
+		< Minute 230 >
+
+			Sensor 0 reads: 42
+			Sensor 1 reads: -88
+			Sensor 2 reads: 9
+			Sensor 3 reads: 25
+			Sensor 4 reads: -68
+			Sensor 5 reads: 41
+			Sensor 7 reads: 15
+			Sensor 6 reads: -2
+			Sensor[0]: 42
+			Sensor[1]: -88
+			Sensor[2]: 9
+			Sensor[3]: 25
+			Sensor[4]: -68
+			Sensor[5]: 41
+			Sensor[6]: -2
+			Sensor[7]: 15
+			Largest diff: 42 - -88 = 130
+
+			Checking -88 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 231 >
+
+			Sensor 0 reads: 58
+			Sensor 1 reads: 69
+			Sensor 2 reads: 42
+			Sensor 3 reads: 66
+			Sensor 4 reads: 44
+			Sensor 5 reads: -17
+			Sensor 6 reads: 62
+			Sensor 7 reads: -77
+			Sensor[0]: 58
+			Sensor[1]: 69
+			Sensor[2]: 42
+			Sensor[3]: 66
+			Sensor[4]: 44
+			Sensor[5]: -17
+			Sensor[6]: 62
+			Sensor[7]: -77
+			Largest diff: 69 - -77 = 146
+
+			Checking -77 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 232 >
+
+			Sensor 0 reads: -95
+			Sensor 1 reads: -40
+			Sensor 2 reads: -62
+			Sensor 3 reads: -64
+			Sensor 4 reads: -29
+			Sensor 5 reads: 34
+			Sensor 6 reads: -75
+			Sensor 7 reads: 55
+			Sensor[0]: -95
+			Sensor[1]: -40
+			Sensor[2]: -62
+			Sensor[3]: -64
+			Sensor[4]: -29
+			Sensor[5]: 34
+			Sensor[6]: -75
+			Sensor[7]: 55
+			Largest diff: 55 - -75 = 130
+
+			Checking -75 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 233 >
+
+			Sensor 1 reads: -1
+			Sensor 0 reads: -96
+			Sensor 2 reads: -31
+			Sensor 3 reads: -57
+			Sensor 5 reads: 25
+			Sensor 4 reads: 17
+			Sensor 6 reads: -88
+			Sensor 7 reads: -83
+			Sensor[0]: -96
+			Sensor[1]: -1
+			Sensor[2]: -31
+			Sensor[3]: -57
+			Sensor[4]: 17
+			Sensor[5]: 25
+			Sensor[6]: -88
+			Sensor[7]: -83
+			Largest diff: 25 - -88 = 113
+
+			Checking -88 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 234 >
+
+			Sensor 0 reads: 20
+			Sensor 1 reads: 68
+			Sensor 2 reads: -19
+			Sensor 4 reads: 21
+			Sensor 3 reads: -41
+			Sensor 5 reads: -80
+			Sensor 6 reads: -97
+			Sensor 7 reads: -98
+			Sensor[0]: 20
+			Sensor[1]: 68
+			Sensor[2]: -19
+			Sensor[3]: -41
+			Sensor[4]: 21
+			Sensor[5]: -80
+			Sensor[6]: -97
+			Sensor[7]: -98
+			Largest diff: 68 - -98 = 166
+
+			Checking -98 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 235 >
+
+			Sensor 7 reads: -13
+			Sensor 1 reads: -90
+			Sensor 4 reads: -84
+			Sensor 3 reads: -75
+			Sensor 2 reads: 69
+			Sensor 0 reads: 53
+			Sensor 5 reads: -4
+			Sensor 6 reads: -35
+			Sensor[0]: 53
+			Sensor[1]: -90
+			Sensor[2]: 69
+			Sensor[3]: -75
+			Sensor[4]: -84
+			Sensor[5]: -4
+			Sensor[6]: -35
+			Sensor[7]: -13
+			Largest diff: 69 - -90 = 159
+
+			Checking -90 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[63, 65, 67, 68, 69]
+		< Minute 236 >
+
+			Sensor 0 reads: 47
+			Sensor 2 reads: 24
+			Sensor 4 reads: 66
+			Sensor 3 reads: -77
+			Sensor 1 reads: 4
+			Sensor 6 reads: -61
+			Sensor 5 reads: -65
+			Sensor 7 reads: 19
+			Sensor[0]: 47
+			Sensor[1]: 4
+			Sensor[2]: 24
+			Sensor[3]: -77
+			Sensor[4]: 66
+			Sensor[5]: -65
+			Sensor[6]: -61
+			Sensor[7]: 19
+			Largest diff: 66 - -77 = 143
+
+			Checking -77 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[65, 66, 67, 68, 69]
+		< Minute 237 >
+
+			Sensor 0 reads: -52
+			Sensor 2 reads: 53
+			Sensor 1 reads: 30
+			Sensor 3 reads: -50
+			Sensor 4 reads: 6
+			Sensor 5 reads: 5
+			Sensor 6 reads: 62
+			Sensor 7 reads: -77
+			Sensor[0]: -52
+			Sensor[1]: 30
+			Sensor[2]: 53
+			Sensor[3]: -50
+			Sensor[4]: 6
+			Sensor[5]: 5
+			Sensor[6]: 62
+			Sensor[7]: -77
+			Largest diff: 62 - -77 = 139
+
+			Checking -77 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[65, 66, 67, 68, 69]
+		< Minute 238 >
+
+			Sensor 0 reads: 52
+			Sensor 1 reads: -77
+			Sensor 3 reads: 31
+			Sensor 4 reads: -71
+			Sensor 6 reads: 25
+			Sensor 5 reads: -97
+			Sensor 7 reads: -95
+			Sensor 2 reads: -21
+			Sensor[0]: 52
+			Sensor[1]: -77
+			Sensor[2]: -21
+			Sensor[3]: 31
+			Sensor[4]: -71
+			Sensor[5]: -97
+			Sensor[6]: 25
+			Sensor[7]: -95
+			Largest diff: 52 - -97 = 149
+
+			Checking -97 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[65, 66, 67, 68, 69]
+		< Minute 239 >
+
+			Sensor 0 reads: 49
+			Sensor 1 reads: 33
+			Sensor 2 reads: -52
+			Sensor 3 reads: -53
+			Sensor 4 reads: -81
+			Sensor 5 reads: 26
+			Sensor 7 reads: 65
+			Sensor 6 reads: -5
+			Sensor[0]: 49
+			Sensor[1]: 33
+			Sensor[2]: -52
+			Sensor[3]: -53
+			Sensor[4]: -81
+			Sensor[5]: 26
+			Sensor[6]: -5
+			Sensor[7]: 65
+			Largest diff: 65 - -81 = 146
+
+			Checking -81 against 2147483647
+				Bottom 5 so far:
+				[-100, -99, -98, -97, -96]
+				Top 5 so far:
+				[65, 66, 67, 68, 69]
+		Largest diff this interval: 166
+
+	Interval with max diff this hour: 999
+

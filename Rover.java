@@ -105,10 +105,9 @@ public class Rover {
         int hoursPassed = 0;
 
         int tenMinInterval = 1; // What 10 min interval are we on?
-        // int maxTemp = Integer.MIN_VALUE;
-        // int minTemp = Integer.MAX_VALUE;
         int maxDiffThisInterval = Integer.MIN_VALUE;
         int maxDiffThisHour = Integer.MIN_VALUE;
+        int intervalWithMaxDiff = Integer.MIN_VALUE;
 
         TreeSet<Integer> minFive = new TreeSet<>();
         TreeSet<Integer> maxFive = new TreeSet<>();
@@ -138,7 +137,7 @@ public class Rover {
             if (DEBUGGING)
                 timePrinter.println("Sensors finished reading in " + (breakPoint - start) + " ms.");
 
-            // Find the max and min temps and the largest difference.
+            // Find the max and min temps for this minute.
             int maxTemp = Integer.MIN_VALUE;
             int minTemp = Integer.MAX_VALUE;
             for (int i = 0; i < SENSORS; i++) {
@@ -160,30 +159,10 @@ public class Rover {
             if (DEBUGGING) 
                 logPrinter.println("\t\t\tChecking " + minTemp + " against " + largestMin);
 
-            // Update top and bottom 5 if necessary.
-            // if (minFive.size() == 5 && minTemp < largestMin) {
-            //     minFive.add(minTemp);
-            //     minFive.remove(largestMin);
-            //     largestMin = minFive.last();
-            // }
-            // else if (minFive.size() < 5) {
-            //     minFive.add(minTemp);
-            //     largestMin = minFive.last();
-            // }
-
             // Add this minute's min temperature to the set.
             minFive.add(minTemp); 
             if (minFive.size() > 5)
                 minFive.remove(minFive.last()); // Remove the largest.
-
-            // if (maxTemp > smallestMax) {
-            //     maxFive.add(maxTemp);
-
-            //     if (maxFive.size() == 5)
-            //         maxFive.remove(smallestMax);
-
-            //     smallestMax = maxFive.first();
-            // }
 
             // Add this minute's max temperature to the set.
             maxFive.add(maxTemp);
@@ -207,8 +186,10 @@ public class Rover {
 
             // 10 minute interval.
             if (minsPassed % 10 == 0) {
-                if (maxDiffThisInterval > maxDiffThisHour)
+                if (maxDiffThisInterval > maxDiffThisHour) {
                     maxDiffThisHour = maxDiffThisInterval;
+                    intervalWithMaxDiff = ((minsPassed % 60) / TEN) + 1;
+                }
 
                 if (DEBUGGING) 
                     logPrinter.println("\t\tLargest diff this interval: " + maxDiffThisInterval + "\n");
@@ -219,8 +200,16 @@ public class Rover {
             }
 
             // 1 hour has passed.
-            if (minsPassed % 60 == 0) {
+            if ((minsPassed % MINS_PER_HOUR) == 0) {
                 // Generate the report.
+                reportPrinter.println("====== Hour " + (minsPassed / MINS_PER_HOUR) + ":");
+                reportPrinter.println("Top 5 highest temperatures:");
+                reportPrinter.println("\t" + maxFive);
+                reportPrinter.println("Top 5 lowest temperatures:");
+                reportPrinter.println("\t" + minFive);
+                reportPrinter.println("Interval " + intervalWithMaxDiff + " had the largest " + 
+                                        "temperature difference of " + maxDiffThisHour + ".\n");
+                reportPrinter.flush();
 
                 if (DEBUGGING) {
                     logPrinter.println("\tInterval with max diff this hour: " + 999 + "\n");
@@ -231,6 +220,8 @@ public class Rover {
                 // Reset the top and bottom 5 sets.
                 minFive.clear();
                 maxFive.clear();
+                System.out.println(minFive);
+                System.out.println(maxFive);
 
                 // Reset tracker for max diff this hour.
                 maxDiffThisHour = Integer.MIN_VALUE;
@@ -241,22 +232,6 @@ public class Rover {
             if (DEBUGGING)
                 timePrinter.println("Minute elapsed in " + (end - start) + " ms.");
         }
-
-        // Take readings and then wait for the current "minute" to end.
-        // long start = System.currentTimeMillis();
-        // for (int i = 1; i <= SENSORS; i++) {
-        //     sensors.submit(new ReadTemperatures());
-        // }
-        // long breakPoint = System.currentTimeMillis();
-
-        // finish(MINUTE - (breakPoint - start));
-
-        // Find max and min readings.
-        // sensors.submit(new FindMaxesAndMins());
-
-        long end = System.currentTimeMillis();
-
-        // if (DEBUGGING) timePrinter.println("took readings in " + (end - start) + " ms");
     }
 
     // Wait for threads to finish some task.
