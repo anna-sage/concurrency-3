@@ -8,6 +8,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.concurrent.CountDownLatch;
 
 public class Rover {
 
@@ -32,7 +33,6 @@ public class Rover {
     private Random randTemp; // Generates random temperatures.
     private int [] temps; // Temperature reading storage.
     // private int [] tempDiffs; // Temperature differences for 10 min interval.
-    private AtomicInteger idGiver;
     ThreadLocal<Integer> myId;
 
     // Output generators.
@@ -52,8 +52,6 @@ public class Rover {
 
         randTemp = new Random(0);
         temps = new int [SENSORS];
-        // tempDiffs = new int [MINS_PER_HOUR / TEN];
-        idGiver = new AtomicInteger(0);
         myId = new ThreadLocal<>();
 
         printerError = false;
@@ -67,44 +65,34 @@ public class Rover {
         }
     }
 
-    // Assigns a sensor a unique ID.
-    class SetMyId implements Runnable {
-        public void run() {
-            int id = idGiver.getAndIncrement();
-            myId.set(id);
-            if (DEBUGGING) logPrinter.println("Sensor obtained ID " + myId.get());
+    // Assign unique IDs to sensors.
+    private void assignSensorIds() {
+        AtomicInteger idGiver = new AtomicInteger(0);
+
+        CountDownLatch needsId = new CountDownLatch(SENSORS);
+        for (int i = 0; i < SENSORS; i++) {
+            sensors[i].submit(() -> {
+                myId.set(idGiver.getAndIncrement());
+                needsId.countDown();
+            });
+        }
+
+        // Ensure all threads finish obtaining IDs.
+        try {
+            needsId.await();
+        }
+        catch (InterruptedException e) {
+            Thread.currentThread().interrupt();
+            e.printStackTrace();
         }
     }
 
-    // Take a temperature reading for the current minute.
-    class ReadTemperatures implements Runnable {
-        public void run() {
-            int reading = randTemp.nextInt(HIGHTEMP - LOWTEMP + 1) + LOWTEMP;
-            if (DEBUGGING) logPrinter.println("\t\t\tSensor " + myId.get() + " reads: " + reading);
-            temps[myId.get()] = reading;
-        }
-    }
 
-    // Starts sensors on their tasks.
-    public void beginSensors() {
-        for (int i = 0; i < SENSORS; i++) {
-            sensors[i].submit(new SetMyId());
-        }
-
-        finish(60);
-
-        // Collect temperature reading tasks to assign.
-        ReadTemperatures [] readingTasks = new ReadTemperatures [SENSORS];
-        for (int i = 0; i < SENSORS; i++) {
-            readingTasks[i] = new ReadTemperatures();
-        }
-
-        // Let the rover collect readings for 24 hours.
+    // Mars rover takes readings over a 24 hour period.
+    public void takeReadings() {
         int minsPassed = 0;
-        int intervalsPassed = 0;
-        int hoursPassed = 0;
+        int intervalsPassed = 0; // Reset at the beginning of each hour.
 
-        int tenMinInterval = 1; // What 10 min interval are we on?
         int maxDiffThisInterval = Integer.MIN_VALUE;
         int maxDiffThisHour = Integer.MIN_VALUE;
         int intervalWithMaxDiff = Integer.MIN_VALUE;
@@ -115,25 +103,32 @@ public class Rover {
         int smallestMax = Integer.MIN_VALUE; // Smallest value in max set.
 
         while (minsPassed < MINS_PER_DAY) {
-            // Debugging log.
-            if (DEBUGGING) {
-                if (minsPassed % 60 == 0) {
-                    logPrinter.println("====== Hour " + hoursPassed + " ======\n");
-                }
+            if (DEBUGGING) logPrinter.println("\nMinute " + (minsPassed + 1));
 
-                if (minsPassed % 10 == 0) {
-                    logPrinter.println("\t=== Interval " + (intervalsPassed % 6) + " ===\n");
-                }
-
-                logPrinter.println("\t\t< Minute " + minsPassed + " >\n");
-            }
             // Take readings and wait for sensors to finish recording them.
             long start = System.currentTimeMillis();
+            CountDownLatch sensorsReading = new CountDownLatch(SENSORS);
             for (int i = 0; i < SENSORS; i++) {
-                sensors[i].submit(readingTasks[i]);
+                sensors[i].submit(() -> {
+                    int reading = randTemp.nextInt(HIGHTEMP - LOWTEMP + 1) + LOWTEMP;
+                    if (DEBUGGING) logPrinter.println("\t\t\tSensor " + myId.get() + " reads: " + reading);
+                    temps[myId.get()] = reading;
+
+                    // Sensor signifies that it's done.
+                    sensorsReading.countDown();
+                });
             }
+
+            // Wait for threads to finish reading.
+            try {
+                sensorsReading.await();
+            }
+            catch (InterruptedException e) {
+                Thread.currentThread().interrupt();
+                e.printStackTrace();
+            }
+
             long breakPoint = System.currentTimeMillis();
-            finish(MINUTE - (breakPoint - start)); 
             if (DEBUGGING)
                 timePrinter.println("Sensors finished reading in " + (breakPoint - start) + " ms.");
 
@@ -141,9 +136,6 @@ public class Rover {
             int maxTemp = Integer.MIN_VALUE;
             int minTemp = Integer.MAX_VALUE;
             for (int i = 0; i < SENSORS; i++) {
-                if (DEBUGGING) {
-                    logPrinter.println("\t\t\tSensor[" + i + "]: " + temps[i]);
-                }
                 if (temps[i] > maxTemp) {
                     maxTemp = temps[i];
                 }
@@ -156,9 +148,6 @@ public class Rover {
                 logPrinter.println("\t\t\tLargest diff: " + maxTemp + 
                                     " - " + minTemp + " = " + (maxTemp - minTemp) + "\n");
 
-            if (DEBUGGING) 
-                logPrinter.println("\t\t\tChecking " + minTemp + " against " + largestMin);
-
             // Add this minute's min temperature to the set.
             minFive.add(minTemp); 
             if (minFive.size() > 5)
@@ -169,15 +158,6 @@ public class Rover {
             if (maxFive.size() > 5)
                 maxFive.remove(maxFive.first()); // Remove the smallest.
 
-            if (DEBUGGING) {
-                logPrinter.println("\t\t\t\tBottom 5 so far:");
-                logPrinter.print("\t\t\t\t");
-                logPrinter.println(minFive);
-                logPrinter.println("\t\t\t\tTop 5 so far:");
-                logPrinter.print("\t\t\t\t");
-                logPrinter.println(maxFive);
-            }
-
             // Is this temperature difference the largest we've seen this hour?
             if ((maxTemp - minTemp) > maxDiffThisInterval)
                 maxDiffThisInterval = maxTemp - minTemp;
@@ -186,23 +166,27 @@ public class Rover {
 
             // 10 minute interval.
             if (minsPassed % 10 == 0) {
+                intervalsPassed++;
+
                 if (maxDiffThisInterval > maxDiffThisHour) {
                     maxDiffThisHour = maxDiffThisInterval;
-                    intervalWithMaxDiff = ((minsPassed % 60) / TEN) + 1;
+                    intervalWithMaxDiff = intervalsPassed;
                 }
 
-                if (DEBUGGING) 
-                    logPrinter.println("\t\tLargest diff this interval: " + maxDiffThisInterval + "\n");
+                // Debugging log.
+                if (DEBUGGING) {
+                    logPrinter.println("\nInterval " + intervalsPassed + " passed:");
+                    logPrinter.println("\tLargest diff this interval: " + maxDiffThisInterval + "\n");
+                }
 
                 // Reset the max diff seen this interval.
                 maxDiffThisInterval = Integer.MIN_VALUE;
-                intervalsPassed++;
             }
 
             // 1 hour has passed.
             if ((minsPassed % MINS_PER_HOUR) == 0) {
                 // Generate the report.
-                reportPrinter.println("====== Hour " + (minsPassed / MINS_PER_HOUR) + ":");
+                reportPrinter.println("Hour " + (minsPassed / MINS_PER_HOUR) + ":");
                 reportPrinter.println("Top 5 highest temperatures:");
                 reportPrinter.println("\t" + maxFive);
                 reportPrinter.println("Top 5 lowest temperatures:");
@@ -211,8 +195,10 @@ public class Rover {
                                         "temperature difference of " + maxDiffThisHour + ".\n");
                 reportPrinter.flush();
 
+                // Debug log and flush debug printers.
                 if (DEBUGGING) {
-                    logPrinter.println("\tInterval with max diff this hour: " + 999 + "\n");
+                    logPrinter.println("\nHour " + (minsPassed / MINS_PER_HOUR) + " passed\n");
+
                     logPrinter.flush();
                     timePrinter.flush();
                 }
@@ -220,29 +206,15 @@ public class Rover {
                 // Reset the top and bottom 5 sets.
                 minFive.clear();
                 maxFive.clear();
-                System.out.println(minFive);
-                System.out.println(maxFive);
 
-                // Reset tracker for max diff this hour.
+                // Reset trackers for max diff this hour and amount of intervals.
                 maxDiffThisHour = Integer.MIN_VALUE;
-                hoursPassed++;
+                intervalsPassed = 0;
             }
 
             long end = System.currentTimeMillis();
             if (DEBUGGING)
                 timePrinter.println("Minute elapsed in " + (end - start) + " ms.");
-        }
-    }
-
-    // Wait for threads to finish some task.
-    public void finish(long millisToWait) {
-        for (int i = 0; i < SENSORS; i++) {
-            try {
-                sensors[i].awaitTermination(millisToWait, TimeUnit.MILLISECONDS);
-            }
-            catch (Exception e) {
-                sensors[i].shutdownNow();
-            }
         }
     }
 
@@ -252,7 +224,8 @@ public class Rover {
 
         if (!r.printerError) {
             long start = System.nanoTime();
-            r.beginSensors();
+            r.assignSensorIds();
+            r.takeReadings();
             for (int i = 0; i < SENSORS; i++) {
                 r.sensors[i].shutdown();
 
