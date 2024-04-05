@@ -216,6 +216,8 @@ public class PresentList
         }
         long end = System.nanoTime();
 
+        System.out.println("Problem 1 completed in " + ((end - start) / NANO_TO_SEC) + " seconds.");
+
         if (DEBUGGING) {
             // Verify that all presents were processed.
             System.out.println("Amount of presents processed: " + p.processed.size());
