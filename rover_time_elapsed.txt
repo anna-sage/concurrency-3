@@ -1,251 +1,13 @@
 Sensors finished reading in 0 ms.
-Minute elapsed in 82 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 62 ms.
+Minute elapsed in 71 ms.
 Sensors finished reading in 1 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 66 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 65 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
@@ -259,7 +21,13 @@ Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
@@ -267,6 +35,18 @@ Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
@@ -301,44 +81,30 @@ Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 1 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
@@ -347,13 +113,7 @@ Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
@@ -368,64 +128,16 @@ Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 1 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
@@ -440,6 +152,22 @@ Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
@@ -453,18 +181,6 @@ Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
@@ -474,24 +190,12 @@ Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 65 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
@@ -518,6 +222,30 @@ Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 63 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
@@ -526,6 +254,424 @@ Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 62 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 63 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 62 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 62 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 62 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 1 ms.
@@ -541,6 +687,118 @@ Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 62 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
@@ -553,6 +811,334 @@ Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 62 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 62 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 62 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
@@ -563,6 +1149,42 @@ Minute elapsed in 60 ms.
 Sensors finished reading in 1 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 62 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
@@ -575,7 +1197,105 @@ Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
+Minute elapsed in 62 ms.
+Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 62 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 1 ms.
@@ -589,9 +1309,9 @@ Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
+Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
+Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
@@ -603,22 +1323,6 @@ Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
@@ -628,16 +1332,6 @@ Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
@@ -655,7 +1349,49 @@ Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
@@ -665,6 +1401,60 @@ Minute elapsed in 60 ms.
 Sensors finished reading in 1 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 63 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
@@ -680,12 +1470,48 @@ Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
 Sensors finished reading in 1 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
+Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
@@ -693,159 +1519,47 @@ Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
+Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 1 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 64 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 65 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
@@ -875,122 +1589,22 @@ Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 60 ms.
+Sensors finished reading in 0 ms.
+Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 64 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
@@ -1015,46 +1629,6 @@ Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
@@ -1064,88 +1638,6 @@ Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 63 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
@@ -1159,165 +1651,7 @@ Minute elapsed in 60 ms.
 Sensors finished reading in 1 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 62 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 65 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
@@ -1331,44 +1665,6 @@ Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
@@ -1376,182 +1672,6 @@ Sensors finished reading in 1 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 63 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
@@ -1561,475 +1681,11 @@ Minute elapsed in 65 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 62 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 62 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
@@ -2037,27 +1693,9 @@ Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 62 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
@@ -2097,755 +1735,47 @@ Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 87 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 62 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 63 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 84 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 63 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 63 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.
-Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
@@ -2863,17 +1793,7 @@ Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
 Minute elapsed in 61 ms.
 Sensors finished reading in 0 ms.
 Minute elapsed in 60 ms.
 Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 0 ms.
-Minute elapsed in 60 ms.
-Sensors finished reading in 1 ms.

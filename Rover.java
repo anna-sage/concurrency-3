@@ -3,6 +3,7 @@
 import java.io.PrintWriter;
 import java.io.File;
 import java.util.Random;
+import java.util.TreeSet;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
@@ -98,9 +99,18 @@ public class Rover {
         int minsPassed = 0;
         int intervalsPassed = 0;
         int hoursPassed = 0;
+
         int tenMinInterval = 1; // What 10 min interval are we on?
+        // int maxTemp = Integer.MIN_VALUE;
+        // int minTemp = Integer.MAX_VALUE;
         int maxDiffThisInterval = Integer.MIN_VALUE;
         int maxDiffThisHour = Integer.MIN_VALUE;
+
+        TreeSet<Integer> minFive = new TreeSet<>();
+        TreeSet<Integer> maxFive = new TreeSet<>();
+        int largestMin = Integer.MAX_VALUE; // Largest value in min set.
+        int smallestMax = Integer.MIN_VALUE; // Smallest value in max set.
+
         while (minsPassed < MINS_PER_DAY) {
             // Debugging log.
             if (DEBUGGING) {
@@ -124,10 +134,13 @@ public class Rover {
             if (DEBUGGING)
                 timePrinter.println("Sensors finished reading in " + (breakPoint - start) + " ms.");
 
-            // Find the largest difference.
+            // Find the max and min temps and the largest difference.
             int maxTemp = Integer.MIN_VALUE;
             int minTemp = Integer.MAX_VALUE;
             for (int i = 0; i < SENSORS; i++) {
+                if (DEBUGGING) {
+                    logPrinter.println("\t\t\tSensor[" + i + "]: " + temps[i]);
+                }
                 if (temps[i] > maxTemp) {
                     maxTemp = temps[i];
                 }
@@ -139,6 +152,30 @@ public class Rover {
             if (DEBUGGING) 
                 logPrinter.println("\t\t\tLargest diff: " + maxTemp + 
                                     " - " + minTemp + " = " + (maxTemp - minTemp) + "\n");
+
+            if (DEBUGGING) 
+                logPrinter.println("\t\t\tChecking " + minTemp + " against " + largestMin);
+
+            // Update top and bottom 5 if necessary.
+            if (minTemp < largestMin) {
+                if (minFive.size() == 5) {
+                    minFive.remove(largestMin);
+                    minFive.add(minTemp);
+                    // Set largestMin to the largest in the set.
+                    largestMin = minFive.last();
+                    logPrinter.println("largestMin is now " + largestMin);
+                }
+            }
+
+            if (maxTemp > smallestMax) {
+                if (maxFive.size() == 5) {
+                    maxFive.remove(smallestMax);
+                    maxFive.add(maxTemp);
+                    // Set smallestMax to the smallest in the set.
+                    smallestMax = maxFive.first();
+                    logPrinter.println("smallestMax is now " + smallestMax);
+                }
+            }
 
             // Is this temperature difference the largest we've seen this hour?
             if ((maxTemp - minTemp) > maxDiffThisInterval)
@@ -168,6 +205,10 @@ public class Rover {
                     logPrinter.flush();
                     timePrinter.flush();
                 }
+
+                // Reset the top and bottom 5 sets.
+                minFive.clear();
+                maxFive.clear();
 
                 // Reset tracker for max diff this hour.
                 maxDiffThisHour = Integer.MIN_VALUE;
