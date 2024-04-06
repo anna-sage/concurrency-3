@@ -26,7 +26,7 @@ public class PresentList {
     private boolean usingPrinter;
 
     // Fields to assist in debugging.
-    private static final boolean DEBUGGING = true;
+    private static final boolean DEBUGGING = false;
     public ArrayList<Integer> processed;
 
     public PresentList() {
@@ -251,6 +251,15 @@ public class PresentList {
                         System.out.println(i + " was never processed.");
                 }
             }
+
+            // Another sanity check. Sentinel nodes should be the only ones remaining.
+            System.out.println("Should be empty list with only sentinels:");
+            PNode cur = p.head;
+            while (cur != null) {
+                System.out.print(cur.id + " --> ");
+                cur = cur.next;
+            }
+            System.out.println();
         }
     }
 }
