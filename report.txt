@@ -16,7 +16,7 @@ Hour 3:
 Top 5 highest temperatures:
 	[65, 67, 68, 69, 70]
 Top 5 lowest temperatures:
-	[-100, -99, -97, -95, -94]
+	[-100, -99, -97, -96, -95]
 Interval 3 had the largest temperature difference of 167.
 
 Hour 4:
@@ -24,13 +24,13 @@ Top 5 highest temperatures:
 	[65, 66, 67, 68, 69]
 Top 5 lowest temperatures:
 	[-100, -99, -98, -97, -96]
-Interval 2 had the largest temperature difference of 166.
+Interval 3 had the largest temperature difference of 168.
 
 Hour 5:
 Top 5 highest temperatures:
 	[65, 66, 68, 69, 70]
 Top 5 lowest temperatures:
-	[-100, -99, -97, -96, -95]
+	[-100, -97, -96, -95, -94]
 Interval 1 had the largest temperature difference of 170.
 
 Hour 6:
@@ -80,7 +80,7 @@ Top 5 highest temperatures:
 	[66, 67, 68, 69, 70]
 Top 5 lowest temperatures:
 	[-100, -99, -98, -97, -96]
-Interval 5 had the largest temperature difference of 168.
+Interval 1 had the largest temperature difference of 170.
 
 Hour 13:
 Top 5 highest temperatures:
@@ -114,14 +114,14 @@ Hour 17:
 Top 5 highest temperatures:
 	[65, 66, 67, 68, 70]
 Top 5 lowest temperatures:
-	[-100, -99, -98, -97, -96]
+	[-99, -98, -97, -96, -95]
 Interval 3 had the largest temperature difference of 168.
 
 Hour 18:
 Top 5 highest temperatures:
 	[65, 66, 67, 68, 69]
 Top 5 lowest temperatures:
-	[-100, -99, -98, -97, -96]
+	[-100, -99, -98, -97, -95]
 Interval 6 had the largest temperature difference of 168.
 
 Hour 19:
@@ -150,7 +150,7 @@ Top 5 highest temperatures:
 	[66, 67, 68, 69, 70]
 Top 5 lowest temperatures:
 	[-100, -99, -98, -97, -96]
-Interval 5 had the largest temperature difference of 165.
+Interval 2 had the largest temperature difference of 164.
 
 Hour 23:
 Top 5 highest temperatures:

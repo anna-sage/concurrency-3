@@ -10,6 +10,8 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.CountDownLatch;
 
+import java.lang.Thread;
+
 public class Rover {
 
     // Constants.
@@ -20,6 +22,10 @@ public class Rover {
     public final int MINS_PER_INTERVAL = 10;
     public final int MINS_PER_HOUR = 60;
     public final int MINS_PER_DAY = 1440;
+
+    // For the purposes of this simulation, a "minute" is 60 ms.
+    public final int MINUTE = 60;
+    public final boolean SIMULATING = true;
 
     // Fields for making and processing readings.
     private ExecutorService [] sensors;
@@ -104,13 +110,26 @@ public class Rover {
     // Mars rover takes readings over a 24 hour period.
     public void takeReadings() {
         while (minsPassed < MINS_PER_DAY) {
-            long start = System.nanoTime();
+            long start = System.currentTimeMillis();
             tasksForCurrentMinute();
-            long end = System.nanoTime();
+            long end = System.currentTimeMillis();
 
             if (DEBUGGING)
                 timePrinter.println("Tasks for current minute completed in " + 
-                                    (end - start) + " nanoseconds.");
+                                    (end - start) + " milliseconds.");
+
+            // If we are simulating taking readings, wait for the current minute to end.
+            if (SIMULATING) {
+                // Ensure we don't wait for a negative amount of time.
+                long sleepTime = (MINUTE - (end - start)) < 1 ? 1 : (MINUTE - (end - start));
+
+                try {
+                    Thread.sleep(sleepTime);
+                }
+                catch (InterruptedException e) {
+                    System.out.println("Thread.sleep threw an exception " + e);
+                }
+            }
         }
     }
 
