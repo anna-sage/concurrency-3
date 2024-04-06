@@ -26,8 +26,33 @@ public class PresentList {
     private boolean usingPrinter;
 
     // Fields to assist in debugging.
-    private static final boolean DEBUGGING = false;
+    private static final boolean DEBUGGING = true;
     public HashSet<Integer> processed;
+
+    public PresentList() {
+        // Generate sentinel nodes (do not represent presents in the list).
+        tail = new PNode(Integer.MAX_VALUE, null);
+        head = new PNode(Integer.MIN_VALUE, tail);
+
+        // Fill the present bag with all the presents.
+        presentBag = new ArrayList<>();
+        for (int i = 1; i <= PRESENTS; i++)
+            presentBag.add(i);
+
+        usingPrinter = true;
+        try {
+            printer = new PrintWriter(new File("./present_list_log.txt"));
+        }
+        catch (Exception e) {
+            usingPrinter = false;
+        }
+
+        // For debugging and proof of correctness.
+        // Set keeps track of which presents have been added and deleted.
+        if (DEBUGGING) processed = new HashSet<>();
+
+        servants = Executors.newFixedThreadPool(SERVANTS);
+    }
 
     // Task for servants to repeat.
     class ServantsTask implements Runnable {
@@ -60,32 +85,6 @@ public class PresentList {
         }
     }
 
-    public PresentList() 
-    {
-        // Generate sentinel nodes (do not represent presents in the list).
-        tail = new PNode(PRESENTS + 2, null);
-        head = new PNode(PRESENTS + 1, tail);
-
-        // Fill the present bag with all the presents.
-        presentBag = new ArrayList<>();
-        for (int i = 1; i <= PRESENTS; i++)
-            presentBag.add(i);
-
-        usingPrinter = true;
-        try {
-            printer = new PrintWriter(new File("./present_list_log.txt"));
-        }
-        catch (Exception e) {
-            usingPrinter = false;
-        }
-
-        // For debugging and proof of correctness.
-        // Set keeps track of which presents have been added and deleted.
-        if (DEBUGGING) processed = new HashSet<>();
-
-        servants = Executors.newFixedThreadPool(SERVANTS);
-    }
-
     // Begin thread processes.
     public void beginServants() {
         for (int i = 1; i <= SERVANTS; i++) {
@@ -105,11 +104,6 @@ public class PresentList {
         int idx = rand.nextInt(presentBag.size());
         int retVal = presentBag.remove(idx);
         return retVal;
-    }
-
-    // Ensure that pred and cur exist, and that pred in fact points to cur.
-    private boolean validate(PNode pred, PNode cur) {
-        return !pred.isDeleted && !cur.isDeleted && pred.next == cur;
     }
 
     // Add a present to the list of presents to be processed.
@@ -174,6 +168,28 @@ public class PresentList {
         }
     }
 
+    // Checks whether the given present is in the list.
+    // Technically not necessary for this implementation.
+    public boolean contains(int pres) {
+        PNode cur = null;
+        head.lock();
+        try {
+            cur = head;
+            while (cur.id < pres) {
+                cur.unlock();
+                cur = cur.next;
+                cur.lock();
+            }
+            if (cur.id == pres)
+                return true;
+            else
+                return false;
+        }
+        finally {
+            cur.unlock();
+        }
+    }
+
     // Node representing a single present.
     private class PNode {
         // Fields:
@@ -207,7 +223,9 @@ public class PresentList {
         p.beginServants();
         p.servants.shutdown();
         try {
-            if (!p.servants.awaitTermination(60, TimeUnit.SECONDS))
+            // Generous wait time in the very slim change the PrintWriter
+            // throws an exception and outputs rely on the slower System.out.println operation.
+            if (!p.servants.awaitTermination(360, TimeUnit.SECONDS))
                 p.servants.shutdownNow();
         }
         catch (Exception e) {
