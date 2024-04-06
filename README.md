@@ -6,7 +6,7 @@ Implementation of assignment 3 for COP 4520
 
 ### How to run:
 - Make sure you have navigated to the directory storing all the java files for this assignment.
-- To compile and run: at the command line, type "javac PresentList.java && java PresentList" and press enter.
+- To compile and run: at the command line, type "javac PresentList.java && java PresentList" and press enter. <br>
 Output:
 - Console output: runtime.
 - present_list_log.txt: (VERY LONG) prints each addition to and removal from the list.
@@ -32,8 +32,9 @@ To ensure correctness, I used a debugging ArrayList to track which presents were
 
 ### How to run:
 - Make sure you have navigated to the directory storing all the java files for this assignment.
-- To compile and run: at the command line, type "javac Rover.java && java Rover" and press enter.
+- To compile and run: at the command line, type "javac Rover.java && java Rover" and press enter. <br>
 Output:
+- Console output: None for this problem! Please check the generated txt files for outputs.
 - report.txt: Displays the hourly reports over the course of a single day of readings.
 - logs directory: rover_debug_log.txt stores a more detailed log of sensor activity and tracked values over the course of all the readings. rover_time_elapsed.txt stores a log of how long the tasks for each minute take. These output logs can be disabled by setting DEBUGGING to false in the Rover class.
 
@@ -53,4 +54,4 @@ This execution is fairly straightforward. Deadlocking does not occur since there
 ### Experimental Evaluation
 This program prints additional logs beyond the required hourly reports. The in-depth log, rover_debug_log.txt, records readings and the largest difference observed for each minute. I compared these logs against the results in the reports to verify accuracy.
 
-This program also prints additional information about how long both readings and subsequent evaluations take. The requirements specify that these operations cannot take longer than a minute. Based on the output in rover_time_elapsed.txt, this implementation's runtime is well within that threshold, never exceeding 60 milliseconds.
+This program also prints additional information about how long both readings and subsequent evaluations take. The requirements specify that these operations cannot take longer than a minute. Based on the output in rover_time_elapsed.txt, this implementation's runtime is well within that threshold, never exceeding 60 milliseconds on my machine.
