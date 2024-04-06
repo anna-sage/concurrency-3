@@ -50,7 +50,7 @@ public class PresentList {
                     }
                 }
                 else {
-                    // If adding fails, just toss the present back in the bag!.
+                    // If adding fails, just toss the present back in the bag.
                     presentBag.add(pres);
                 }
 
