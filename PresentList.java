@@ -27,7 +27,7 @@ public class PresentList {
 
     // Fields to assist in debugging.
     private static final boolean DEBUGGING = true;
-    public HashSet<Integer> processed;
+    public ArrayList<Integer> processed;
 
     public PresentList() {
         // Generate sentinel nodes (do not represent presents in the list).
@@ -49,7 +49,7 @@ public class PresentList {
 
         // For debugging and proof of correctness.
         // Set keeps track of which presents have been added and deleted.
-        if (DEBUGGING) processed = new HashSet<>();
+        processed = new ArrayList<>();
 
         servants = Executors.newFixedThreadPool(SERVANTS);
     }
@@ -237,10 +237,17 @@ public class PresentList {
 
         if (DEBUGGING) {
             // Output to verify that all presents were processed.
-            System.out.println("Amount of presents processed: " + p.processed.size());
-            if (p.processed.size() < PRESENTS) {
+            int amtProcessed = p.processed.size();
+            System.out.println("Amount of presents processed: " + amtProcessed);
+
+            // Make sure there were no duplicates processed.
+            HashSet<Integer> dupeChecker = new HashSet<>(p.processed);
+            if (dupeChecker.size() < amtProcessed)
+                System.out.println("Oh no... duplicates were processed");
+
+            if (amtProcessed < PRESENTS) {
                 for (int i = 1; i <= PRESENTS; i++) {
-                    if (!p.processed.contains(i))
+                    if (!dupeChecker.contains(i))
                         System.out.println(i + " was never processed.");
                 }
             }
