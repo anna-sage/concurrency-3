@@ -30,7 +30,7 @@ To ensure correctness, I used a debugging ArrayList to track which presents were
 ## Problem 2: Atmospheric Temperature Reading Module
 8 sensors (threads) must take temperature readings and store those readings in a shared data structure for the current minute. A report must be generated after every 60 minutes that includes information about the readings.
 
-Note: Simulation mode is enabled by default. This means, after taking readings, the program will wait for the current "minute" (represented as 60 ms in this implementation) to end before taking more readings. To disable simulation mode, set the boolean SIMULATING to false.
+!!! Note: Simulation mode is enabled by default. This means, after taking readings, the program will wait for the current "minute" (represented as 60 ms in this implementation) to end before taking more readings. This will cause the runtime to be a bit longer. To disable simulation mode for faster report generation, set the boolean SIMULATING to false.
 
 ### How to run:
 - Make sure you have navigated to the directory storing all the java files for this assignment.

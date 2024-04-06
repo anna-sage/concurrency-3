@@ -1,3 +1,5 @@
+// Author: Anna MacInnis
+
 // List of presents to be accessed concurrently by the minotaur's servants.
 
 import java.io.PrintWriter;
@@ -9,6 +11,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.concurrent.TimeUnit;
+import java.lang.Thread;
 
 public class PresentList {
     // Constants.

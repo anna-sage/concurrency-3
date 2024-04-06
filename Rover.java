@@ -1,4 +1,7 @@
-// Responsible for taking temperature readings.
+// Author: Anna MacInnis
+
+// Responsible for taking temperature readings every minute
+// and generating hourly reports.
 
 import java.io.PrintWriter;
 import java.io.File;
